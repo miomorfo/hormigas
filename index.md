@@ -2,7 +2,6 @@
 layout: default
 title: Inicio
 nav_order: 1
-permalink: /
 ---
 
 # 🐜 Mirmecología — Guía para Criadores
