@@ -92,6 +92,7 @@ Orden: Hymenoptera
 
 - [📊 Tabla comparativa de especies](comparativa.md) — todas las especies en una tabla para elegir cuál criar
 - [📖 Glosario de mirmecología](glosario.md) — términos técnicos usados en las fichas
+- [🔬 Taxonomía y pronunciación](taxonomia.md) — cómo se clasifican y nombran las hormigas
 
 ---
 
