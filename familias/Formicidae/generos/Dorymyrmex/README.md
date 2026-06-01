@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dorymyrmex
-nav_order: 10
+nav_order: 16
 has_children: true
 ---
 

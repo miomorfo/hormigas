@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Camponotus
-nav_order: 4
+nav_order: 10
 has_children: true
 ---
 

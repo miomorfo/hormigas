@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Monomorium
-nav_order: 6
+nav_order: 12
 has_children: true
 ---
 

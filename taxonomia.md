@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Taxonomía
-nav_order: 4
+nav_order: 3
 ---
 
 # Introducción a la taxonomía de hormigas
