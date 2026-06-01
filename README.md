@@ -33,7 +33,7 @@ Orden: Hymenoptera
         │
         └── Género: Pogonomyrmex ───────────────────────────────────────────────────────────
             └── P. maulensis     · Chile endémica (Región del Maule) · ⭐⭐ Intermedio
-
+    │
     └── Subfamilia: Dolichoderinae
         └── Género: Dorymyrmex ─────────────────────────────────────────────────────────────
             └── D. pogonius      · Chile endémica (R. Metro–Ñuble)   · ⭐⭐ Intermedio
