@@ -24,8 +24,11 @@ Orden: Hymenoptera
         ├── Género: Monomorium  ────────────────────────────────────────────────────────────
         │   └── M. cekalovici    · Chile endémica (Valparaíso–O'Higgins) · ⭐⭐ Intermedio
         │
-        └── Género: Messor  ────────────────────────────────────────────────────────────────
-            └── M. barbarus      · Mediterráneo (España, N. África) · ⭐ Principiante
+        ├── Género: Messor  ────────────────────────────────────────────────────────────────
+        │   └── M. barbarus      · Mediterráneo (España, N. África) · ⭐ Principiante
+        │
+        └── Género: Acanthomyrmex ──────────────────────────────────────────────────────────
+            └── (especie por determinar) · Sudeste Asiático          · 🔴 Experto
 ```
 
 ---
@@ -48,6 +51,7 @@ Orden: Hymenoptera
 |---------|--------|-------------|-------------|-------------|-------|
 | *Monomorium cekalovici* | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/cekalovici.md) |
 | *Messor barbarus* | Mediterráneo | 14–17 mm | ~10,000 | ✅ Sí | [→](familias/Formicidae/generos/Messor/especies/barbarus.md) |
+| [*Acanthomyrmex*](familias/Formicidae/generos/Acanthomyrmex/README.md) | Sudeste Asiático | 7–9 mm | ~300 | No | (especie por determinar) |
 
 ---
 
