@@ -114,7 +114,7 @@ La picadura de *Pogonomyrmex* es **extremadamente dolorosa** — puede causar:
 
 | Criterio | Valoración |
 |----------|-----------|
-| Dificultad general | 🔴 Experto |
+| Dificultad general | ⭐⭐ Intermedio |
 | Velocidad de crecimiento | Desconocida |
 | Resistencia | Desconocida |
 | Espectacularidad | 🌟🌟🌟 (coloración rojiza, especie rarísima) |

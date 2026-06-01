@@ -32,7 +32,7 @@ Orden: Hymenoptera
         │   └── (especie por determinar) · Sudeste Asiático          · 🔴 Experto
         │
         └── Género: Pogonomyrmex ───────────────────────────────────────────────────────────
-            └── P. maulensis     · Chile endémica (Región del Maule) · 🔴 Experto
+            └── P. maulensis     · Chile endémica (Región del Maule) · ⭐⭐ Intermedio
 ```
 
 ---
