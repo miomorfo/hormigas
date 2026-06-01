@@ -16,8 +16,9 @@ Formicidae es la única familia dentro del orden Hymenoptera que comprende a tod
 
 | Subfamilia | Características destacadas | Géneros documentados |
 |------------|---------------------------|----------------------|
-| [Formicinae](generos/) | Glándula metapleural ausente, ácido fórmico | Camponotus |
+| [Formicinae](generos/) | Glándula metapleural ausente, ácido fórmico | Camponotus, Brachymyrmex |
 
 ## Géneros documentados
 
 - [Camponotus](generos/Camponotus/README.md) — Hormigas carpinteras
+- [Brachymyrmex](generos/Brachymyrmex/README.md) — Hormigas mieleras diminutas

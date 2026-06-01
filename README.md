@@ -22,6 +22,7 @@ hormigas/
 | Género | Subfamilia | Especies documentadas |
 |--------|------------|----------------------|
 | [Camponotus](familias/Formicidae/generos/Camponotus/README.md) | Formicinae | [C. nicobarensis](familias/Formicidae/generos/Camponotus/especies/nicobarensis.md), [C. chilensis](familias/Formicidae/generos/Camponotus/especies/chilensis.md), [C. morosus](familias/Formicidae/generos/Camponotus/especies/morosus.md) |
+| [Brachymyrmex](familias/Formicidae/generos/Brachymyrmex/README.md) | Formicinae | [B. giardii](familias/Formicidae/generos/Brachymyrmex/especies/giardii.md) |
 
 ## Campos documentados por especie
 
