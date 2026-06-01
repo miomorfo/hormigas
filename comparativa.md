@@ -33,23 +33,45 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 ## Filtros rápidos
 
 ### Solo quiero semillas (sin insectos obligatorios)
-- *Messor barbarus* ⭐
-- *Pogonomyrmex maulensis* ⭐⭐
-- *Acanthomyrmex* sp. 🔴
+- *Messor barbarus*
+- *Pogonomyrmex maulensis*
+- *Acanthomyrmex* sp.
 
 ### Sin hibernación
-- *Camponotus nicobarensis* ⭐
+- *Camponotus nicobarensis*
 - *Camponotus fedtschenkoi* (solo diapausa corta 6–8 semanas)
-- *Acanthomyrmex* sp. 🔴
+- *Acanthomyrmex* sp.
 
 ### Especies nativas de Chile
-- *C. chilensis*, *C. morosus*, *B. giardii*, *M. cekalovici*, *M. latastei*, *P. maulensis*, *D. pogonius*
+- *C. chilensis*
+- *C. morosus*
+- *B. giardii*
+- *M. cekalovici*
+- *M. latastei*
+- *P. maulensis*
+- *D. pogonius*
 
-### Colonias grandes (>5,000 obreras)
+### Colonias grandes (>2,000 obreras)
 - *C. nicobarensis* (~10,000)
+- *C. fedtschenkoi* (~4,000)
 - *M. barbarus* (~10,000)
+- *P. maulensis* (~2,000–3,000)
+- *C. morosus* (~2,000)
+- *D. pogonius* (~5,000)
 
 ### Polimorfismo espectacular
 - *C. fedtschenkoi* (obreras translúcidas → soldados cabeza negra)
+- *C. nicobarensis* (3 castas bien diferenciadas, coloración rojiza)
 - *M. barbarus* (soldados cabeza roja enorme)
 - *Acanthomyrmex* sp. (cabeza 10× el volumen de la obrera)
+- *B. giardii* (obreras mieleras con gáster distendido)
+
+### Crecimiento rápido
+- *M. barbarus*
+- *C. nicobarensis*
+
+### Crecimiento lento
+- *C. chilensis*
+- *C. morosus*
+- *C. fedtschenkoi*
+- *Acanthomyrmex* sp.
