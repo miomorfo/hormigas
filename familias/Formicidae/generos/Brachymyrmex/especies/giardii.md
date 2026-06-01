@@ -116,7 +116,7 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 
 ## Errores comunes
 
-1. **Usar miel no certificada** → colonias tan pequeñas son especialmente vulnerables a trazas de pesticidas.
+1. **Usar miel convencional sin certificación** → colonias tan pequeñas son especialmente vulnerables a trazas de pesticidas. Preferir agua azucarada.
 2. **Nido demasiado húmedo** → el suelo arcilloso debe estar húmedo pero no encharcado.
 3. **Perturbaciones frecuentes** → tienden a relocalizarse si se sienten inseguras; evitar mover el nido.
 4. **Confundir las mieleras con reinas enfermas** → el gáster distendido es normal en esta casta.

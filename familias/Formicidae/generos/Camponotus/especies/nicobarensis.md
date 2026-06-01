@@ -49,9 +49,10 @@ parent: Camponotus
 - Huevo duro cocido (ocasional)
 
 ### Azúcares (ad libitum o cada 2–3 días)
-- Miel diluida al 30–50% en agua — **usar exclusivamente miel ecológica certificada (ej. sello EU Organic, USDA Organic o equivalente), libre de pesticidas y antibióticos. La miel convencional puede contener residuos de pesticidas sistémicos (neonicotinoides, glifosato) que son letales para las hormigas incluso en trazas mínimas.**
+- Agua azucarada al 30% (30 g azúcar en 100 ml agua hervida) — opción principal, segura y siempre disponible
 - Néctar artificial (solución de azúcar + vitaminas)
 - Frutas dulces (plátano, mango) en pequeñas cantidades
+- Miel ecológica certificada diluida (opcional — solo si se tiene certeza de que está libre de pesticidas)
 
 ### Agua
 - Siempre disponible. Usar algodón húmedo o bebedero con piedras para evitar ahogamientos en colonias pequeñas.
@@ -169,7 +170,7 @@ Los soldados aparecen generalmente cuando la colonia supera las **200–300 obre
 
 ## Errores comunes
 
-1. **Usar miel no certificada** → la miel convencional puede contener residuos de pesticidas que matan la colonia silenciosamente. Usar siempre miel ecológica certificada.
+1. **Usar miel convencional sin certificación** → puede contener pesticidas letales. Preferir agua azucarada como fuente de carbohidratos.
 2. **Sobrealimentar proteínas** en colonias pequeñas → genera hongos y estrés.
 2. **Temperatura demasiado baja** → la reina deja de poner, las larvas no se desarrollan.
 3. **Molestar el nido constantemente** → la reina puede canibalizar la puesta.

@@ -51,9 +51,10 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 - Las larvas y la reina requieren proteínas para crecer y reproducirse; las obreras adultas pueden subsistir solo con azúcares
 
 ### Azúcares (disponible constantemente)
-- Miel diluida al 30–50% en agua — **usar exclusivamente miel ecológica certificada (sello EU Organic, USDA Organic o equivalente), libre de pesticidas y antibióticos. Residuos de neonicotinoides o glifosato en miel convencional pueden ser letales incluso en trazas mínimas.**
+- Agua azucarada al 30% (30 g azúcar en 100 ml agua hervida) — opción principal, segura y siempre disponible
 - Néctar artificial
 - Agua azucarada diluida
+- Miel ecológica certificada diluida (opcional — solo si se tiene certeza de que está libre de pesticidas)
 
 ### Ajuste estacional de dieta
 
@@ -165,7 +166,7 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 
 ## Errores comunes
 
-1. **Usar miel no certificada** → residuos de pesticidas pueden matar la colonia. Usar siempre miel ecológica certificada.
+1. **Usar miel convencional sin certificación** → puede contener pesticidas letales. Preferir agua azucarada como fuente de carbohidratos.
 2. **Nido demasiado grande al inicio** → las feromonas de la reina no alcanzan a todas las obreras y pueden abandonarla.
 3. **Hibernación demasiado fría o larga** → no necesita hibernación profunda; 15–18 °C por 6–8 semanas es suficiente.
 4. **Bajar temperatura bruscamente** → bajar 0.5 °C cada dos días para evitar estrés y mortalidad.

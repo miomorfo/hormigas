@@ -58,8 +58,9 @@ Especie **altamente polimorfa** con una de las variaciones de tamaño más extre
 - Útil para acelerar el crecimiento del brood en colonias establecidas
 
 ### Azúcares (opcional, 1–2 veces por semana)
-- Miel diluida al 30–50% en agua — **usar exclusivamente miel ecológica certificada (sello EU Organic, USDA Organic o equivalente), libre de pesticidas y antibióticos. Residuos de neonicotinoides o glifosato en miel convencional pueden ser letales incluso en trazas mínimas.**
+- Agua azucarada al 30% — opción principal, segura y siempre disponible
 - Néctar artificial
+- Miel ecológica certificada diluida (opcional — solo si se tiene certeza de que está libre de pesticidas)
 
 ### Agua
 - Siempre disponible. Bebedero con algodón húmedo.
@@ -174,7 +175,7 @@ Especie de **crecimiento rápido** comparada con *Camponotus* — una de las má
 
 ## Errores comunes
 
-1. **Usar miel no certificada** → residuos de pesticidas pueden matar la colonia. Usar siempre miel ecológica certificada.
+1. **Usar miel convencional sin certificación** → puede contener pesticidas letales. Preferir agua azucarada como fuente de carbohidratos.
 2. **Granero húmedo** → las semillas germinan dentro del nido, generando hongos y estrés. Mantener el granero seco.
 3. **Omitir la hibernación** → sin diapausa la reina se agota prematuramente y acorta su vida.
 4. **Temperatura demasiado baja fuera de hibernación** → ralentiza el crecimiento y la puesta.

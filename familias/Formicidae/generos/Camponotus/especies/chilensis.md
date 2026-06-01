@@ -53,9 +53,10 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 - Arácnidos pequeños
 
 ### Azúcares (cada 2–3 días)
-- Miel diluida al 30–50% en agua — **usar exclusivamente miel ecológica certificada (sello EU Organic, USDA Organic o equivalente), libre de pesticidas y antibióticos. Residuos de neonicotinoides o glifosato presentes en miel convencional pueden ser letales incluso en trazas mínimas.**
+- Agua azucarada al 30% (30 g azúcar en 100 ml agua hervida) — opción principal, segura y siempre disponible
 - Néctar artificial (solución de azúcar + vitaminas)
 - Frutas dulces en pequeñas cantidades
+- Miel ecológica certificada diluida (opcional — solo si se tiene certeza de que está libre de pesticidas)
 
 ### Agua
 - Siempre disponible. Bebedero con algodón húmedo o piedras para evitar ahogamientos.
@@ -143,7 +144,7 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 
 ## Errores comunes
 
-1. **Usar miel no certificada** → residuos de pesticidas pueden matar la colonia silenciosamente. Usar siempre miel ecológica certificada.
+1. **Usar miel convencional sin certificación** → puede contener pesticidas letales. Preferir agua azucarada como fuente de carbohidratos.
 2. **Omitir la hibernación** → sin diapausa la reina puede dejar de poner y la colonia se estanca.
 3. **Temperatura demasiado alta en invierno** → interrumpe el ciclo natural de la especie.
 4. **Sobrealimentar proteínas** en colonias pequeñas → genera hongos y estrés.

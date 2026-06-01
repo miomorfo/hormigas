@@ -53,9 +53,10 @@ La biología de esta especie es poco conocida. Basado en el comportamiento típi
 - Trozos de grillo o cucaracha pequeña
 
 ### Azúcares (cada 2–3 días)
-- Miel diluida al 30–50% en agua — **usar exclusivamente miel ecológica certificada (sello EU Organic, USDA Organic o equivalente), libre de pesticidas y antibióticos. Los residuos de neonicotinoides o glifosato en miel convencional pueden ser letales para colonias pequeñas.**
+- Agua azucarada al 30% — opción principal, segura y siempre disponible
 - Néctar artificial
 - Agua azucarada diluida
+- Miel ecológica certificada diluida (opcional — solo si se tiene certeza de que está libre de pesticidas)
 
 ### Agua
 - Siempre disponible en bebedero con algodón húmedo.

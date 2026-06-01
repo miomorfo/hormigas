@@ -61,9 +61,10 @@ Se ha observado también forrajeo sobre **carroña de bovino** (transportando re
 - Preferir presas blandas para colonias jóvenes
 
 ### En cautiverio — Azúcares (cada 2–3 días)
-- Miel diluida al 30–50% en agua — **usar exclusivamente miel ecológica certificada (sello EU Organic, USDA Organic o equivalente), libre de pesticidas y antibióticos. Residuos de neonicotinoides o glifosato presentes en miel convencional pueden ser letales incluso en trazas mínimas.**
+- Agua azucarada al 30% (30 g azúcar en 100 ml agua hervida) — opción principal, segura y siempre disponible
 - Néctar artificial (solución de azúcar + vitaminas)
 - Frutas dulces en pequeñas cantidades
+- Miel ecológica certificada diluida (opcional — solo si se tiene certeza de que está libre de pesticidas)
 
 ### Agua
 - Siempre disponible. Bebedero con algodón húmedo o piedras para evitar ahogamientos.
@@ -160,7 +161,7 @@ Se ha observado también forrajeo sobre **carroña de bovino** (transportando re
 
 ## Errores comunes
 
-1. **Usar miel no certificada** → residuos de pesticidas pueden matar la colonia silenciosamente. Usar siempre miel ecológica certificada.
+1. **Usar miel convencional sin certificación** → puede contener pesticidas letales. Preferir agua azucarada como fuente de carbohidratos.
 2. **Omitir la hibernación** → sin diapausa la reina puede dejar de poner y la colonia se estanca o colapsa.
 3. **Subestimar la agresividad** → no mezclar colonias ni colocar dos colonias en el mismo outworld.
 4. **Sobrealimentar proteínas** en colonias pequeñas → genera hongos y estrés.

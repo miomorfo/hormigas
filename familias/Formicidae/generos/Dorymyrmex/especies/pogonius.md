@@ -72,9 +72,10 @@ Basado en el comportamiento típico del género *Dorymyrmex* (omnívoro):
 - Carroña de artrópodos
 
 ### Azúcares (cada 2–3 días)
-- Miel diluida al 30–50% en agua — **usar exclusivamente miel ecológica certificada, libre de pesticidas y antibióticos.**
+- Agua azucarada al 30% — opción principal, segura y siempre disponible
 - Néctar artificial
 - Melaza de pulgones (en naturaleza)
+- Miel ecológica certificada diluida (opcional — solo si se tiene certeza de que está libre de pesticidas)
 
 ### Agua
 - Siempre disponible. Bebedero con algodón húmedo.
