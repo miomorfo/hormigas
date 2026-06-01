@@ -22,7 +22,8 @@ Orden: Hymenoptera
     │
     └── Subfamilia: Myrmicinae
         ├── Género: Monomorium  ────────────────────────────────────────────────────────────
-        │   └── M. cekalovici    · Chile endémica (Valparaíso–O'Higgins) · ⭐⭐ Intermedio
+        │   ├── M. cekalovici    · Chile endémica (Valparaíso–O'Higgins)      · ⭐⭐ Intermedio
+        │   └── M. latastei      · Chile endémica (R. Metro–La Araucanía)     · ⭐⭐ Intermedio
         │
         ├── Género: Messor  ────────────────────────────────────────────────────────────────
         │   └── M. barbarus      · Mediterráneo (España, N. África) · ⭐ Principiante
@@ -50,6 +51,7 @@ Orden: Hymenoptera
 | Especie | Origen | Tamaño reina | Colonia máx. | Hibernación | Ficha |
 |---------|--------|-------------|-------------|-------------|-------|
 | *Monomorium cekalovici* | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/cekalovici.md) |
+| *Monomorium latastei* | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/latastei.md) |
 | *Messor barbarus* | Mediterráneo | 14–17 mm | ~10,000 | ✅ Sí | [→](familias/Formicidae/generos/Messor/especies/barbarus.md) |
 | [*Acanthomyrmex*](familias/Formicidae/generos/Acanthomyrmex/README.md) | Sudeste Asiático | 7–9 mm | ~300 | No | (especie por determinar) |
 

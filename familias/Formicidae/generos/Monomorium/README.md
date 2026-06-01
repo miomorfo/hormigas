@@ -27,3 +27,4 @@ Género grande y diverso de la subfamilia Myrmicinae con ~297 especies descritas
 | Especie | Distribución en Chile | Ficha |
 |---------|----------------------|-------|
 | *M. cekalovici* | Valparaíso a O'Higgins (endémica) | [Ver ficha](especies/cekalovici.md) |
+| *M. latastei* | R. Metropolitana a La Araucanía (endémica) | [Ver ficha](especies/latastei.md) |
