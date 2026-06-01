@@ -21,19 +21,19 @@ Orden: Hymenoptera
     │       └── B. giardii       · Chile (Coquimbo–Los Lagos)      · ⭐⭐ Intermedio
     │
     └── Subfamilia: Myrmicinae
-        ├── Género: Monomorium  ────────────────────────────────────────────────────────────
-        │   ├── M. cekalovici    · Chile endémica (Valparaíso–O'Higgins)      · ⭐⭐ Intermedio
-        │   └── M. latastei      · Chile endémica (R. Metro–La Araucanía)     · ⭐⭐ Intermedio
-        │
-        ├── Género: Messor  ────────────────────────────────────────────────────────────────
-        │   └── M. barbarus      · Mediterráneo (España, N. África) · ⭐ Principiante
-        │
-        ├── Género: Acanthomyrmex ──────────────────────────────────────────────────────────
-        │   └── (especie por determinar) · Sudeste Asiático          · 🔴 Experto
-        │
-        └── Género: Pogonomyrmex ───────────────────────────────────────────────────────────
-            └── P. maulensis     · Chile endémica (Región del Maule) · ⭐⭐ Intermedio
-    │
+    │   ├── Género: Monomorium  ────────────────────────────────────────────────────────────
+    │   │   ├── M. cekalovici    · Chile endémica (Valparaíso–O'Higgins)      · ⭐⭐ Intermedio
+    │   │   └── M. latastei      · Chile endémica (R. Metro–La Araucanía)     · ⭐⭐ Intermedio
+    │   │
+    │   ├── Género: Messor  ────────────────────────────────────────────────────────────────
+    │   │   └── M. barbarus      · Mediterráneo (España, N. África) · ⭐ Principiante
+    │   │
+    │   ├── Género: Acanthomyrmex ──────────────────────────────────────────────────────────
+    │   │   └── (especie por determinar) · Sudeste Asiático          · 🔴 Experto
+    │   │
+    │   └── Género: Pogonomyrmex ───────────────────────────────────────────────────────────
+    │        └── P. maulensis     · Chile endémica (Región del Maule) · ⭐⭐ Intermedio
+    │ 
     └── Subfamilia: Dolichoderinae
         └── Género: Dorymyrmex ─────────────────────────────────────────────────────────────
             └── D. pogonius      · Chile endémica (R. Metro–Ñuble)   · ⭐⭐ Intermedio
