@@ -1,3 +1,9 @@
+---
+layout: default
+title: M. barbarus
+parent: Messor
+---
+
 [Formicidae](../../../README.md) > [Messor](../README.md) > barbarus
 
 # *Messor barbarus* — Ficha de especie

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Brachymyrmex
+nav_order: 5
+has_children: true
+---
+
 # Género: Brachymyrmex
 
 Género de hormigas diminutas de la subfamilia Formicinae, con distribución principalmente neotropical. A pesar de su pequeño tamaño y aparente simplicidad morfológica, presentan comportamientos fascinantes como las obreras "mieleras" y asociaciones parabióticas con especies de *Camponotus*.

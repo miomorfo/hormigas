@@ -1,3 +1,9 @@
+---
+layout: default
+title: M. latastei
+parent: Monomorium
+---
+
 [Formicidae](../../../README.md) > [Monomorium](../README.md) > latastei
 
 # *Monomorium latastei* — Ficha de especie

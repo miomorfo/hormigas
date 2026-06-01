@@ -1,3 +1,9 @@
+---
+layout: default
+title: C. chilensis
+parent: Camponotus
+---
+
 [Formicidae](../../../README.md) > [Camponotus](../README.md) > chilensis
 
 # *Camponotus chilensis* — Ficha de especie

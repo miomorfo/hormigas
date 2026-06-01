@@ -1,3 +1,9 @@
+---
+layout: default
+title: Tabla comparativa
+nav_order: 2
+---
+
 # Tabla comparativa de especies
 
 Resumen rápido de todas las especies documentadas para elegir cuál criar según tu experiencia y condiciones.

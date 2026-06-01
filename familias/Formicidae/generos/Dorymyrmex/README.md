@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dorymyrmex
+nav_order: 10
+has_children: true
+---
+
 # Género: Dorymyrmex
 
 Género de hormigas de la subfamilia Dolichoderinae, exclusivo del continente americano. Son hormigas de suelo muy comunes en hábitats secos y abiertos, reconocibles por el característico diente o columna en el ángulo propodeal y su psamóforo.

@@ -1,3 +1,9 @@
+---
+layout: default
+title: C. nicobarensis
+parent: Camponotus
+---
+
 [Formicidae](../../../README.md) > [Camponotus](../README.md) > nicobarensis
 
 # *Camponotus nicobarensis* — Ficha de especie

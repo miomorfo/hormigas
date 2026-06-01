@@ -1,3 +1,10 @@
+---
+layout: default
+title: Pogonomyrmex
+nav_order: 9
+has_children: true
+---
+
 # Género: Pogonomyrmex
 
 Género de hormigas cosechadoras del Nuevo Mundo, conocidas por recolectar y almacenar semillas, construir nidos profundos en zonas áridas y poseer una de las picaduras más dolorosas entre los insectos.

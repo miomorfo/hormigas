@@ -1,3 +1,9 @@
+---
+layout: default
+title: M. cekalovici
+parent: Monomorium
+---
+
 [Formicidae](../../../README.md) > [Monomorium](../README.md) > cekalovici
 
 # *Monomorium cekalovici* — Ficha de especie

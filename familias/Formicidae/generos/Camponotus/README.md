@@ -1,3 +1,10 @@
+---
+layout: default
+title: Camponotus
+nav_order: 4
+has_children: true
+---
+
 # Género: Camponotus
 
 Conocidas popularmente como **hormigas carpinteras**, *Camponotus* es uno de los géneros más grandes de Formicidae con más de 1,000 especies descritas. Son ampliamente populares en mirmecología por su gran tamaño, polimorfismo marcado y relativa facilidad de cría.

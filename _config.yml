@@ -1,0 +1,21 @@
+title: Mirmecología — Guía para Criadores
+description: Repositorio de referencia sobre hormigas con datos útiles para la cría en cautiverio
+theme: just-the-docs
+url: ""
+baseurl: "/hormigas"
+
+color_scheme: dark
+
+search_enabled: true
+search.heading_level: 3
+
+nav_sort: case_insensitive
+
+footer_content: "© Fernando Escobar Barraza · CC BY-NC-ND 4.0"
+
+aux_links:
+  "GitHub":
+    - "https://github.com/fernandoescobarbarraza/hormigas"
+
+back_to_top: true
+back_to_top_text: "Volver arriba"

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Messor
+nav_order: 7
+has_children: true
+---
+
 # Género: Messor
 
 Género de hormigas granívoras ("cosechadoras") de la subfamilia Myrmicinae, altamente adaptadas a climas áridos y semiáridos. Son famosas por recolectar y almacenar semillas en cámaras especiales del nido llamadas graneros, y por su marcado polimorfismo con soldados de cabeza enorme.

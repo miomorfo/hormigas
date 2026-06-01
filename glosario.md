@@ -1,3 +1,9 @@
+---
+layout: default
+title: Glosario
+nav_order: 3
+---
+
 # Glosario de mirmecología
 
 Términos técnicos usados en las fichas de este repositorio.

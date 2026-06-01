@@ -1,3 +1,10 @@
+---
+layout: default
+title: Acanthomyrmex
+nav_order: 8
+has_children: true
+---
+
 # Género: Acanthomyrmex
 
 > **Hormiga espinosa del Sudeste Asiático** · Para criadores expertos · Colonias pequeñas con biología fascinante

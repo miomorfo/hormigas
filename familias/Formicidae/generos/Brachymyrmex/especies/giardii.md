@@ -1,3 +1,9 @@
+---
+layout: default
+title: B. giardii
+parent: Brachymyrmex
+---
+
 [Formicidae](../../../README.md) > [Brachymyrmex](../README.md) > giardii
 
 # *Brachymyrmex giardii* — Ficha de especie

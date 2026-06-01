@@ -1,3 +1,10 @@
+---
+layout: default
+title: Monomorium
+nav_order: 6
+has_children: true
+---
+
 # Género: Monomorium
 
 Género grande y diverso de la subfamilia Myrmicinae con ~297 especies descritas. Incluye algunas de las hormigas vagabundas más exitosas del mundo (*M. pharaonis*) y varias especies endémicas de Chile.

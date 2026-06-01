@@ -1,3 +1,9 @@
+---
+layout: default
+title: C. fedtschenkoi
+parent: Camponotus
+---
+
 [Formicidae](../../../README.md) > [Camponotus](../README.md) > fedtschenkoi
 
 # *Camponotus fedtschenkoi* — Ficha de especie

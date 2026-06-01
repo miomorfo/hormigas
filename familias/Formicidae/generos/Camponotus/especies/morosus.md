@@ -1,3 +1,9 @@
+---
+layout: default
+title: C. morosus
+parent: Camponotus
+---
+
 [Formicidae](../../../README.md) > [Camponotus](../README.md) > morosus
 
 # *Camponotus morosus* — Ficha de especie

@@ -1,3 +1,9 @@
+---
+layout: default
+title: D. pogonius
+parent: Dorymyrmex
+---
+
 [Formicidae](../../../README.md) > [Dorymyrmex](../README.md) > pogonius
 
 # *Dorymyrmex pogonius* — Ficha de especie

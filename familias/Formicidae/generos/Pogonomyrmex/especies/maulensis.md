@@ -1,3 +1,9 @@
+---
+layout: default
+title: P. maulensis
+parent: Pogonomyrmex
+---
+
 [Formicidae](../../../README.md) > [Pogonomyrmex](../README.md) > maulensis
 
 # *Pogonomyrmex maulensis* — Ficha de especie
