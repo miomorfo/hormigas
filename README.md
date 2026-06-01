@@ -28,8 +28,11 @@ Orden: Hymenoptera
         ├── Género: Messor  ────────────────────────────────────────────────────────────────
         │   └── M. barbarus      · Mediterráneo (España, N. África) · ⭐ Principiante
         │
-        └── Género: Acanthomyrmex ──────────────────────────────────────────────────────────
-            └── (especie por determinar) · Sudeste Asiático          · 🔴 Experto
+        ├── Género: Acanthomyrmex ──────────────────────────────────────────────────────────
+        │   └── (especie por determinar) · Sudeste Asiático          · 🔴 Experto
+        │
+        └── Género: Pogonomyrmex ───────────────────────────────────────────────────────────
+            └── P. maulensis     · Chile endémica (Región del Maule) · 🔴 Experto
 ```
 
 ---
@@ -53,7 +56,8 @@ Orden: Hymenoptera
 | *Monomorium cekalovici* | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/cekalovici.md) |
 | *Monomorium latastei* | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/latastei.md) |
 | *Messor barbarus* | Mediterráneo | 14–17 mm | ~10,000 | ✅ Sí | [→](familias/Formicidae/generos/Messor/especies/barbarus.md) |
-| [*Acanthomyrmex*](familias/Formicidae/generos/Acanthomyrmex/README.md) | Sudeste Asiático | 7–9 mm | ~300 | No | (especie por determinar) |
+| *Acanthomyrmex* | Sudeste Asiático | 7–9 mm | ~300 | No | (especie por determinar) |
+| [*Pogonomyrmex maulensis*](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) | Chile endémica (Maule) | — | ~2,000–3,000 | ✅ Sí | [→](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) |
 
 ---
 

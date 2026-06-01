@@ -17,7 +17,7 @@ Formicidae es la única familia dentro del orden Hymenoptera que comprende a tod
 | Subfamilia | Características destacadas | Géneros documentados |
 |------------|---------------------------|----------------------|
 | [Formicinae](generos/) | Glándula metapleural ausente, ácido fórmico | Camponotus, Brachymyrmex |
-| Myrmicinae | Dos nodos peciolares, aguijón funcional | Monomorium, Messor, Acanthomyrmex |
+| Myrmicinae | Dos nodos peciolares, aguijón funcional | Monomorium, Messor, Acanthomyrmex, Pogonomyrmex |
 
 ## Géneros documentados
 
@@ -26,3 +26,4 @@ Formicidae es la única familia dentro del orden Hymenoptera que comprende a tod
 - [Monomorium](generos/Monomorium/README.md) — Hormigas pequeñas generalistas
 - [Messor](generos/Messor/README.md) — Hormigas cosechadoras granívoras
 - [Acanthomyrmex](generos/Acanthomyrmex/README.md) — Hormigas espinosas del Sudeste Asiático
+- [Pogonomyrmex](generos/Pogonomyrmex/README.md) — Hormigas cosechadoras del Nuevo Mundo
