@@ -1,3 +1,5 @@
+[Formicidae](../../../README.md) > [Messor](../README.md) > barbarus
+
 # *Messor barbarus* — Ficha de especie
 
 > **Hormiga cosechadora mediterránea** · La especie granívora más popular en mirmecología, ideal para principiantes

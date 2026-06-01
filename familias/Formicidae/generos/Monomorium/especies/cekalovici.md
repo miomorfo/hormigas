@@ -1,3 +1,5 @@
+[Formicidae](../../../README.md) > [Monomorium](../README.md) > cekalovici
+
 # *Monomorium cekalovici* — Ficha de especie
 
 > **Hormiga endémica de Chile central** · Especie poco estudiada, distribución restringida

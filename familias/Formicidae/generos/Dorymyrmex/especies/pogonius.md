@@ -1,3 +1,5 @@
+[Formicidae](../../../README.md) > [Dorymyrmex](../README.md) > pogonius
+
 # *Dorymyrmex pogonius* — Ficha de especie
 
 > **Hormiga de suelo endémica de Chile central** · Especie poco estudiada · Sin aguijón

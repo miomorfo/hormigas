@@ -1,3 +1,5 @@
+[Formicidae](../../../README.md) > [Brachymyrmex](../README.md) > giardii
+
 # *Brachymyrmex giardii* — Ficha de especie
 
 > **Hormiga mielera chilena** · Especie nativa con obreras "repletas" almacenadoras de líquido
@@ -6,7 +8,7 @@
 
 ## Clasificación
 
-| Campo | Valor |
+| Dato | Valor |
 |-------|-------|
 | Familia | Formicidae |
 | Subfamilia | Formicinae |

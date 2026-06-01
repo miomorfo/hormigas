@@ -1,3 +1,5 @@
+[Formicidae](../../../README.md) > [Monomorium](../README.md) > latastei
+
 # *Monomorium latastei* — Ficha de especie
 
 > **Hormiga naranja endémica de Chile central** · Especie poco estudiada, distribución restringida

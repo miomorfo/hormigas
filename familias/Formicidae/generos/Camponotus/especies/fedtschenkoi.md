@@ -1,3 +1,5 @@
+[Formicidae](../../../README.md) > [Camponotus](../README.md) > fedtschenkoi
+
 # *Camponotus fedtschenkoi* — Ficha de especie
 
 > **Hormiga carpintera dorada** · Especie asiática popular por su coloración espectacular y fácil manejo

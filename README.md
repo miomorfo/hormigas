@@ -1,5 +1,7 @@
 # 🐜 Mirmecología — Guía para Criadores
 
+![Especies](https://img.shields.io/badge/especies-11-green) ![Géneros](https://img.shields.io/badge/géneros-7-blue) ![Subfamilias](https://img.shields.io/badge/subfamilias-3-orange) ![Licencia](https://img.shields.io/badge/licencia-CC%20BY--NC--ND%204.0-lightgrey)
+
 Repositorio de referencia sobre hormigas con datos útiles para la cría en cautiverio: alimentación, polimorfismo, tamaño de colonia, temperatura, hibernación y más.
 
 ---

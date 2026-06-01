@@ -1,3 +1,5 @@
+[Formicidae](../../../README.md) > [Pogonomyrmex](../README.md) > maulensis
+
 # *Pogonomyrmex maulensis* — Ficha de especie
 
 > **Hormiga cosechadora del Maule** · Especie endémica de Chile · Descrita en 2021 · Muy poco documentada

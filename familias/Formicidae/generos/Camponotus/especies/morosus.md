@@ -1,3 +1,5 @@
+[Formicidae](../../../README.md) > [Camponotus](../README.md) > morosus
+
 # *Camponotus morosus* — Ficha de especie
 
 > **Hormiga mora / hormigón negro** · Especie nativa muy común en Chile central
