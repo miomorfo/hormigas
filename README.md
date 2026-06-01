@@ -40,7 +40,7 @@ Orden: Hymenoptera
 | *Camponotus chilensis* | Chile / Argentina / Perú | 15–17 mm | ~1,000 | ✅ Sí | [→](familias/Formicidae/generos/Camponotus/especies/chilensis.md) |
 | *Camponotus morosus* | Chile / Argentina | 13–15 mm | ~2,000 | ✅ Sí | [→](familias/Formicidae/generos/Camponotus/especies/morosus.md) |
 | *Camponotus fedtschenkoi* | Asia Central | 13–15 mm | ~4,000 | Diapausa corta | [→](familias/Formicidae/generos/Camponotus/especies/fedtschenkoi.md) |
-| *Brachymyrmex giardii* | Chile / Uruguay | — | ~125 | Diapausa suave | [→](familias/Formicidae/generos/Brachymyrmex/especies/giardii.md) |
+| *Brachymyrmex giardii* | Chile / Uruguay | — | No documentado | Diapausa suave | [→](familias/Formicidae/generos/Brachymyrmex/especies/giardii.md) |
 
 ### Myrmicinae
 

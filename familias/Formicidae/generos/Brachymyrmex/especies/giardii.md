@@ -69,7 +69,8 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 
 | Dato | Valor |
 |------|-------|
-| Tamaño medio (género) | 22–125 individuos |
+| Tamaño medio (género *Brachymyrmex*) | 22–125 individuos (dato genérico, no específico de *B. giardii*) |
+| Tamaño específico de *B. giardii* | No documentado con precisión |
 | Tipo de colonia | No parásita |
 
 > Son colonias muy pequeñas comparadas con *Camponotus*. Ideales para observación detallada.
