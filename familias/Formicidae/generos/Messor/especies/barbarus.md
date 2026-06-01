@@ -1,0 +1,184 @@
+# *Messor barbarus* — Ficha de especie
+
+> **Hormiga cosechadora mediterránea** · La especie granívora más popular en mirmecología, ideal para principiantes
+
+---
+
+## Clasificación
+
+| Campo | Valor |
+|-------|-------|
+| Familia | Formicidae |
+| Subfamilia | Myrmicinae |
+| Género | *Messor* |
+| Especie | *barbarus* Linnaeus, 1767 |
+| Distribución natural | Sur de Europa (España, Francia, Italia) y Norte de África |
+| Hábitat | Zonas abiertas y soleadas: pastizales, campos agrícolas, laderas secas mediterráneas |
+
+---
+
+## Morfología y polimorfismo
+
+Especie **altamente polimorfa** con una de las variaciones de tamaño más extremas del hobby. Los soldados pueden igualar el tamaño de la reina.
+
+| Casta | Tamaño | Características |
+|-------|--------|-----------------|
+| Obrera menor | 3–5 mm | Forrajeras principales, recolección de semillas |
+| Obrera media | 5–9 mm | Transporte y procesado de semillas |
+| Soldado (major) | 10–14 mm | **Cabeza roja/caoba enorme**, tritura semillas duras |
+| Reina | 14–17 mm | Negra, gáster voluminoso |
+| Macho | 8–11 mm | Alas, efímero |
+
+**Coloración:** Cuerpo negro con la cabeza de los soldados en **rojo intenso o caoba** — rasgo diagnóstico inconfundible. Las obreras menores son completamente negras.
+
+> La aparición del primer soldado de cabeza roja es uno de los hitos más celebrados en el hobby de la mirmecología.
+
+---
+
+## Alimentación
+
+*Messor barbarus* es **granívora** — obtiene todos los nutrientes necesarios únicamente de semillas. Es la única especie de este repositorio que no requiere insectos de forma obligatoria.
+
+### Semillas (base de la dieta — siempre disponibles)
+- **Semillas pequeñas preferidas:** alpiste, linaza, semilla de hierba, colza, chía, amapola
+- **Semillas medianas:** girasol sin cáscara, cáñamo, quinoa
+- Ofrecer variedad — en naturaleza seleccionan según disponibilidad y distancia al nido (teoría del forrajeo óptimo)
+- Guardar en granero seco dentro del nido; las obreras regulan la humedad para evitar germinación
+
+### Proteínas adicionales (opcional, 1–2 veces por semana en colonias grandes)
+- Insectos pequeños: grillos, moscas, tenebrios
+- Útil para acelerar el crecimiento del brood en colonias establecidas
+
+### Azúcares (opcional, 1–2 veces por semana)
+- Miel diluida al 30–50% en agua — **usar exclusivamente miel ecológica certificada (sello EU Organic, USDA Organic o equivalente), libre de pesticidas y antibióticos. Residuos de neonicotinoides o glifosato en miel convencional pueden ser letales incluso en trazas mínimas.**
+- Néctar artificial
+
+### Agua
+- Siempre disponible. Bebedero con algodón húmedo.
+
+> **Ventaja clave para criadores:** La dieta basada en semillas hace que *M. barbarus* sea mucho más fácil de mantener que especies que requieren insectos frescos diariamente. Un bote de alpiste dura semanas.
+
+---
+
+## Ritmo de crecimiento
+
+Especie de **crecimiento rápido** comparada con *Camponotus* — una de las más rápidas del hobby.
+
+| Fase | Duración | Tamaño de colonia |
+|------|----------|-------------------|
+| Fundación claustral | 4–6 semanas | 1 reina |
+| Primeras obreras | 4–6 semanas | 5–20 obreras |
+| Fin del año 1 | — | 100–300 obreras |
+| Año 2–3 | — | 300–1,000 obreras |
+| Colonia madura | 3–5 años | 1,000–5,000+ obreras |
+
+**Ciclo huevo → adulto:** ~4–6 semanas a temperatura óptima.
+
+> Con temperatura adecuada el crecimiento es **exponencial** — puede alcanzar 1,000 obreras en pocos años.
+
+---
+
+## Parámetros de cría
+
+### Temperatura
+
+| Zona | Temperatura ideal | Rango tolerable |
+|------|-----------------|-----------------|
+| Nido | 22–26 °C | 20–30 °C |
+| Outworld | 22–28 °C | 18–32 °C |
+
+> Especie mediterránea — tolera bien el calor. Temperaturas bajas ralentizan la puesta de la reina.
+
+### Humedad
+
+| Zona | Humedad ideal |
+|------|--------------|
+| Cámara de cría | 50–60% |
+| Granero (semillas) | 10–30% — **debe estar seco** para evitar germinación |
+| Outworld | 30–50% |
+
+> El gradiente de humedad es clave: cámara de cría húmeda + granero seco. Los nidos con cámaras diferenciadas (Ytong, yeso) facilitan esto.
+
+### Hibernación / Diapausa
+- **Requiere hibernación.** De finales de octubre a principios de marzo (~4–5 meses).
+- Temperatura ideal: **12–16 °C** (nunca bajar de 10 °C).
+- La reina detiene la puesta — fase de descanso esencial para su longevidad.
+- Se puede omitir la primera hibernación sin daño significativo para colonias muy jóvenes.
+- Mantener humedad y ofrecer agua durante la hibernación; reducir o eliminar semillas.
+
+---
+
+## Tamaño de colonia
+
+| Etapa | Obreras |
+|-------|---------|
+| Mínimo para trasladar al nido | ~20–30 |
+| Primeros soldados | ~100–200 |
+| Colonia funcional | ~300–500 |
+| Colonia madura en cautiverio | 1,000–5,000 |
+| Máximo reportado | 10,000+ |
+
+---
+
+## Nidificación
+
+- **En naturaleza:** Suelo profundo bajo zonas soleadas; nidos con cámaras diferenciadas para cría y graneros.
+- **En cautiverio — materiales recomendados:**
+  - ✅ Ytong (hormigón aireado) — favorito para esta especie; retiene humedad, las hormigas pueden excavarlo
+  - ✅ Yeso/escayola — buena retención de humedad, económico
+  - ✅ Acrílico — buena visibilidad
+  - ✅ Setup naturalístico con tierra — replica el hábitat natural
+  - ⚠️ Si usas Ytong, enciérralo en un contenedor — pueden excavarlo y escapar
+
+> Necesitan cámaras con **diferente nivel de humedad**: granero seco + zona de cría húmeda. Elegir nidos que permitan este gradiente.
+
+---
+
+## Vuelo nupcial
+
+- **Época:** Primavera — de finales de marzo a junio.
+- **Disparadores:** Temperatura alta, humedad post-lluvia, días largos.
+- **Fundación:** Completamente claustral. La reina no necesita alimento hasta que emergen las primeras obreras; usa sus reservas musculares alares como fuente de proteína.
+
+---
+
+## Comportamiento
+
+- **Monógina** — una sola reina por colonia.
+- **Forrajeo óptimo:** Seleccionan semillas según tamaño, valor nutritivo y distancia al nido — comportamiento estudiado científicamente (Azcárate et al., 2005).
+- **"Pan de hormiga":** Los soldados trituran semillas duras con sus mandíbulas; las obreras procesan la pasta resultante para alimentar larvas y reina.
+- **Torpes y malas escaladoras** — raramente escapan de outworlds con bordes lisos.
+- **Actividad diurna** en condiciones cálidas; reducen actividad en calor extremo.
+
+---
+
+## Dificultad de cría
+
+| Criterio | Valoración |
+|----------|-----------|
+| Dificultad general | ⭐ Principiante |
+| Velocidad de crecimiento | 🚀 Rápida |
+| Resistencia | 💪💪 Muy alta |
+| Espectacularidad | 🌟🌟🌟🌟🌟 (soldados de cabeza roja, columnas de forrajeo) |
+| Disponibilidad en el mercado | Muy alta (la más vendida en Europa) |
+
+---
+
+## Errores comunes
+
+1. **Usar miel no certificada** → residuos de pesticidas pueden matar la colonia. Usar siempre miel ecológica certificada.
+2. **Granero húmedo** → las semillas germinan dentro del nido, generando hongos y estrés. Mantener el granero seco.
+3. **Omitir la hibernación** → sin diapausa la reina se agota prematuramente y acorta su vida.
+4. **Temperatura demasiado baja fuera de hibernación** → ralentiza el crecimiento y la puesta.
+5. **Nido demasiado grande al inicio** → empezar con espacio proporcional a la colonia.
+6. **No ofrecer variedad de semillas** → la monotonía dietética reduce el rendimiento del brood.
+
+---
+
+## Referencias
+
+- Linnaeus, C. (1767). Descripción original de *Formica barbara*.
+- Azcárate, F.M. et al. (2005). Seed and fruit selection by harvester ants *Messor barbarus* in Mediterranean grassland. *Functional Ecology*, 19: 399–408.
+- Brumaants.com: [How to care for Messor barbarus](https://brumaants.com/how-to-care-for-messor-barbarus)
+- Ant-Shack.com: [Messor barbarus care sheet](https://www.ant-shack.com/pages/encyclopedia-entry/messor-barbarus)
+- AntWiki: [Messor barbarus](https://www.antwiki.org/wiki/Messor_barbarus)

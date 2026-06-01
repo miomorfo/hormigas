@@ -1,39 +1,68 @@
 # 🐜 Mirmecología — Guía para Criadores
 
-Repositorio de referencia sobre familias y géneros de hormigas, con datos útiles para la cría en cautiverio.
+Repositorio de referencia sobre hormigas con datos útiles para la cría en cautiverio: alimentación, polimorfismo, tamaño de colonia, temperatura, hibernación y más.
 
-## Estructura
+---
+
+## Árbol taxonómico
 
 ```
-hormigas/
-├── familias/
-│   └── Formicidae/
-│       ├── README.md              ← Información general de la familia
-│       └── generos/
-│           └── Camponotus/
-│               ├── README.md      ← Información general del género
-│               └── especies/
-│                   └── nicobarensis.md
-└── README.md                      ← Este archivo
+Orden: Hymenoptera
+└── Familia: Formicidae
+    │
+    ├── Subfamilia: Formicinae
+    │   ├── Género: Camponotus  ────────────────────────────────────────────────────────────
+    │   │   ├── C. nicobarensis  · Asia (India, SE Asiático)      · ⭐ Principiante
+    │   │   ├── C. chilensis     · Chile, Argentina, Perú          · ⭐ Principiante
+    │   │   ├── C. morosus       · Chile, Argentina                · ⭐⭐ Principiante-intermedio
+    │   │   └── C. fedtschenkoi  · Asia Central (Kazajistán, etc.) · ⭐⭐ Con experiencia previa
+    │   │
+    │   └── Género: Brachymyrmex ───────────────────────────────────────────────────────────
+    │       └── B. giardii       · Chile (Coquimbo–Los Lagos)      · ⭐⭐ Intermedio
+    │
+    └── Subfamilia: Myrmicinae
+        ├── Género: Monomorium  ────────────────────────────────────────────────────────────
+        │   └── M. cekalovici    · Chile endémica (Valparaíso–O'Higgins) · ⭐⭐ Intermedio
+        │
+        └── Género: Messor  ────────────────────────────────────────────────────────────────
+            └── M. barbarus      · Mediterráneo (España, N. África) · ⭐ Principiante
 ```
 
-## Índice de Géneros
+---
 
-| Género | Subfamilia | Especies documentadas |
-|--------|------------|----------------------|
-| [Camponotus](familias/Formicidae/generos/Camponotus/README.md) | Formicinae | [C. nicobarensis](familias/Formicidae/generos/Camponotus/especies/nicobarensis.md), [C. chilensis](familias/Formicidae/generos/Camponotus/especies/chilensis.md), [C. morosus](familias/Formicidae/generos/Camponotus/especies/morosus.md), [C. fedtschenkoi](familias/Formicidae/generos/Camponotus/especies/fedtschenkoi.md) |
-| [Brachymyrmex](familias/Formicidae/generos/Brachymyrmex/README.md) | Formicinae | [B. giardii](familias/Formicidae/generos/Brachymyrmex/especies/giardii.md) |
-| [Monomorium](familias/Formicidae/generos/Monomorium/README.md) | Myrmicinae | [M. cekalovici](familias/Formicidae/generos/Monomorium/especies/cekalovici.md) |
+## Fichas por subfamilia
+
+### Formicinae
+
+| Especie | Origen | Tamaño reina | Colonia máx. | Hibernación | Ficha |
+|---------|--------|-------------|-------------|-------------|-------|
+| *Camponotus nicobarensis* | Asia tropical | 18–22 mm | ~10,000 | No requerida | [→](familias/Formicidae/generos/Camponotus/especies/nicobarensis.md) |
+| *Camponotus chilensis* | Chile / Argentina / Perú | 15–17 mm | ~1,000 | ✅ Sí | [→](familias/Formicidae/generos/Camponotus/especies/chilensis.md) |
+| *Camponotus morosus* | Chile / Argentina | 13–15 mm | ~2,000 | ✅ Sí | [→](familias/Formicidae/generos/Camponotus/especies/morosus.md) |
+| *Camponotus fedtschenkoi* | Asia Central | 13–15 mm | ~4,000 | Diapausa corta | [→](familias/Formicidae/generos/Camponotus/especies/fedtschenkoi.md) |
+| *Brachymyrmex giardii* | Chile / Uruguay | — | ~125 | Diapausa suave | [→](familias/Formicidae/generos/Brachymyrmex/especies/giardii.md) |
+
+### Myrmicinae
+
+| Especie | Origen | Tamaño reina | Colonia máx. | Hibernación | Ficha |
+|---------|--------|-------------|-------------|-------------|-------|
+| *Monomorium cekalovici* | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/cekalovici.md) |
+| *Messor barbarus* | Mediterráneo | 14–17 mm | ~10,000 | ✅ Sí | [→](familias/Formicidae/generos/Messor/especies/barbarus.md) |
+
+---
 
 ## Campos documentados por especie
 
-- 🍯 Alimentación
-- 📈 Ritmo de crecimiento
-- 🏘️ Tamaño de colonia
-- 🐜 Polimorfismo
-- 🌡️ Temperatura y humedad
-- 👑 Hibernación / diapausa
-- 💡 Notas para criadores
+| Campo | Descripción |
+|-------|-------------|
+| 🍯 Alimentación | Proteínas, azúcares, semillas, frecuencia |
+| 📈 Ritmo de crecimiento | Fases y tiempos desde fundación a colonia madura |
+| 🏘️ Tamaño de colonia | Mínimos, máximos y hitos por etapa |
+| 🐜 Polimorfismo | Castas, tamaños y roles |
+| 🌡️ Temperatura y humedad | Rangos por zona del nido |
+| 👑 Hibernación / diapausa | Requisitos y temperatura |
+| ⚠️ Errores comunes | Los más frecuentes en criadores nuevos |
+| 📚 Referencias | Fuentes científicas y de crianza |
 
 ---
 
