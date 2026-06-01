@@ -76,4 +76,4 @@ Orden: Hymenoptera
 
 ---
 
-> Contribuciones bienvenidas. Usa el formato de las fichas existentes como plantilla.
+© Fernando Escobar Barraza · [CC BY-NC-ND 4.0](LICENSE.md)
