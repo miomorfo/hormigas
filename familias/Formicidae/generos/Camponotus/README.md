@@ -28,6 +28,7 @@ Conocidas popularmente como **hormigas carpinteras**, *Camponotus* es uno de los
 | *C. nicobarensis* | Asia (India, SE Asiático) | ⭐ Principiante | [Ver ficha](especies/nicobarensis.md) |
 | *C. chilensis* | Chile, Argentina, Perú | ⭐ Principiante | [Ver ficha](especies/chilensis.md) |
 | *C. morosus* | Chile, Argentina | ⭐⭐ Principiante-intermedio | [Ver ficha](especies/morosus.md) |
+| *C. fedtschenkoi* | Asia Central (Kazajistán, Mongolia, China NW) | ⭐⭐ Principiante con experiencia | [Ver ficha](especies/fedtschenkoi.md) |
 
 ## Notas para criadores
 
