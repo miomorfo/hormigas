@@ -118,7 +118,7 @@ Se ha observado también forrajeo sobre **carroña de bovino** (transportando re
 ## Nidificación
 
 - **En naturaleza:** Matorral esclerófilo, suelo, bajo piedras, troncos.
-- **En cautiverio:** Acepta bien nidos de acrílico, corcho natural, madera sin tratar.
+- **En cautiverio:** Acepta bien nidos de acrílico, corcho natural, madera sin tratar e impresos en 3D (PETG).
 - Tubo de ensayo para fase de fundación.
 
 ---

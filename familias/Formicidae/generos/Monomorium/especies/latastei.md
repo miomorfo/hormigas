@@ -82,7 +82,7 @@ No documentado específicamente. Estimado según el género: colonias de decenas
 ## Nidificación
 
 - **En naturaleza:** No documentado. Probablemente suelo y bajo piedras, típico del género en Chile central.
-- **En cautiverio:** Nidos de acrílico o yeso pequeños. Tubo de ensayo para fundación.
+- **En cautiverio:** Nidos de acrílico, yeso o impresos en 3D (PETG). Tubo de ensayo para fundación.
 
 ---
 

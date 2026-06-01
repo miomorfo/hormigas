@@ -124,7 +124,8 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
   - ✅ Yeso/escayola — retiene humedad, económico
   - ✅ Corcho — simula hábitat natural leñoso
   - ✅ Acrílico — buena visibilidad, requiere control de humedad
-  - ❌ Plástico puro — no absorbe humedad, malos resultados reportados
+  - ✅ Impresión 3D (PETG) — permite diseñar cámaras a medida, resistente a humedad y calor
+  - ❌ Plástico puro sin estructura — no absorbe humedad, malos resultados reportados
   - ❌ Ytong (hormigón aireado) — puede liberar gases tóxicos al humedecerse
 
 > Empezar con nido pequeño (~7×7 cm para colonias de 10–20 obreras). Un nido demasiado grande impide que los feromonas de la reina lleguen a todas las obreras.

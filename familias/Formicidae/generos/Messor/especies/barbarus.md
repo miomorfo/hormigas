@@ -127,6 +127,7 @@ Especie de **crecimiento rápido** comparada con *Camponotus* — una de las má
   - ✅ Ytong (hormigón aireado) — favorito para esta especie; retiene humedad, las hormigas pueden excavarlo
   - ✅ Yeso/escayola — buena retención de humedad, económico
   - ✅ Acrílico — buena visibilidad
+  - ✅ Impresión 3D (PETG) — permite diseñar cámaras a medida, resistente a humedad y calor
   - ✅ Setup naturalístico con tierra — replica el hábitat natural
   - ⚠️ Si usas Ytong, enciérralo en un contenedor — pueden excavarlo y escapar
 

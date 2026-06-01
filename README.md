@@ -33,6 +33,10 @@ Orden: Hymenoptera
         │
         └── Género: Pogonomyrmex ───────────────────────────────────────────────────────────
             └── P. maulensis     · Chile endémica (Región del Maule) · ⭐⭐ Intermedio
+
+    └── Subfamilia: Dolichoderinae
+        └── Género: Dorymyrmex ─────────────────────────────────────────────────────────────
+            └── D. pogonius      · Chile endémica (R. Metro–Ñuble)   · ⭐⭐ Intermedio
 ```
 
 ---
@@ -58,6 +62,12 @@ Orden: Hymenoptera
 | [*Messor barbarus*](familias/Formicidae/generos/Messor/especies/barbarus.md) | Mediterráneo | 14–17 mm | ~10,000 | ✅ Sí | [→](familias/Formicidae/generos/Messor/especies/barbarus.md) |
 | [*Acanthomyrmex*](familias/Formicidae/generos/Acanthomyrmex/README.md) | Sudeste Asiático | 7–9 mm | ~300 | No | (especie por determinar) |
 | [*Pogonomyrmex maulensis*](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) | Chile endémica (Maule) | — | ~2,000–3,000 | ✅ Sí | [→](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) |
+
+### Dolichoderinae
+
+| Especie | Origen | Tamaño reina | Colonia máx. | Hibernación | Ficha |
+|---------|--------|-------------|-------------|-------------|-------|
+| [*Dorymyrmex pogonius*](familias/Formicidae/generos/Dorymyrmex/especies/pogonius.md) | Chile endémica (R. Metro–Ñuble) | — | ~5,000 | Diapausa suave | [→](familias/Formicidae/generos/Dorymyrmex/especies/pogonius.md) |
 
 ---
 

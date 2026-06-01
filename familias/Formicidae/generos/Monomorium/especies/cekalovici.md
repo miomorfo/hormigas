@@ -85,7 +85,7 @@ No documentado específicamente. Estimado según el género *Monomorium*: coloni
 ## Nidificación
 
 - **En naturaleza:** Bajo piedras, suelo (típico del género en Chile central).
-- **En cautiverio:** Nidos de acrílico o yeso de tamaño pequeño. Tubo de ensayo para fundación.
+- **En cautiverio:** Nidos de acrílico, yeso o impresos en 3D (PETG). Tubo de ensayo para fundación.
 
 ---
 

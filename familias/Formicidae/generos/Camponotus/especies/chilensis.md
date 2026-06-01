@@ -108,7 +108,7 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 ## Nidificación
 
 - **En naturaleza:** Suelo cerca de cuerpos de agua dulce, troncos en descomposición.
-- **En cautiverio:** Acepta nidos de acrílico, corcho natural, madera sin tratar.
+- **En cautiverio:** Acepta nidos de acrílico, corcho natural, madera sin tratar e impresos en 3D (PETG).
 - Tubo de ensayo para fase de fundación.
 
 ---

@@ -16,7 +16,7 @@ Conocidas popularmente como **hormigas carpinteras**, *Camponotus* es uno de los
 
 - **Polimorfismo:** Marcado. Presentan obreras menores, medias y soldados (majors) con cabeza hipertrofiada.
 - **Reina:** Cláustral (funda la colonia sin salir a buscar alimento).
-- **Nidificación:** Madera muerta, suelo, corteza. En cautiverio aceptan bien nidos de acrílico, corcho y madera.
+- **Nidificación:** Madera muerta, suelo, corteza. En cautiverio aceptan bien nidos de acrílico, corcho, madera e impresos en 3D (PETG).
 - **Alimentación:** Omnívoros. Proteínas (insectos) + azúcares (néctar, miel diluida).
 - **Actividad:** Principalmente nocturna en muchas especies.
 - **Hibernación:** Requerida en especies de clima templado; las tropicales pueden no necesitarla.
