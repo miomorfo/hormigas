@@ -105,7 +105,6 @@ No documentado específicamente. Estimado según el género *Monomorium*: coloni
 | Velocidad de crecimiento | Desconocida |
 | Resistencia | Desconocida |
 | Espectacularidad | 🌟🌟🌟 (coloración tricolor llamativa) |
-| Disponibilidad en Chile | Baja (distribución restringida, especie endémica) |
 
 > ⚠️ **Nota para criadores:** Dado que es una especie endémica con distribución muy restringida, se recomienda extremar precauciones en su manejo y no liberar individuos fuera de su rango natural.
 

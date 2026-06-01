@@ -103,7 +103,6 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 | Velocidad de crecimiento | 🐢 Lenta (colonias pequeñas) |
 | Resistencia | Media |
 | Espectacularidad | 🌟🌟🌟🌟 (mieleras muy llamativas) |
-| Disponibilidad en Chile | Alta (especie nativa) |
 
 ---
 

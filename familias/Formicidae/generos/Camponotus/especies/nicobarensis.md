@@ -156,7 +156,6 @@ Los soldados aparecen generalmente cuando la colonia supera las **200–300 obre
 | Velocidad de crecimiento | 🐢 Lenta |
 | Resistencia | 💪 Alta |
 | Espectacularidad | 🌟🌟🌟🌟 |
-| Disponibilidad en el mercado | Alta |
 
 ---
 

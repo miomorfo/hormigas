@@ -130,7 +130,6 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 | Velocidad de crecimiento | 🐢 Lenta-media |
 | Resistencia | 💪 Alta |
 | Espectacularidad | 🌟🌟🌟🌟 (vellos dorados muy llamativos) |
-| Disponibilidad en Chile | Muy alta (especie nativa) |
 
 ---
 

@@ -147,7 +147,6 @@ Se ha observado también forrajeo sobre **carroña de bovino** (transportando re
 | Velocidad de crecimiento | 🐢 Lenta-media |
 | Resistencia | 💪💪 Muy alta |
 | Espectacularidad | 🌟🌟🌟 (antenas rojizas, tamaño imponente) |
-| Disponibilidad en Chile | Muy alta (especie nativa muy común) |
 
 ---
 

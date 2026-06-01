@@ -160,7 +160,6 @@ Especie de **crecimiento rápido** comparada con *Camponotus* — una de las má
 | Velocidad de crecimiento | 🚀 Rápida |
 | Resistencia | 💪💪 Muy alta |
 | Espectacularidad | 🌟🌟🌟🌟🌟 (soldados de cabeza roja, columnas de forrajeo) |
-| Disponibilidad en el mercado | Muy alta (la más vendida en Europa) |
 
 ---
 

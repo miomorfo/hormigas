@@ -149,7 +149,6 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 | Velocidad de crecimiento | 🐢🐢 Media |
 | Resistencia | 💪💪 Muy alta |
 | Espectacularidad | 🌟🌟🌟🌟🌟 (coloración dorada única) |
-| Disponibilidad en el mercado | Alta (muy popular en Europa y Asia) |
 
 > Recomendada para criadores con 1–2 años de experiencia previa (ej. *Lasius niger*, *Messor barbarus*) antes de pasar a exóticas.
 

@@ -114,7 +114,6 @@ Tanto la **reina como los soldados** producen **huevos tróficos** — huevos no
 | Velocidad de crecimiento | 🐢🐢 Muy lenta |
 | Resistencia | Media-baja |
 | Espectacularidad | 🌟🌟🌟🌟 (dimorfismo extremo, huevos tróficos) |
-| Disponibilidad en el mercado | Baja-media |
 
 ---
 

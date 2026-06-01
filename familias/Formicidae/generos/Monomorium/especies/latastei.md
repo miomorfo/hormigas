@@ -94,7 +94,6 @@ No documentado específicamente. Estimado según el género: colonias de decenas
 | Velocidad de crecimiento | Desconocida |
 | Resistencia | Desconocida |
 | Espectacularidad | 🌟🌟🌟🌟 (coloración naranja/negro muy llamativa) |
-| Disponibilidad en Chile | Baja-media (distribución restringida, especie endémica) |
 
 > ⚠️ **Nota para criadores:** Especie endémica con distribución restringida al Chile mediterráneo central. No liberar individuos fuera de su rango natural.
 
