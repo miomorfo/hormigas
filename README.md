@@ -86,4 +86,11 @@ Orden: Hymenoptera
 
 ---
 
+## Recursos
+
+- [📊 Tabla comparativa de especies](comparativa.md) — todas las especies en una tabla para elegir cuál criar
+- [📖 Glosario de mirmecología](glosario.md) — términos técnicos usados en las fichas
+
+---
+
 © Fernando Escobar Barraza · [CC BY-NC-ND 4.0](LICENSE.md)
