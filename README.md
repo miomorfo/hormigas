@@ -43,20 +43,20 @@ Orden: Hymenoptera
 
 | Especie | Origen | Tamaño reina | Colonia máx. | Hibernación | Ficha |
 |---------|--------|-------------|-------------|-------------|-------|
-| *Camponotus nicobarensis* | Asia tropical | 18–22 mm | ~10,000 | No requerida | [→](familias/Formicidae/generos/Camponotus/especies/nicobarensis.md) |
-| *Camponotus chilensis* | Chile / Argentina / Perú | 15–17 mm | ~1,000 | ✅ Sí | [→](familias/Formicidae/generos/Camponotus/especies/chilensis.md) |
-| *Camponotus morosus* | Chile / Argentina | 13–15 mm | ~2,000 | ✅ Sí | [→](familias/Formicidae/generos/Camponotus/especies/morosus.md) |
-| *Camponotus fedtschenkoi* | Asia Central | 13–15 mm | ~4,000 | Diapausa corta | [→](familias/Formicidae/generos/Camponotus/especies/fedtschenkoi.md) |
-| *Brachymyrmex giardii* | Chile / Uruguay | — | No documentado | Diapausa suave | [→](familias/Formicidae/generos/Brachymyrmex/especies/giardii.md) |
+| [*Camponotus nicobarensis*](familias/Formicidae/generos/Camponotus/especies/nicobarensis.md) | Asia tropical | 18–22 mm | ~10,000 | No requerida | [→](familias/Formicidae/generos/Camponotus/especies/nicobarensis.md) |
+| [*Camponotus chilensis*](familias/Formicidae/generos/Camponotus/especies/chilensis.md) | Chile / Argentina / Perú | 15–17 mm | ~1,000 | ✅ Sí | [→](familias/Formicidae/generos/Camponotus/especies/chilensis.md) |
+| [*Camponotus morosus*](familias/Formicidae/generos/Camponotus/especies/morosus.md) | Chile / Argentina | 13–15 mm | ~2,000 | ✅ Sí | [→](familias/Formicidae/generos/Camponotus/especies/morosus.md) |
+| [*Camponotus fedtschenkoi*](familias/Formicidae/generos/Camponotus/especies/fedtschenkoi.md) | Asia Central | 13–15 mm | ~4,000 | Diapausa corta | [→](familias/Formicidae/generos/Camponotus/especies/fedtschenkoi.md) |
+| [*Brachymyrmex giardii*](familias/Formicidae/generos/Brachymyrmex/especies/giardii.md) | Chile / Uruguay | — | No documentado | Diapausa suave | [→](familias/Formicidae/generos/Brachymyrmex/especies/giardii.md) |
 
 ### Myrmicinae
 
 | Especie | Origen | Tamaño reina | Colonia máx. | Hibernación | Ficha |
 |---------|--------|-------------|-------------|-------------|-------|
-| *Monomorium cekalovici* | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/cekalovici.md) |
-| *Monomorium latastei* | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/latastei.md) |
-| *Messor barbarus* | Mediterráneo | 14–17 mm | ~10,000 | ✅ Sí | [→](familias/Formicidae/generos/Messor/especies/barbarus.md) |
-| *Acanthomyrmex* | Sudeste Asiático | 7–9 mm | ~300 | No | (especie por determinar) |
+| [*Monomorium cekalovici*](familias/Formicidae/generos/Monomorium/especies/cekalovici.md) | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/cekalovici.md) |
+| [*Monomorium latastei*](familias/Formicidae/generos/Monomorium/especies/latastei.md) | Chile endémica | — | Desconocida | Diapausa suave | [→](familias/Formicidae/generos/Monomorium/especies/latastei.md) |
+| [*Messor barbarus*](familias/Formicidae/generos/Messor/especies/barbarus.md) | Mediterráneo | 14–17 mm | ~10,000 | ✅ Sí | [→](familias/Formicidae/generos/Messor/especies/barbarus.md) |
+| [*Acanthomyrmex*](familias/Formicidae/generos/Acanthomyrmex/README.md) | Sudeste Asiático | 7–9 mm | ~300 | No | (especie por determinar) |
 | [*Pogonomyrmex maulensis*](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) | Chile endémica (Maule) | — | ~2,000–3,000 | ✅ Sí | [→](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) |
 
 ---
