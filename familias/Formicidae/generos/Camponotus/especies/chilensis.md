@@ -120,6 +120,8 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 - **En cautiverio:** Acepta nidos de acrílico, corcho natural, madera sin tratar e impresos en 3D (PETG).
 - Tubo de ensayo para fase de fundación.
 
+**Ventilación:** Importante. Como Formicinae, produce **ácido fórmico** como defensa. En colonias grandes dentro de nidos cerrados, el ácido se acumula y puede irritar a las propias hormigas. Asegurar al menos una abertura de ventilación o nido con flujo de aire pasivo.
+
 ---
 
 ## Historia del descubrimiento

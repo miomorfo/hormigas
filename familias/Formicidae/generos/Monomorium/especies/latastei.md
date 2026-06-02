@@ -93,6 +93,8 @@ No documentado específicamente. Estimado según el género: colonias de decenas
 - **En naturaleza:** No documentado. Probablemente suelo y bajo piedras, típico del género en Chile central.
 - **En cautiverio:** Nidos de acrílico, yeso o impresos en 3D (PETG). Tubo de ensayo para fundación.
 
+**Ventilación:** Estándar. Como Myrmicinae, no produce ácido fórmico volátil. Ventilación necesaria para evitar condensación y hongos, sin riesgo de gases irritantes.
+
 ---
 
 ## Historia del descubrimiento

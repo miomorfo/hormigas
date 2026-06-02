@@ -96,6 +96,8 @@ No documentado específicamente. Estimado según el género *Monomorium*: coloni
 - **En naturaleza:** Bajo piedras, suelo (típico del género en Chile central).
 - **En cautiverio:** Nidos de acrílico, yeso o impresos en 3D (PETG). Tubo de ensayo para fundación.
 
+**Ventilación:** Estándar. Como Myrmicinae, no produce ácido fórmico volátil. La ventilación es necesaria para evitar condensación y hongos, pero no hay riesgo de acumulación de gases irritantes.
+
 ---
 
 ## Historia del descubrimiento

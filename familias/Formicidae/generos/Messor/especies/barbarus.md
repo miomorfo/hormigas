@@ -140,6 +140,8 @@ Especie de **crecimiento rápido** comparada con *Camponotus* — una de las má
   - ✅ Setup naturalístico con tierra — replica el hábitat natural
   - ⚠️ Si usas Ytong, enciérralo en un contenedor — pueden excavarlo y escapar
 
+**Ventilación:** Estándar. Como Myrmicinae, no produce ácido fórmico volátil. La ventilación principal es para evitar moho en el granero y condensación en las cámaras de cría. Las semillas húmedas + nido cerrado = hongos garantizados.
+
 > Necesitan cámaras con **diferente nivel de humedad**: granero seco + zona de cría húmeda. Elegir nidos que permitan este gradiente.
 
 ---

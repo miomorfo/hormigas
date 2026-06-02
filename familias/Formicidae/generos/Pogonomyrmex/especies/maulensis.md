@@ -110,6 +110,8 @@ Estimados según el hábitat natural (pradera andina de altura, clima mediterrá
 | Humedad nido | 40–55% (especie de hábitat seco-rocoso) |
 | Hibernación | **Requerida** — especie de elevación media con inviernos fríos (estimado 8–12 °C, 3–4 meses) |
 
+**Ventilación:** Estándar. Como Myrmicinae, no produce gases irritantes. La ventilación previene condensación en el nido. Nido en ambiente seco y ventilado.
+
 ---
 
 ## ⚠️ Advertencia de picadura

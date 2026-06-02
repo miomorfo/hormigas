@@ -122,6 +122,8 @@ Estimados según el hábitat natural (Chile mediterráneo central, zonas secas):
 - Tubo de ensayo para fundación
 - Nido con gradiente seco — sin zona muy húmeda
 
+**Ventilación:** Necesaria. Como Dolichoderinae, produce **secreciones químicas volátiles** (terpenoides) como defensa. Aunque no tiene aguijón, estos compuestos se acumulan en nidos cerrados. Asegurar flujo de aire pasivo.
+
 ---
 
 ## Dificultad de cría

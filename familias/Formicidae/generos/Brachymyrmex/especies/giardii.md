@@ -71,6 +71,8 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 - **Estructura:** Varias cámaras con techo abovedado, piso ligeramente escarbado y paredes lisas. Cámaras de hasta 3 cm de alto y 3–5 cm de ancho, conectadas por galerías de pocos milímetros (De Zolessi et al., 1978).
 - **En cautiverio:** Nidos de acrílico, yeso o impresos en 3D (PETG). Tubos de ensayo para fundación. Nidos muy pequeños — no requieren mucho espacio.
 
+**Ventilación:** Moderada. Como Formicinae, produce ácido fórmico pero en cantidades mínimas dado el tamaño diminuto de las obreras y las colonias pequeñas. Ventilación estándar es suficiente.
+
 ---
 
 ## Tamaño de colonia

@@ -111,6 +111,8 @@ Tanto la **reina como los soldados** producen **huevos tróficos** — huevos no
 - **En naturaleza:** Suelo, hojarasca, madera en descomposición en bosques tropicales húmedos.
 - **En cautiverio:** Nido de yeso o acrílico pequeño con cámaras diferenciadas. Tubo de ensayo para fundación. Empezar siempre pequeño y expandir solo cuando el 70–80% de las cámaras estén ocupadas.
 
+**Ventilación:** Crítica. Como Myrmicinae, no produce ácido fórmico, pero la combinación de alta humedad tropical (70–85%) + nido pequeño + restos de comida favorece fuertemente el moho. La ventilación es la principal herramienta contra hongos en esta especie. Asegurar flujo de aire sin reducir humedad excesivamente.
+
 ---
 
 ## Dificultad de cría

@@ -139,6 +139,8 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 
 > Empezar con nido pequeño (~7×7 cm para colonias de 10–20 obreras). Un nido demasiado grande impide que los feromonas de la reina lleguen a todas las obreras.
 
+**Ventilación:** Importante. Como Formicinae, produce **ácido fórmico** como defensa. Asegurar al menos una abertura de ventilación. En nidos de acrílico, agregar malla o perforaciones pequeñas en la tapa.
+
 ---
 
 ## Historia del descubrimiento

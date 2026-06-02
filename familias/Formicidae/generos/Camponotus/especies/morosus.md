@@ -130,6 +130,8 @@ Se ha observado también forrajeo sobre **carroña de bovino** (transportando re
 - **En cautiverio:** Acepta bien nidos de acrílico, corcho natural, madera sin tratar e impresos en 3D (PETG).
 - Tubo de ensayo para fase de fundación.
 
+**Ventilación:** Importante. Como Formicinae, produce **ácido fórmico** como defensa. En colonias grandes (especialmente con varios cientos de obreras), el ácido se acumula en nidos cerrados. Asegurar al menos una abertura de ventilación o nido con flujo de aire pasivo.
+
 ---
 
 ## Historia del descubrimiento

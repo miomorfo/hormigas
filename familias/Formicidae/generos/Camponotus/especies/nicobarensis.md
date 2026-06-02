@@ -118,12 +118,15 @@ parent: Camponotus
   - Acrílico / plástico con cámaras grabadas
   - Corcho natural (excelente aislante térmico)
   - Madera de balsa o pino sin tratar
+  - Impresión 3D (PETG)
   - Tubos de ensayo (fase de fundación)
 
 **Tamaño de nido recomendado:**
 - Fundación: tubo de ensayo (15–20 cm)
 - Colonia joven: nido pequeño 15×10 cm
 - Colonia establecida: nido mediano/grande o modular
+
+**Ventilación:** Importante. Como Formicinae, produce **ácido fórmico** que se acumula en nidos cerrados. Colonias grandes de *C. nicobarensis* (miles de obreras) generan cantidades significativas — asegurar ventilación con al menos una abertura o malla de ventilación.
 
 ---
 
