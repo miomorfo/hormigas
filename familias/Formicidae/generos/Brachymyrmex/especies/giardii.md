@@ -95,11 +95,24 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 
 ---
 
-## Comportamiento destacado
+## Historia del descubrimiento
 
-- **Parabiosis con *Camponotus*:** Convive pacíficamente en el mismo nido con *Camponotus chilensis* y *Camponotus morosus* (Lenoir et al., 2001). Es una de las pocas especies de hormiga que establece este tipo de asociación interespecífica estable.
-- **Obreras mieleras:** Almacenan reservas de azúcar en su propio cuerpo, funcionando como "tanques vivientes" para la colonia — comportamiento convergente con *Myrmecocystus* en Norteamérica.
-- **Movimiento frecuente de nidos:** Como muchos *Brachymyrmex*, tienden a reubicarse con frecuencia si el sustrato es perturbado.
+Descrita por **Carlo Emery** en 1895. El nombre *giardii* fue otorgado en honor al profesor **Alfred Giard** (1846–1908), distinguido zoólogo francés de la Universidad de París, quien recolectó el ejemplar tipo. Giard fue un importante biólogo evolutivo que estudió el parasitismo y la simbiosis — apropiado para una especie que vive en parabiosis con otras hormigas.
+
+---
+
+## Comportamiento
+
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Muy baja — especie pacífica y críptica |
+| Actividad | Diurna y nocturna; forrajeo constante en pequeña escala |
+| Forrajeo | Cooperativo, en pequeños grupos cercanos al nido |
+| Formación de filas | Sí — forman pequeñas columnas hacia fuentes de melaza |
+| Defensa | Mínima; dependen de su tamaño diminuto y cripsis para evitar depredadores |
+| Parabiosis | Convive con *C. chilensis* y *C. morosus* en el mismo nido |
+| Reubicación | Frecuente — se mudan si el nido es perturbado |
+| Mieleras | Obreras con gáster distendido almacenan líquido en el techo de las galerías |
 
 ---
 

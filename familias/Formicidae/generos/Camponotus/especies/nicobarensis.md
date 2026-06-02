@@ -148,12 +148,23 @@ Los soldados aparecen generalmente cuando la colonia supera las **200–300 obre
 
 ---
 
-## Comportamiento y temperamento
+## Historia del descubrimiento
 
-- **Agresividad:** Baja–media. Generalmente dóciles con el criador.
-- **Actividad:** Principalmente crepuscular/nocturna, aunque en colonias grandes hay actividad diurna.
-- **Escape:** Moderado. Usar fluon/PTFE en los bordes del outworld.
-- **Sensibilidad a vibraciones:** Alta. Evitar golpes o movimientos bruscos cerca del nido.
+Descrita por **Gustav Mayr** en 1865 como parte de la obra zoológica de la expedición de la fragata austríaca **Novara** alrededor del mundo (1857–1859). El ejemplar tipo fue recolectado en las **Islas Nicobar** (archipiélago indio en el océano Índico), de ahí su nombre *nicobarensis*. La descripción original aparece en *Reise der österreichischen Fregatte Novara: Formicidae*.
+
+---
+
+## Comportamiento
+
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Baja-media — generalmente dóciles con el criador |
+| Actividad | Crepuscular/nocturna; colonias grandes muestran actividad diurna |
+| Forrajeo | En grupo, con señalización por vibraciones (golpean el gáster contra las paredes del nido) |
+| Formación de filas | Sí — forman columnas de forrajeo en colonias grandes |
+| Defensa | Mandíbulas + ácido fórmico; sin aguijón |
+| Escape | Moderado — usar PTFE/fluon en bordes del outworld |
+| Sensibilidad a vibraciones | Alta — evitar golpes cerca del nido |
 
 ---
 

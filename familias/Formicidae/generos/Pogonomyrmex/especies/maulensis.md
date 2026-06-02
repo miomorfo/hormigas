@@ -54,20 +54,24 @@ parent: Pogonomyrmex
 
 ---
 
-## Biología conocida
+## Historia del descubrimiento
 
-> ⚠️ La información biológica es muy escasa — la especie fue descrita en 2021 y solo se conocen **dos nidos**.
+Descrita por **Robert A. Johnson** en 2021, una de las hormigas chilenas más recientemente descritas. Fue hallada exclusivamente en **dos localidades cercanas al río Maule**, a altitudes de 1,950–2,175 m, en praderas de *Stipa* sp. El nombre *maulensis* hace referencia directa a la Región del Maule. Es parte de la revisión de Johnson de las *Pogonomyrmex* sudamericanas, que reveló una diversidad mucho mayor de la esperada en Chile.
 
-### Nidificación
-- El único nido excavado tenía **dos entradas en el borde de una piedra**
-- Nido tipo en pradera de *Stipa* sp. con *Berberis* sp. disperso, suelo arenoso-rocoso
-- Segundo nido también en pradera de *Stipa*
+---
 
-### Tamaño de colonia
-- Excavaciones parciales indicaron una población de hasta **2,000–3,000 obreras** — inusualmente grande para una *Pogonomyrmex* sudamericana
+## Comportamiento
 
-### Forrajeo
-- Obreras **forrajeras solitarias** — no forman columnas
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Desconocida — el género *Pogonomyrmex* incluye especies agresivas y otras retraídas |
+| Actividad | Desconocida con certeza; el vuelo nupcial se registró en la tarde (posible actividad diurna) |
+| Forrajeo | **Solitario** — obreras forrajean individualmente, sin columnas |
+| Formación de filas | No |
+| Defensa | **Picadura muy dolorosa** (típica del género) |
+| Sensibilidad a vibraciones | Desconocida |
+
+---
 
 ### Vuelo nupcial
 - Registrado durante la **tarde del 3 de marzo** — verano austral

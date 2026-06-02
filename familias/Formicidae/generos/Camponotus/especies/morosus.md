@@ -132,19 +132,23 @@ Se ha observado también forrajeo sobre **carroña de bovino** (transportando re
 
 ---
 
-## Estructura de la colonia
+## Historia del descubrimiento
 
-- **Monógina** — una sola reina por colonia (Errard et al., 2003).
-- Colonias herméticas con marcada agresividad hacia otras colonias de *C. morosus* o intrusos.
-- La agresividad intercolonial es tan intensa que atrae a moscas fóridas (Phoridae) que parasitan a las hormigas durante los enfrentamientos (Segura & Brown, 2014).
+Descrita por **Frederick Smith** en 1858, en su *Catalogue of hymenopterous insects in the collection of the British Museum* (Part VI, Formicidae, página 50). El holotipo es una obrera recolectada en Chile sin datos de localidad más específicos, depositado en el BMNH (Natural History Museum, Londres). El nombre *morosus* proviene del latín "malhumorado, hosco" — probablemente en referencia al temperamento agresivo de la especie. En 1862, Mayr la transfirió al género *Camponotus*, y en 1975 Snelling & Hunt confirmaron su estatus como especie válida tras un período de confusión con *C. distinguendus*.
 
-## Comportamiento destacado
+---
 
-- **Colonias muy herméticas y agresivas** hacia otras colonias de *C. morosus* o intrusos. La agresividad intercolonial atrae moscas fóridas parasitoides durante los enfrentamientos (Segura & Brown, 2014).
-- Convive en **parabiosis** con *Brachymyrmex giardii* (Lenoir, 2001) y *Solenopsis gayi* (Errard, 2003) — tolera individuos de colonias parabióticas pero ataca a extraños de su misma especie.
-- También muestra hermetismo frente a *Linepithema humile* (hormiga argentina) (Ipinza-Regla et al., 2017).
-- Una de las especies de *Camponotus* **más comunes y abundantes de Chile**.
-- Actividad principalmente crepuscular/nocturna.
+## Comportamiento
+
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | **Alta** — colonias herméticas, muy agresivas hacia intrusos y otras colonias de su especie |
+| Actividad | Crepuscular/nocturna |
+| Forrajeo | **Solitario** — cada obrera recorre hasta 2 m desde el nido independientemente |
+| Defensa | Mandíbulas potentes + ácido fórmico; sin aguijón |
+| Formación de filas | No — forrajeo individual sin columnas |
+| Hermetismo | Muy marcado — la agresividad intercolonial atrae moscas fóridas parasitoides |
+| Parabiosis | A pesar de su agresividad, tolera *Brachymyrmex giardii* y *Solenopsis gayi* en asociación parabiótica |
 
 ---
 

@@ -141,13 +141,26 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 
 ---
 
+## Historia del descubrimiento
+
+Descrita por **Gustav Mayr** en 1877. El nombre honra a **Alexei Pavlovich Fedtschenko** (1844–1873), naturalista y explorador ruso que realizó expediciones en Asia Central (Turkestán) donde recolectó el material tipo. Fedtschenko murió a los 28 años escalando el Mont Blanc, pero su trabajo dejó numerosas especies descritas en su honor.
+
+> La especie ha generado confusión taxonómica con *C. turkestanus* desde 2001. Vendedores chinos cambiaron el nombre tres veces entre 2001 y 2019, creando caos en la comunidad de criadores.
+
+---
+
 ## Comportamiento
 
-- **Monógina** — una sola reina por colonia.
-- **Fundación claustral** — la reina no necesita alimento hasta que emergen las primeras obreras; usa sus reservas musculares alares.
-- **Actividad principalmente nocturna** en naturaleza; se adapta bien a la observación diurna en cautiverio.
-- **Defensiva con mandíbulas** ante amenazas, pero especie tímida que evita confrontaciones abiertas.
-- **Muy sensible a vibraciones** — colocar el nido en zona sin vibraciones, lejos de TV, altavoces y tráfico.
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Baja — especie tímida que evita confrontaciones abiertas |
+| Actividad | **Nocturna** en naturaleza; se adapta a observación diurna en cautiverio |
+| Forrajeo | Solitario o en pequeños grupos nocturnos |
+| Formación de filas | No — forrajeo individual |
+| Defensa | Mandíbulas; sin aguijón. Huye antes que pelear |
+| Escape | Moderado — usar PTFE/fluon |
+| Sensibilidad a vibraciones | **Muy alta** — la reina puede comer huevos si hay vibraciones frecuentes |
+| Estrés por envío | Alta sensibilidad — la reina puede canibalizar la puesta tras el transporte |
 
 ---
 

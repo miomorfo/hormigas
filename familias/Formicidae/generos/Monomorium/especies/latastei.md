@@ -95,6 +95,24 @@ No documentado específicamente. Estimado según el género: colonias de decenas
 
 ---
 
+## Historia del descubrimiento
+
+Descrita por **Carlo Emery** en 1895. El nombre *latastei* honra a **Fernand Lataste** (1847–1934), herpetólogo y naturalista francés que vivió y trabajó en Chile entre 1890 y 1910 como profesor en la Universidad de Chile. Lataste realizó importantes colectas de fauna chilena y fue un naturalista prolífico que describió numerosas especies de reptiles y anfibios chilenos.
+
+---
+
+## Comportamiento
+
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Desconocida — el género *Monomorium* suele ser de agresividad baja-media |
+| Actividad | Desconocida — probablemente diurna (típico del género en zonas mediterráneas) |
+| Forrajeo | Probablemente cooperativo en columnas pequeñas |
+| Defensa | Con aguijón funcional (Myrmicinae) — picadura leve |
+| Escape | Bajo (hormigas pequeñas) |
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

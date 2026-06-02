@@ -48,9 +48,29 @@ Especie de polimorfismo débil o ausente — obreras de tamaño relativamente un
 
 ---
 
+## Historia del descubrimiento
+
+Descrita por **Roy R. Snelling** en 1975, como parte de su revisión exhaustiva *The ants of Chile* (junto con J.H. Hunt). El nombre *pogonius* proviene del griego *pogon* (barba) — en referencia al psamóforo particularmente desarrollado de esta especie, cuyas setas superiores surgen por encima del margen inferior del foramen occipital.
+
+---
+
+## Comportamiento
+
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Baja — sin aguijón; se defienden con secreciones químicas |
+| Actividad | Posiblemente **diurna** (género típicamente activo en zonas soleadas) |
+| Forrajeo | **Cooperativo** — forman columnas de forrajeo (típico del género) |
+| Formación de filas | Sí — las *Dorymyrmex* suelen formar columnas hacia fuentes de alimento |
+| Defensa | Sin picadura; secreciones químicas defensivas |
+| Escape | Bajo |
+| Nido | Montículo irregular de tierra suelta en zonas abiertas sin vegetación |
+
+---
+
 ## Biología
 
-> ⚠️ **La biología de esta especie es poco conocida.** El libro *Historia de las Hormigas de Chile* indica: *"Sobre la biología de esta especie se conoce poco."* Los datos de cría son inferidos del comportamiento típico del género.
+> ⚠️ **La biología de esta especie es poco conocida.** Los datos de cría son inferidos del comportamiento típico del género.
 
 ### Nidificación
 - Nidos en **suelo**, en zonas abiertas sin cobertura vegetal

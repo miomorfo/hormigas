@@ -152,13 +152,24 @@ Especie de **crecimiento rápido** comparada con *Camponotus* — una de las má
 
 ---
 
+## Historia del descubrimiento
+
+Descrita por **Carl Linnaeus** en 1767 en la duodécima edición de su *Systema Naturae* como *Formica barbara*. Es una de las hormigas más tempranamente documentadas en la historia de la entomología. El nombre *barbarus* significa "bárbaro" o "extranjero" en latín — probablemente por su origen norteafricano/mediterráneo visto desde la perspectiva nórdica de Linneo. Posteriormente transferida al género *Messor* por Forel.
+
+---
+
 ## Comportamiento
 
-- **Monógina** — una sola reina por colonia.
-- **Forrajeo óptimo:** Seleccionan semillas según tamaño, valor nutritivo y distancia al nido — comportamiento estudiado científicamente (Azcárate et al., 2005).
-- **"Pan de hormiga":** Los soldados trituran semillas duras con sus mandíbulas; las obreras procesan la pasta resultante para alimentar larvas y reina.
-- **Torpes y malas escaladoras** — raramente escapan de outworlds con bordes lisos.
-- **Actividad diurna** en condiciones cálidas; reducen actividad en calor extremo.
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Baja con el criador; moderada entre colonias |
+| Actividad | **Diurna** — activas durante el día en condiciones cálidas; reducen actividad con calor extremo |
+| Forrajeo | **Columnas organizadas** — forman filas densas hacia fuentes de semillas |
+| Formación de filas | ✅ Sí — uno de los comportamientos más vistosos del hobby |
+| Selección de alimento | Óptima — eligen semillas según tamaño, valor nutritivo y distancia (Azcárate et al., 2005) |
+| Escape | Muy bajo — torpes y malas escaladoras |
+| Sensibilidad a vibraciones | Baja — especie robusta y tolerante |
+| Comportamiento especial | "Pan de hormiga" — los soldados trituran semillas duras; las obreras procesan la pasta |
 
 ---
 

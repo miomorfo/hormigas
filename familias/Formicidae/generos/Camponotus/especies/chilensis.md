@@ -122,12 +122,23 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 
 ---
 
-## Comportamiento destacado
+## Historia del descubrimiento
 
-- Convive en **parabiosis** con *Brachymyrmex giardii* (Ortiz-Sepúlveda et al., 2019) — coexistencia pacífica entre colonias de distintas especies en el mismo nido.
-- Registrada como **posible polinizadora** de *Lomatia hirsuta* (Proteaceae), árbol nativo del sur de Chile y Argentina — uno de los pocos registros de hormiga polinizadora en Sudamérica (Pereyra et al., 2024).
-- Especie nativa de Chile, bien adaptada al clima local.
-- Actividad principalmente crepuscular/nocturna.
+Descrita por **Maximilian Spinola** en 1851, dentro de la monumental obra *Historia Física y Política de Chile* dirigida por el naturalista francés **Claudio Gay**. El tipo fue recolectado probablemente por Gay en los alrededores de Santiago. La descripción original está en el tomo 6 de Zoología (Himenópteros), publicado en París. Spinola describió tanto obreras como reina a partir de sintipos cuyo depósito se encuentra en el MRSN (Museo Regional de Ciencias Naturales de Turín, Italia).
+
+---
+
+## Comportamiento
+
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Baja-media — generalmente dócil con el criador |
+| Actividad | Crepuscular/nocturna principalmente |
+| Forrajeo | Solitario o en pequeños grupos; no forma columnas densas |
+| Defensa | Mandíbulas + ácido fórmico (spray); sin aguijón |
+| Escape | Moderado — usar PTFE/fluon en bordes del outworld |
+| Sensibilidad a vibraciones | Moderada |
+| Parabiosis | Convive con *Brachymyrmex giardii* en el mismo nido |
 
 ---
 

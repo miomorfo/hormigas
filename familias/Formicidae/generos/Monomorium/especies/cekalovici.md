@@ -98,11 +98,21 @@ No documentado específicamente. Estimado según el género *Monomorium*: coloni
 
 ---
 
+## Historia del descubrimiento
+
+Descrita por **Roy R. Snelling** en 1975, dentro de la revisión *The ants of Chile*. El nombre *cekalovici* honra a **Tomás Cekalovic K.**, entomólogo chileno de la Universidad de Concepción que realizó importantes colectas de insectos en Chile central y sur durante décadas. Cekalovic contribuyó significativamente al conocimiento de la entomofauna chilena.
+
+---
+
 ## Comportamiento
 
-- Especie **poco estudiada** — la mayoría de los datos biológicos son inferidos del género.
-- Distribución muy restringida al **Chile mediterráneo central** (Valparaíso–O'Higgins).
-- Coloración tricolor (negro–naranja–negro) la hace fácilmente identificable en campo.
+| Rasgo | Descripción |
+|-------|-------------|
+| Agresividad | Desconocida — el género *Monomorium* suele ser de agresividad baja-media |
+| Actividad | Desconocida — probablemente diurna (típico del género) |
+| Forrajeo | Probablemente cooperativo en columnas pequeñas |
+| Defensa | Con aguijón funcional (Myrmicinae) — picadura leve |
+| Escape | Bajo (hormigas pequeñas, malas escaladoras) |
 
 ---
 
