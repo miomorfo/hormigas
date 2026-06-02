@@ -94,6 +94,7 @@ Orden: Hymenoptera
 - [📖 Glosario de mirmecología](glosario.md) — términos técnicos usados en las fichas
 - [🔬 Taxonomía y pronunciación](taxonomia.md) — cómo se clasifican y nombran las hormigas
 - [🍯 Guía de alimentación](alimentacion.md) — recetas de néctar, gel proteico, semillas e insectos disponibles en Chile
+- [🥚 Ciclo de desarrollo](desarrollo.md) — estadios de huevo a adulto, capullo de seda, tiempos por especie
 
 ---
 

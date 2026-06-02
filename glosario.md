@@ -79,11 +79,23 @@ Términos técnicos usados en las fichas de este repositorio.
 
 | Término | Definición |
 |---------|-----------|
+| **Huevo** | Primer estadio. Oval, blanco traslúcido, 0.5–1 mm. Se desarrolla por 1–3 semanas sin alimentación externa. |
+| **Larva** | Segundo estadio. Gusano blanco sin patas que se alimenta activamente y crece a través de varias mudas (instares). Único estadio que come. |
+| **Instar** | Cada fase de crecimiento larval entre mudas sucesivas. Las larvas pasan por 4–5 instares antes de pupar. |
+| **Pupa** | Tercer estadio. Metamorfosis: el cuerpo larval se reorganiza en hormiga adulta. No se alimenta ni se mueve. |
+| **Capullo de seda** | Envoltura protectora tejida por la larva (desde glándulas labiales) antes de pupar. Presente en Formicinae, ausente en Myrmicinae y Dolichoderinae. |
+| **Pupa desnuda** | Pupa sin capullo de seda — se ve directamente la forma de la hormiga en desarrollo. Típica de Myrmicinae y Dolichoderinae. |
+| **Imago** | Adulto recién emergido. Inicialmente de color pálido (calleral) que se oscurece en 1–3 días al endurecerse el exoesqueleto. |
+| **Calleral** | Hormiga adulta recién eclosionada, de color claro, con exoesqueleto aún blando. |
+| **Esclerotización** | Proceso de endurecimiento y oscurecimiento del exoesqueleto tras la eclosión. |
+| **Holometábolo** | Insecto con metamorfosis completa (huevo → larva → pupa → adulto). Todas las hormigas son holometábolos. |
+| **Acidoporo** | Abertura glandular en la punta del gáster de las Formicinae por donde expulsan ácido fórmico. |
+| **Ácido fórmico** | Compuesto químico (HCOOH) producido por las Formicinae como mecanismo de defensa. Se rocía sobre enemigos. Da nombre a la familia Formicidae. |
 | **Diapausa** | Período de inactividad metabólica inducido por condiciones ambientales (frío, sequía). La reina detiene la puesta. |
 | **Hibernación** | Diapausa invernal prolongada (2–5 meses) con reducción significativa de temperatura. |
 | **Brood** | Conjunto de huevos, larvas y pupas de la colonia. |
 | **Metamorfosis completa** | Ciclo huevo → larva → pupa → adulto. Todas las hormigas tienen metamorfosis completa (holometábolos). |
-| **Capullo** | Envoltura de seda que protege a la pupa durante su desarrollo. Presente en algunas subfamilias, ausente en otras. |
+| **Trofalaxis** | Intercambio de alimento líquido boca a boca entre hormigas, o de obrera a larva. Principal método de alimentación de las larvas. |
 
 ---
 

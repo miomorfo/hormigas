@@ -64,9 +64,10 @@ Reglas:
 
 ### Formicinae
 
-- Sin aguijón — se defienden con ácido fórmico (spray ácido)
+- Sin aguijón — se defienden con **ácido fórmico** rociado por el acidoporo (abertura en la punta del gáster)
 - Un solo nodo peciolar
 - Glándula metapleural ausente
+- Pupas con **capullo de seda** (las larvas lo tejen antes de pupar)
 - Géneros aquí: *Camponotus*, *Brachymyrmex*
 
 ### Myrmicinae
@@ -74,13 +75,15 @@ Reglas:
 - Con aguijón funcional (pueden picar)
 - Dos nodos peciolares (pecíolo + postpecíolo)
 - La subfamilia más diversa de hormigas
+- Pupas **desnudas** (sin capullo de seda)
 - Géneros aquí: *Monomorium*, *Messor*, *Acanthomyrmex*, *Pogonomyrmex*
 
 ### Dolichoderinae
 
 - Sin aguijón funcional
 - Un solo nodo peciolar
-- Producen secreciones defensivas químicas (no ácido fórmico)
+- Producen secreciones defensivas químicas volátiles (terpenoides, no ácido fórmico)
+- Pupas **desnudas** (sin capullo de seda)
 - Géneros aquí: *Dorymyrmex*
 
 ---
