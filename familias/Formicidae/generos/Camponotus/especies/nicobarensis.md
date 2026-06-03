@@ -171,6 +171,17 @@ Descrita por **Gustav Mayr** en 1865 como parte de la obra zoológica de la expe
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | 15–25 años |
+| Obreras | 1–5 años |
+
+> Datos basados en el género *Camponotus*. Sin estudios específicos para *C. nicobarensis* en cautiverio.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

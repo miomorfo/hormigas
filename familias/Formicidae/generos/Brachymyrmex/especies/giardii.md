@@ -118,6 +118,17 @@ Descrita por **Carlo Emery** en 1895. El nombre *giardii* fue otorgado en honor 
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | Desconocido (probablemente < 5 años dado el tamaño diminuto) |
+| Obreras | Probablemente < 1 año |
+
+> Sin datos específicos para el género *Brachymyrmex*. Estimación basada en géneros de tamaño similar.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

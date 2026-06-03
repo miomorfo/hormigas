@@ -144,6 +144,17 @@ Descrita por **Maximilian Spinola** en 1851, dentro de la monumental obra *Histo
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | 15–25 años |
+| Obreras | 1–5 años |
+
+> Datos basados en el género *Camponotus*. Sin estudios específicos para *C. chilensis*.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

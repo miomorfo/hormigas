@@ -175,6 +175,17 @@ Descrita por **Carl Linnaeus** en 1767 en la duodécima edición de su *Systema 
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | 15–20 años |
+| Obreras | 1–3 años |
+
+> Datos basados en el género *Messor*. Reinas de *M. barbarus* pueden vivir más de 15 años en cautiverio con condiciones óptimas.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

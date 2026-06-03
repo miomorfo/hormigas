@@ -118,6 +118,17 @@ Descrita por **Roy R. Snelling** en 1975, dentro de la revisión *The ants of Ch
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | 5–10 años (estimado) |
+| Obreras | < 1 año |
+
+> Sin datos específicos para *M. cekalovici*. Estimación basada en *M. pharaonis* y otros *Monomorium*.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

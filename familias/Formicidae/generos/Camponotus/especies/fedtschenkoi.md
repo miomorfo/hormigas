@@ -166,6 +166,17 @@ Descrita por **Gustav Mayr** en 1877. El nombre honra a **Alexei Pavlovich Fedts
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | 15–25 años |
+| Obreras | 1–5 años |
+
+> Datos basados en el género *Camponotus*. Sin estudios específicos para *C. fedtschenkoi*.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

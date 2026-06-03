@@ -125,6 +125,17 @@ La picadura de *Pogonomyrmex* es **extremadamente dolorosa** — puede causar:
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | 20–30 años |
+| Obreras | 1–2 años |
+
+> El género *Pogonomyrmex* tiene algunas de las reinas más longevas documentadas — *P. occidentalis* con reinas de hasta 30 años. Sin datos específicos para *P. maulensis*.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

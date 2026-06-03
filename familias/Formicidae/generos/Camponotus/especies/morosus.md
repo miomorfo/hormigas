@@ -154,6 +154,17 @@ Descrita por **Frederick Smith** en 1858, en su *Catalogue of hymenopterous inse
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | 15–25 años |
+| Obreras | 1–5 años |
+
+> Datos basados en el género *Camponotus*. Sin estudios específicos para *C. morosus*.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

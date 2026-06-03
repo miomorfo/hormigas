@@ -115,6 +115,17 @@ Tanto la **reina como los soldados** producen **huevos tróficos** — huevos no
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | Desconocido |
+| Obreras | Desconocido |
+
+> Sin datos documentados para el género *Acanthomyrmex*.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

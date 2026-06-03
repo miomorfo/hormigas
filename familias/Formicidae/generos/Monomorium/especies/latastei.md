@@ -115,6 +115,17 @@ Descrita por **Carlo Emery** en 1895. El nombre *latastei* honra a **Fernand Lat
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | 5–10 años (estimado) |
+| Obreras | < 1 año |
+
+> Sin datos específicos para *M. latastei*. Estimación basada en el género *Monomorium*.
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |

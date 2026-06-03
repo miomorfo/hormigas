@@ -126,6 +126,17 @@ Estimados según el hábitat natural (Chile mediterráneo central, zonas secas):
 
 ---
 
+## Esperanza de vida
+
+| Casta | Estimación |
+|-------|-----------|
+| Reina | Desconocido |
+| Obreras | Desconocido |
+
+> Sin datos para el género *Dorymyrmex*. Probablemente similar a otras Dolichoderinae (reina 5–15 años, obreras 1–2 años).
+
+---
+
 ## Dificultad de cría
 
 | Criterio | Valoración |
