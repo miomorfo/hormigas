@@ -105,6 +105,9 @@ Orden: Hymenoptera
 - [🍯 Guía de alimentación](alimentacion.md) — recetas de néctar, gel proteico, semillas e insectos disponibles en Chile
 - [🥚 Ciclo de desarrollo](desarrollo.md) — estadios de huevo a adulto, capullo de seda, tiempos por especie
 - [✈️ Vuelos nupciales en Chile](vuelos-nupciales.md) — calendario de vuelos por especie con fechas y disparadores
+- [🏠 Guía de fundación](fundacion.md) — pasos desde reina capturada hasta primeras obreras
+- [🔧 Problemas comunes](problemas.md) — diagnóstico y soluciones: moho, ácaros, reina que no pone, escapes
+- [🧱 Materiales de nido](materiales-nido.md) — comparativa de materiales con pros, contras y recomendaciones por especie
 
 ---
 

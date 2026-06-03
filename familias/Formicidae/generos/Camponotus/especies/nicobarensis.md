@@ -117,7 +117,7 @@ parent: Camponotus
 - **En cautiverio:** Acepta bien nidos de:
   - Acrílico / plástico con cámaras grabadas
   - Corcho natural (excelente aislante térmico)
-  - Madera de balsa o pino sin tratar
+  - Madera sin tratar
   - Impresión 3D (PETG)
   - Tubos de ensayo (fase de fundación)
 
