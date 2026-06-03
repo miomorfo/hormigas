@@ -66,6 +66,7 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 - *P. maulensis* (~2,000–3,000)
 - *C. morosus* (~2,000)
 - *D. pogonius* (~5,000)
+- *D. goetschi* (~5,000)
 
 ### Polimorfismo espectacular
 - *C. fedtschenkoi* (obreras translúcidas → soldados cabeza negra)

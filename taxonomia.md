@@ -124,6 +124,7 @@ Los nombres científicos vienen del latín y griego. No hay una pronunciación "
 | *barbarus* | BAR-ba-rus | Del latín *barbarus* — "bárbaro, extranjero" |
 | *maulensis* | mau-LEN-sis | De la Región del Maule — "del Maule" |
 | *pogonius* | po-GO-nius | Del griego *pogon* — "barbudo" (por el psamóforo desarrollado) |
+| *goetschi* | GUETCH-i | En honor a Wilhelm Goetsch, zoólogo alemán que estudió hormigas de Chile |
 
 ---
 

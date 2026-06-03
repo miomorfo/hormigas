@@ -18,6 +18,9 @@ Términos técnicos usados en las fichas de este repositorio.
 | **Pecíolo** | Segmento estrecho que conecta el tórax con el gáster. Puede tener uno o dos nodos según la subfamilia. |
 | **Postpecíolo** | Segundo nodo entre el pecíolo y el gáster, presente en Myrmicinae. |
 | **Propodeo** | Último segmento del tórax (mesosoma). Puede tener espinas, dientes o ángulos según la especie. |
+| **Frons** | Superficie frontal de la cabeza, entre los ojos y el clípeo. |
+| **Foramen occipital** | Abertura posterior de la cabeza por donde pasa el cuello (conexión cabeza-tórax). Referencia anatómica usada para describir la posición de las setas del psamóforo. |
+| **Ferrugíneo/a** | Color rojo óxido o herrumbre. Tono rojizo-anaranjado frecuente en antenas, cabezas y tórax de varias especies. Del latín *ferrugineus* (de hierro). |
 | **Psamóforo** | "Barba" de pelos rígidos en la superficie ventral de la cabeza, usada para transportar arena o tierra durante la excavación. Presente en *Pogonomyrmex* y *Dorymyrmex*. |
 | **Clípeo** | Placa frontal de la cabeza, entre las mandíbulas y las antenas. |
 | **Escapo** | Primer segmento largo de la antena. |
@@ -109,6 +112,7 @@ Términos técnicos usados en las fichas de este repositorio.
 | **Gradiente de humedad** | Diferencia de humedad entre zonas del nido — zona de cría húmeda + zona de almacenamiento seca. |
 | **Matorral esclerófilo** | Tipo de vegetación mediterránea con arbustos de hojas duras. Hábitat de *C. morosus* en Chile. |
 | **PTFE / Fluon** | Politetrafluoroetileno — barrera antiescape aplicada en los bordes del outworld. Las hormigas no pueden trepar superficies tratadas con PTFE. |
+| **Terpenoides** | Compuestos químicos volátiles producidos por las Dolichoderinae como mecanismo de defensa. Se acumulan en nidos cerrados sin ventilación. Diferentes al ácido fórmico de las Formicinae. |
 
 ---
 
