@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Glosario
-parent: Guías
-nav_order: 2
+parent: Aprendizaje
+grand_parent: Guías
+nav_order: 3
 ---
 
 # Glosario de mirmecología

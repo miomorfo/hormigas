@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Materiales de nido
-parent: Guías
-nav_order: 8
+parent: Crianza
+grand_parent: Guías
+nav_order: 3
 ---
 
 # Materiales de nido — comparativa

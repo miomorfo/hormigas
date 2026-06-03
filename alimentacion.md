@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Alimentación
-parent: Guías
-nav_order: 4
+parent: Crianza
+grand_parent: Guías
+nav_order: 2
 ---
 
 # Guía de alimentación para hormigas en cautiverio

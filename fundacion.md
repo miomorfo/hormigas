@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Guía de fundación
-parent: Guías
-nav_order: 7
+parent: Crianza
+grand_parent: Guías
+nav_order: 1
 ---
 
 # Guía de fundación: de reina a colonia

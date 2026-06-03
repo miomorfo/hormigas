@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Problemas comunes
-parent: Guías
-nav_order: 9
+parent: Crianza
+grand_parent: Guías
+nav_order: 4
 ---
 
 # Problemas comunes y soluciones

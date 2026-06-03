@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Tabla comparativa
-parent: Guías
+parent: Referencia
+grand_parent: Guías
 nav_order: 1
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Ciclo de desarrollo
-parent: Guías
-nav_order: 5
+parent: Aprendizaje
+grand_parent: Guías
+nav_order: 2
 ---
 
 # Ciclo de desarrollo: de huevo a hormiga adulta

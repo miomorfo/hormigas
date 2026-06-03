@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Taxonomía
-parent: Guías
-nav_order: 3
+parent: Aprendizaje
+grand_parent: Guías
+nav_order: 1
 ---
 
 # Introducción a la taxonomía de hormigas
