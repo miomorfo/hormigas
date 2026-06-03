@@ -23,6 +23,7 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 | *Acanthomyrmex* sp. | Myrmicinae | Sudeste Asiático | 🔴 | Semillas + insectos | 25–29 °C | No | ~300 | Extremo | [→](familias/Formicidae/generos/Acanthomyrmex/README.md) |
 | *P. maulensis* | Myrmicinae | Chile endémica | ⭐⭐ | Semillas + insectos | 18–24 °C | ✅ Sí | ~2,000–3,000 | Débil | [→](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) |
 | *D. pogonius* | Dolichoderinae | Chile endémica | ⭐⭐ | Omnívora | 20–26 °C | Diapausa suave | ~5,000 | Débil | [→](familias/Formicidae/generos/Dorymyrmex/especies/pogonius.md) |
+| *D. goetschi* | Dolichoderinae | Chile endémica | ⭐⭐ | Omnívora | 20–26 °C | Diapausa suave | ~5,000 | Débil | [→](familias/Formicidae/generos/Dorymyrmex/especies/goetschi.md) |
 
 ---
 
@@ -56,6 +57,7 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 - *M. latastei*
 - *P. maulensis*
 - *D. pogonius*
+- *D. goetschi*
 
 ### Colonias grandes (>2,000 obreras)
 - *C. nicobarensis* (~10,000)

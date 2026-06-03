@@ -46,6 +46,7 @@ Es el evento reproductivo donde las reinas vírgenes y machos alados salen del n
 |---------|---------------|----------|-------------|
 | *D. chilensis* | Octubre–enero | Atacama a Biobío | — * |
 | *D. antarcticus* | Septiembre–noviembre (estimado) | Biobío a Magallanes | — ** |
+| *D. goetschi* | Desconocido | Antofagasta a La Araucanía | — ** |
 
 ---
 

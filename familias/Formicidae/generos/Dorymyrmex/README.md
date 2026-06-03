@@ -37,3 +37,4 @@ Género de hormigas de la subfamilia Dolichoderinae, exclusivo del continente am
 | Especie | Distribución | Ficha |
 |---------|-------------|-------|
 | *D. pogonius* | Chile endémica (R. Metropolitana–Ñuble) | [Ver ficha](especies/pogonius.md) |
+| *D. goetschi* | Chile endémica (Antofagasta–La Araucanía) | [Ver ficha](especies/goetschi.md) |
