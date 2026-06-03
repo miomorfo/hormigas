@@ -64,6 +64,8 @@ Reglas:
 
 ### Formicinae
 
+**Etimología:** Del latín *formica* (hormiga) + sufijo *-inae*. La subfamilia que da nombre a toda la familia Formicidae y al ácido fórmico.
+
 - Sin aguijón — se defienden con **ácido fórmico** rociado por el acidoporo (abertura en la punta del gáster)
 - Un solo nodo peciolar
 - Glándula metapleural ausente
@@ -72,6 +74,8 @@ Reglas:
 
 ### Myrmicinae
 
+**Etimología:** Del griego *myrmex* (hormiga) + sufijo *-inae*. "Las hormigas por excelencia" — la subfamilia más diversa.
+
 - Con aguijón funcional (pueden picar)
 - Dos nodos peciolares (pecíolo + postpecíolo)
 - La subfamilia más diversa de hormigas
@@ -79,6 +83,8 @@ Reglas:
 - Géneros aquí: *Monomorium*, *Messor*, *Acanthomyrmex*, *Pogonomyrmex*
 
 ### Dolichoderinae
+
+**Etimología:** Del griego *dolichos* (largo) + *derē* (cuello) + sufijo *-inae*. "Las de cuello largo" — en referencia a la forma alargada de la unión entre el pecíolo y el gáster.
 
 - Sin aguijón funcional
 - Un solo nodo peciolar
