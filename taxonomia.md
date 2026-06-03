@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Taxonomía
+parent: Guías
 nav_order: 3
 ---
 

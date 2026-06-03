@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Vuelos nupciales
-nav_order: 7
+parent: Guías
+nav_order: 6
 ---
 
 # Vuelos nupciales de hormigas en Chile

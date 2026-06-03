@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Problemas comunes
+parent: Guías
 nav_order: 9
 ---
 

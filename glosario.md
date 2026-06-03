@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Glosario
+parent: Guías
 nav_order: 2
 ---
 

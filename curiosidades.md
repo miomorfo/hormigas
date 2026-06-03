@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Curiosidades
-nav_order: 11
+parent: Guías
+nav_order: 10
 ---
 
 # Curiosidades sobre hormigas
