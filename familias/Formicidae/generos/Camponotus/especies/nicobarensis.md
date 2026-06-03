@@ -96,7 +96,7 @@ parent: Camponotus
 ### Hibernación / Diapausa
 - **No requiere hibernación obligatoria.** Es una especie tropical.
 - Se puede mantener activa todo el año a temperatura constante.
-- Algunos criadores aplican una diapausa suave (20–22 °C, 2–3 meses) para sincronizar el ciclo y mejorar la producción de sexuados. No es imprescindible.
+- Algunos criadores aplican una diapausa suave (20–22 °C, **junio a agosto**) para sincronizar el ciclo y mejorar la producción de sexuados. No es imprescindible.
 
 ---
 

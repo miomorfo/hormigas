@@ -110,7 +110,7 @@ Estimados según el hábitat natural (Chile mediterráneo central, zonas secas):
 |-----------|---------------|
 | Temperatura nido | 20–26 °C |
 | Humedad nido | 35–50% — especie de hábitat seco |
-| Hibernación | Recomendable diapausa suave (12–16 °C, 2–3 meses) |
+| Hibernación | Recomendable diapausa suave (12–16 °C, **junio–agosto**) |
 
 > Especie de zonas secas — evitar exceso de humedad en el nido.
 

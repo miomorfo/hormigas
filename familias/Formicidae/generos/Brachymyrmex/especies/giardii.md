@@ -93,7 +93,7 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 |-----------|------------------|
 | Temperatura nido | 20–25 °C |
 | Humedad nido | 50–65% |
-| Hibernación | Recomendable diapausa suave (15–18 °C, 2 meses) |
+| Hibernación | Recomendable diapausa suave (15–18 °C, **junio–julio**, 2 meses) |
 
 ---
 

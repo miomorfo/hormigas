@@ -81,7 +81,7 @@ Datos no documentados específicamente para esta especie. Estimado según el gé
 |-----------|------------------|
 | Temperatura nido | 22–26 °C |
 | Humedad nido | 50–65% |
-| Hibernación | Recomendable diapausa suave (15–18 °C, 2–3 meses) — especie de clima mediterráneo |
+| Hibernación | Recomendable diapausa suave (15–18 °C, **junio–agosto**) |
 
 ---
 

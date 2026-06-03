@@ -97,9 +97,9 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 
 ### Hibernación / Diapausa
 - **Requiere diapausa invernal.** Especie de clima mediterráneo y templado.
-- Reducir temperatura a 10–15 °C durante 2–3 meses (otoño-invierno).
+- Reducir temperatura a 10–15 °C durante **mayo a julio** (2–3 meses).
 - Durante la diapausa: alimentación mínima o nula, mantener humedad.
-- Reiniciar actividad gradualmente en primavera.
+- Reiniciar actividad gradualmente en agosto, subiendo temperatura 1–2 °C por semana.
 
 ---
 

@@ -109,7 +109,7 @@ Especie de **crecimiento rápido** comparada con *Camponotus* — una de las má
 > El gradiente de humedad es clave: cámara de cría húmeda + granero seco. Los nidos con cámaras diferenciadas (Ytong, yeso) facilitan esto.
 
 ### Hibernación / Diapausa
-- **Requiere hibernación.** De finales de octubre a principios de marzo (~4–5 meses).
+- **Requiere hibernación.** De **mayo a agosto** (~4 meses).
 - Temperatura ideal: **12–16 °C** (nunca bajar de 10 °C).
 - La reina detiene la puesta — fase de descanso esencial para su longevidad.
 - Se puede omitir la primera hibernación sin daño significativo para colonias muy jóvenes.

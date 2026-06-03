@@ -107,9 +107,9 @@ Se ha observado también forrajeo sobre **carroña de bovino** (transportando re
 
 ### Hibernación / Diapausa
 - **Requiere diapausa invernal.** Especie de clima mediterráneo a subantártico.
-- Reducir temperatura a 8–14 °C durante 2–3 meses (otoño-invierno).
+- Reducir temperatura a 8–14 °C durante **mayo a julio** (2–3 meses).
 - Durante la diapausa: alimentación mínima o nula, mantener humedad del nido.
-- Reiniciar actividad gradualmente en primavera aumentando temperatura 1–2 °C por semana.
+- Reiniciar actividad gradualmente en agosto, aumentando temperatura 1–2 °C por semana.
 
 ---
 

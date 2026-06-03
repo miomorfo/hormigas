@@ -78,7 +78,7 @@ Estimados según el género y el clima de su distribución natural (Chile medite
 |-----------|---------------|
 | Temperatura nido | 20–25 °C |
 | Humedad nido | 50–65% |
-| Hibernación | Recomendable diapausa suave (12–16 °C, 2–3 meses) |
+| Hibernación | Recomendable diapausa suave (12–16 °C, **junio–agosto**) |
 
 ---
 

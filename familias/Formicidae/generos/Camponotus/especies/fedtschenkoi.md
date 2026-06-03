@@ -107,10 +107,10 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 
 ### Hibernación / Diapausa
 - **No requiere hibernación profunda.** Diapausa corta y suave.
-- Reducir temperatura a **15–18 °C** de diciembre a enero (6–8 semanas).
-- La reina detiene la puesta de diciembre a febrero.
+- Reducir temperatura a **15–18 °C** durante **junio y julio** (6–8 semanas).
+- La reina detiene la puesta de junio a agosto aproximadamente.
 - La colonia permanece activa — seguir ofreciendo agua y carbohidratos; proteína mínima cada 2 semanas.
-- Reiniciar gradualmente: subir 0.5 °C cada dos días hasta alcanzar temperatura óptima.
+- Reiniciar gradualmente en agosto: subir 0.5 °C cada dos días hasta alcanzar temperatura óptima.
 
 ---
 
