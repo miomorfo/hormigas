@@ -204,6 +204,12 @@ Descrita por **Gustav Mayr** en 1865 como parte de la obra zoológica de la expe
 
 ---
 
+> 💡 **¿Sabías que?** *C. nicobarensis* se comunica por **vibración**: golpean el gáster contra las paredes del nido para alertar de comida o peligro. Es como un sistema de telégrafo dentro del nido.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Mayr, G. (1865). *Formicidae*. Reise der österreichischen Fregatte Novara.

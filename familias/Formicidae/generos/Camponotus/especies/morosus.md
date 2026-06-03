@@ -186,6 +186,12 @@ Descrita por **Frederick Smith** en 1858, en su *Catalogue of hymenopterous inse
 
 ---
 
+> 💡 **¿Sabías que?** Cuando dos colonias de *C. morosus* pelean, la violencia es tan intensa que atrae **moscas fóridas parasitoides** (*Phoridae*) — estas moscas aprovechan la confusión para depositar sus huevos dentro de las hormigas heridas.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Smith, F. (1858). Catalogue of hymenopterous insects in the collection of the British Museum. Part VI. Formicidae. p. 50.

@@ -160,6 +160,12 @@ Se necesitan estudios sobre:
 
 ---
 
+> 💡 **¿Sabías que?** *D. pogonius* debe su nombre al griego *pogon* (barba) — por su psamóforo particularmente desarrollado. Es la misma raíz que *Pogonomyrmex* ("hormiga barbuda"). Las dos comparten el psamóforo pero pertenecen a subfamilias completamente distintas.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Snelling, R.R. (1975). Descripción de *Dorymyrmex pogonius*. En: Snelling, R.R. & Hunt, J.H. The ants of Chile (Hymenoptera: Formicidae). *Rev. Chil. Entomol.* 9: 63–129.

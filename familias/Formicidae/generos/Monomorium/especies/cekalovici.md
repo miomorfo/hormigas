@@ -152,6 +152,12 @@ La biología de *M. cekalovici* es **escasamente documentada**. Se necesitan má
 
 ---
 
+> 💡 **¿Sabías que?** La coloración tricolor de *M. cekalovici* (negro–naranja–negro) la hace una de las hormigas más fáciles de identificar en Chile. Fue nombrada en honor a Tomás Cekalovic, entomólogo chileno de la Universidad de Concepción que dedicó décadas a documentar la entomofauna del país.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Snelling, R.R. (1975). Descripción de *Monomorium cekalovici*. En: Snelling, R.R. & Hunt, J.H. The ants of Chile (Hymenoptera: Formicidae). *Rev. Chil. Entomol.* 9: 63–129.

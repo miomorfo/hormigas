@@ -136,6 +136,12 @@ Basado en el comportamiento típico del género *Dorymyrmex* (omnívoro):
 
 ---
 
+> 💡 **¿Sabías que?** *D. goetschi* construye nidos con entrada en forma de **volcán** — montículos cónicos de tierra que la identifican a distancia. Wilhelm Goetsch, que la describió en 1933, fue uno de los primeros científicos en dedicar un estudio completo a las hormigas de Chile.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Goetsch, W. (1933). Descripción de *Dorymyrmex goetschi*.

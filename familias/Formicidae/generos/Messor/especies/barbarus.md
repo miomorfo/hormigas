@@ -208,6 +208,12 @@ Descrita por **Carl Linnaeus** en 1767 en la duodécima edición de su *Systema 
 
 ---
 
+> 💡 **¿Sabías que?** *M. barbarus* "inventó" la panadería: los soldados con cabeza roja trituran semillas duras con sus mandíbulas gigantes para crear una pasta llamada "pan de hormiga" que alimenta a toda la colonia. Linnaeus la describió en 1767 — una de las primeras hormigas en recibir nombre científico.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Linnaeus, C. (1767). Descripción original de *Formica barbara*.

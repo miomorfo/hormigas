@@ -149,6 +149,12 @@ Descrita por **Carlo Emery** en 1895. El nombre *giardii* fue otorgado en honor 
 
 ---
 
+> 💡 **¿Sabías que?** Las obreras "mieleras" de *B. giardii* funcionan igual que las famosas hormigas de miel norteamericanas (*Myrmecocystus*) — son "tanques vivientes" que cuelgan del techo del nido. Ambos géneros evolucionaron este comportamiento de forma independiente, separados por miles de kilómetros.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Emery, C. (1895). Descripción de *Brachymyrmex giardii*.

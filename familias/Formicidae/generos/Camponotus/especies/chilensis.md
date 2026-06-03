@@ -176,6 +176,12 @@ Descrita por **Maximilian Spinola** en 1851, dentro de la monumental obra *Histo
 
 ---
 
+> 💡 **¿Sabías que?** *C. chilensis* es una de las pocas hormigas del mundo registrada como **posible polinizadora** de un árbol nativo — *Lomatia hirsuta* (Proteaceae). La mayoría de las hormigas son consideradas "ladronas" de néctar sin aportar a la polinización.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Spinola, M. (1851). Insectos. Orden 7. Himenópteros. En: Gay, C. *Historia física y política de Chile*. Zoología, Tomo 6. París: Maulde & Renon. p. 237.

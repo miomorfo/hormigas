@@ -149,7 +149,11 @@ Tanto la **reina como los soldados** producen **huevos tróficos** — huevos no
 
 ## Especies documentadas
 
-> Pendiente — añadir ficha cuando se determine la especie.
+> 💡 **¿Sabías que?** Los soldados de *Acanthomyrmex* **no forrajean ni trabajan** — su único rol es poner huevos tróficos (alimento para la colonia) y defender el nido. Son literalmente "fábricas de comida con patas".
+
+---
+
+## Especies documentadas
 
 ---
 

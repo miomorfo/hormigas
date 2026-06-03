@@ -161,6 +161,12 @@ Especie descrita en 2021 — una de las más recientemente descritas de Chile. S
 
 ---
 
+> 💡 **¿Sabías que?** *P. maulensis* fue descrita recién en 2021 — una de las hormigas más recientemente descubiertas de Chile. Solo se conoce de dos puntos junto al río Maule. El género *Pogonomyrmex* tiene reinas que pueden vivir hasta 30 años — posiblemente las hormigas más longevas del planeta.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Johnson, R.A. (2021). Descripción de *Pogonomyrmex maulensis*. Revisión de *Pogonomyrmex* sudamericanos.

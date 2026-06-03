@@ -99,6 +99,9 @@ Términos técnicos usados en las fichas de este repositorio.
 | **Brood** | Conjunto de huevos, larvas y pupas de la colonia. |
 | **Metamorfosis completa** | Ciclo huevo → larva → pupa → adulto. Todas las hormigas tienen metamorfosis completa (holometábolos). |
 | **Trofalaxis** | Intercambio de alimento líquido boca a boca entre hormigas, o de obrera a larva. Principal método de alimentación de las larvas. |
+| **Superorganismo** | Concepto que describe a la colonia como un ser vivo único donde ningún individuo puede sobrevivir solo: obreras = células, reina = aparato reproductor, soldados = sistema inmune. |
+| **Feromona** | Sustancia química emitida por una hormiga que provoca una respuesta en otras. Tipos: alarma, rastro, reclutamiento, reconocimiento colonial, sexual. |
+| **Escala de Schmidt** | Escala de dolor de 1 a 4 desarrollada por Justin O. Schmidt para clasificar picaduras de insectos. *Pogonomyrmex* está en nivel 3. |
 
 ---
 

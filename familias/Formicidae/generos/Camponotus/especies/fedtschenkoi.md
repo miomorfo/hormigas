@@ -201,6 +201,12 @@ Descrita por **Gustav Mayr** en 1877. El nombre honra a **Alexei Pavlovich Fedts
 
 ---
 
+> 💡 **¿Sabías que?** Las obreras menores de *C. fedtschenkoi* son tan pálidas que parecen **fantasmas translúcidos** — sus patas son prácticamente invisibles contra fondos claros. El explorador ruso Fedtschenko, en cuyo honor se nombró la especie, murió a los 28 años escalando el Mont Blanc.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Mayr, G. (1877). Descripción original de *Camponotus fedtschenkoi*.

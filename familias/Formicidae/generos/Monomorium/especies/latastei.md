@@ -161,6 +161,12 @@ Se necesitan estudios sobre:
 
 ---
 
+> 💡 **¿Sabías que?** Fernand Lataste — en cuyo honor se nombró esta especie — fue un herpetólogo francés que vivió en Chile 20 años (1890–1910) y describió numerosos reptiles y anfibios chilenos. Es uno de los pocos naturalistas extranjeros que se radicó permanentemente en Chile para estudiar su fauna.
+
+> 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
+
+---
+
 ## Referencias
 
 - Emery, C. (1895). Descripción de *Monomorium latastei*.
