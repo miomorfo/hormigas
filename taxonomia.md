@@ -69,7 +69,7 @@ Reglas:
 **Etimología:** Del latín *formica* (hormiga) + sufijo *-inae*. La subfamilia que da nombre a toda la familia Formicidae y al ácido fórmico.
 
 - Sin aguijón — se defienden con **ácido fórmico** rociado por el acidoporo (abertura en la punta del gáster)
-- Un solo nodo peciolar
+- Solo pecíolo (sin postpecíolo)
 - Glándula metapleural ausente
 - Pupas con **capullo de seda** (las larvas lo tejen antes de pupar)
 - Géneros aquí: *Camponotus*, *Brachymyrmex*
@@ -79,7 +79,7 @@ Reglas:
 **Etimología:** Del griego *myrmex* (hormiga) + sufijo *-inae*. "Las hormigas por excelencia" — la subfamilia más diversa.
 
 - Con aguijón funcional (pueden picar)
-- Dos nodos peciolares (pecíolo + postpecíolo)
+- Pecíolo + postpecíolo (2 segmentos en la cintura)
 - La subfamilia más diversa de hormigas
 - Pupas **desnudas** (sin capullo de seda)
 - Géneros aquí: *Monomorium*, *Messor*, *Acanthomyrmex*, *Pogonomyrmex*
@@ -89,7 +89,7 @@ Reglas:
 **Etimología:** Del griego *dolichos* (largo) + *derē* (cuello) + sufijo *-inae*. "Las de cuello largo" — en referencia a la forma alargada de la unión entre el pecíolo y el gáster.
 
 - Sin aguijón funcional
-- Un solo nodo peciolar
+- Solo pecíolo (sin postpecíolo)
 - Producen secreciones defensivas químicas volátiles (terpenoides, no ácido fórmico)
 - Pupas **desnudas** (sin capullo de seda)
 - Géneros aquí: *Dorymyrmex*

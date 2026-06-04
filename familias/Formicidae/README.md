@@ -17,8 +17,8 @@ Formicidae es la única familia dentro del orden Hymenoptera que comprende a tod
 | Subfamilia | Características destacadas | Géneros documentados |
 |------------|---------------------------|----------------------|
 | [Formicinae](generos/) | Glándula metapleural ausente, ácido fórmico | Camponotus, Brachymyrmex |
-| Myrmicinae | Dos nodos peciolares, aguijón funcional | Monomorium, Messor, Acanthomyrmex, Pogonomyrmex |
-| Dolichoderinae | Un nodo peciolar, sin aguijón, ácido fórmico reducido | Dorymyrmex |
+| Myrmicinae | Pecíolo + postpecíolo, aguijón funcional | Monomorium, Messor, Acanthomyrmex, Pogonomyrmex |
+| Dolichoderinae | Solo pecíolo, sin aguijón, secreciones volátiles | Dorymyrmex |
 
 ## Géneros documentados
 

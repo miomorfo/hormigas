@@ -109,6 +109,7 @@ Orden: Hymenoptera
 - [🔧 Problemas comunes](problemas.md) — diagnóstico y soluciones: moho, ácaros, reina que no pone, escapes
 - [🧱 Materiales de nido](materiales-nido.md) — comparativa de materiales con pros, contras y recomendaciones por especie
 - [🎲 Curiosidades](curiosidades.md) — datos fascinantes sobre hormigas, récords y anécdotas
+- [🔍 Guía de identificación](identificacion.md) — clave dicotómica simplificada y kit de salida de campo
 
 ---
 

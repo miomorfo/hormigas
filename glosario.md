@@ -17,13 +17,17 @@ Términos técnicos usados en las fichas de este repositorio.
 | Término | Definición |
 |---------|-----------|
 | **Gáster** | Parte posterior del abdomen de la hormiga (segmentos abdominales posteriores al pecíolo). Contiene los órganos internos principales. |
-| **Pecíolo** | Segmento estrecho que conecta el tórax con el gáster. Puede tener uno o dos nodos según la subfamilia. |
-| **Postpecíolo** | Segundo nodo entre el pecíolo y el gáster, presente en Myrmicinae. |
+| **Pecíolo** | Primer segmento estrecho de la cintura que conecta el tórax con el gáster. Presente en todas las hormigas. |
+| **Postpecíolo** | Segundo segmento de la cintura, entre el pecíolo y el gáster. Presente solo en Myrmicinae. Su presencia o ausencia es el rasgo principal para separar subfamilias. |
 | **Propodeo** | Último segmento del tórax (mesosoma). Puede tener espinas, dientes o ángulos según la especie. |
+| **Espina propodeal** | Proyección puntiaguda que sobresale del propodeo, visible en perfil lateral. En *Dorymyrmex* es un rasgo diagnóstico del género. También llamada "diente propodeal". |
 | **Frons** | Superficie frontal de la cabeza, entre los ojos y el clípeo. |
 | **Foramen occipital** | Abertura posterior de la cabeza por donde pasa el cuello (conexión cabeza-tórax). Referencia anatómica usada para describir la posición de las setas del psamóforo. |
 | **Ferrugíneo/a** | Color rojo óxido o herrumbre. Tono rojizo-anaranjado frecuente en antenas, cabezas y tórax de varias especies. Del latín *ferrugineus* (de hierro). |
 | **Psamóforo** | "Barba" de pelos rígidos en la superficie ventral de la cabeza, usada para transportar arena o tierra durante la excavación. Presente en *Pogonomyrmex* y *Dorymyrmex*. |
+| **Nodo peciolar** | Término informal para referirse al pecíolo y/o postpecíolo vistos de perfil como protuberancias. Solo pecíolo = Formicinae/Dolichoderinae. Pecíolo + postpecíolo = Myrmicinae. |
+| **Clave dicotómica** | Sistema de identificación basado en preguntas con dos opciones (sí/no) que van descartando posibilidades hasta llegar a la especie o género. |
+| **Aspirador entomológico (pooter)** | Dispositivo de succión manual para capturar insectos pequeños sin dañarlos. Consiste en un tubo con dos mangueras: una para succionar y otra donde queda atrapado el insecto. |
 | **Clípeo** | Placa frontal de la cabeza, entre las mandíbulas y las antenas. |
 | **Escapo** | Primer segmento largo de la antena. |
 | **Flagelo** | Porción de la antena posterior al escapo, compuesta por múltiples segmentos. |
