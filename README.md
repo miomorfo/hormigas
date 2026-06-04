@@ -112,5 +112,3 @@ Orden: Hymenoptera
 - [🔍 Guía de identificación](identificacion.md) — clave dicotómica simplificada y kit de salida de campo
 
 ---
-
-© Fernando Escobar Barraza · [CC BY-NC-ND 4.0](LICENSE.md)
