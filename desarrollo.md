@@ -112,7 +112,7 @@ Tiempos aproximados en **condiciones óptimas** de temperatura. Con temperatura 
 Temp. baja (límite inferior)  → Desarrollo muy lento o detenido
 Temp. media                   → Desarrollo normal
 Temp. óptima                  → Desarrollo máximo
-Temp. alta (límite superior)  → Estrés, mortalidad de brood
+Temp. alta (límite superior)  → Estrés, mortalidad de la cría
 ```
 
 | Rango | Efecto |
@@ -121,7 +121,7 @@ Temp. alta (límite superior)  → Estrés, mortalidad de brood
 | 2–4 °C bajo el óptimo | Desarrollo lento pero normal; ciclo se alarga 30–50% |
 | Temperatura óptima | Máxima velocidad de desarrollo |
 | 2–4 °C sobre el óptimo | Estrés; mortalidad de pupas posible |
-| Muy por encima | Muerte del brood |
+| Muy por encima | Muerte de la cría |
 
 ---
 

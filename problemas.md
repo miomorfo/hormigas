@@ -123,7 +123,7 @@ Guía de diagnóstico para los problemas más frecuentes en la crianza de hormig
 
 ## Colonia que no crece
 
-**Síntomas:** Misma cantidad de obreras tras meses. Brood escaso o ausente.
+**Síntomas:** Misma cantidad de obreras tras meses. Cría escasa o ausente.
 
 **Causas:**
 - Falta de proteínas (la reina no puede producir huevos sin proteínas)

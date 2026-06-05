@@ -102,7 +102,7 @@ Términos técnicos usados en las fichas de este repositorio.
 | **Ácido fórmico** | Compuesto químico (HCOOH) producido por las Formicinae como mecanismo de defensa. Se rocía sobre enemigos. Da nombre a la familia Formicidae. |
 | **Diapausa** | Período de inactividad metabólica inducido por condiciones ambientales (frío, sequía). La reina detiene la puesta. |
 | **Hibernación** | Diapausa invernal prolongada (2–5 meses) con reducción significativa de temperatura. |
-| **Brood** | Conjunto de huevos, larvas y pupas de la colonia. |
+| **Cría** | Conjunto de huevos, larvas y pupas de la colonia. En inglés: *brood*. |
 | **Metamorfosis completa** | Ciclo huevo → larva → pupa → adulto. Todas las hormigas tienen metamorfosis completa (holometábolos). |
 | **Trofalaxis** | Intercambio de alimento líquido boca a boca entre hormigas, o de obrera a larva. Principal método de alimentación de las larvas. |
 | **Superorganismo** | Concepto que describe a la colonia como un ser vivo único donde ningún individuo puede sobrevivir solo: obreras = células, reina = aparato reproductor, soldados = sistema inmune. |

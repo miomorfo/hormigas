@@ -140,7 +140,7 @@ Tanto la **reina como los soldados** producen **huevos tróficos** — huevos no
 ## Errores comunes
 
 1. **Usar miel convencional sin certificación** → colonias tan pequeñas son extremadamente vulnerables a trazas de pesticidas. Preferir agua azucarada.
-2. **Temperatura demasiado baja** → especie tropical estricta; por debajo de 22 °C el brood se detiene.
+2. **Temperatura demasiado baja** → especie tropical estricta; por debajo de 22 °C la cría se detiene.
 3. **Exceso de comida** → genera moho rápidamente; ofrecer porciones mínimas.
 4. **Nido demasiado grande** → empezar siempre pequeño.
 5. **Humedad uniforme** → necesitan gradiente; zona de cría húmeda + zona de almacenamiento seca.

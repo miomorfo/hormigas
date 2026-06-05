@@ -93,7 +93,7 @@ Mantener la colonia en el tubo hasta que tenga **20–30 obreras** (algunas espe
 
 - Las obreras exploran activamente hasta el algodón de entrada
 - El espacio del tubo se ve saturado
-- Hay brood en desarrollo constante
+- Hay cría en desarrollo constante
 - Han pasado 2–4 meses desde las primeras obreras
 
 ---
@@ -103,7 +103,7 @@ Mantener la colonia en el tubo hasta que tenga **20–30 obreras** (algunas espe
 1. **Conectar el tubo al nido** — no forzar el traslado. Colocar el tubo abierto dentro del outworld conectado al nido
 2. **Oscurecer el nido, iluminar el tubo** — las hormigas migrarán al lugar oscuro y húmedo naturalmente
 3. **Esperar** — pueden tardar horas o días en mudarse. No forzar
-4. Una vez que la reina y el brood estén en el nido, retirar el tubo
+4. Una vez que la reina y la cría estén en el nido, retirar el tubo
 
 > **Nunca** sacudir ni soplar las hormigas fuera del tubo. El estrés puede hacer que la reina canibalice los huevos.
 

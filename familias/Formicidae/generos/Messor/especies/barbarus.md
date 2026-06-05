@@ -55,7 +55,7 @@ Especie **altamente polimorfa** con una de las variaciones de tamaño más extre
 
 ### Proteínas adicionales (opcional, 1–2 veces por semana en colonias grandes)
 - Insectos pequeños: grillos, moscas, tenebrios
-- Útil para acelerar el crecimiento del brood en colonias establecidas
+- Útil para acelerar el crecimiento de la cría en colonias establecidas
 
 ### Azúcares (opcional, 1–2 veces por semana)
 - Agua azucarada al 30% — opción principal, segura y siempre disponible
@@ -204,7 +204,7 @@ Descrita por **Carl Linnaeus** en 1767 en la duodécima edición de su *Systema 
 3. **Omitir la hibernación** → sin diapausa la reina se agota prematuramente y acorta su vida.
 4. **Temperatura demasiado baja fuera de hibernación** → ralentiza el crecimiento y la puesta.
 5. **Nido demasiado grande al inicio** → empezar con espacio proporcional a la colonia.
-6. **No ofrecer variedad de semillas** → la monotonía dietética reduce el rendimiento del brood.
+6. **No ofrecer variedad de semillas** → la monotonía dietética reduce el rendimiento de la cría.
 
 ---
 

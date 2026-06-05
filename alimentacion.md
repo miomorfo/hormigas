@@ -19,7 +19,7 @@ Las hormigas necesitan tres tipos de nutrientes:
 | Nutriente | Para quién | Función | Frecuencia |
 |-----------|-----------|---------|-----------|
 | **Azúcares** | Obreras adultas | Energía para actividad diaria | Constante o cada 2–3 días |
-| **Proteínas** | Reina y larvas | Producción de huevos y crecimiento del brood | 2–3 veces por semana |
+| **Proteínas** | Reina y larvas | Producción de huevos y crecimiento de la cría | 2–3 veces por semana |
 | **Agua** | Toda la colonia | Hidratación, regulación de humedad | Siempre disponible |
 
 > Las obreras adultas solo necesitan azúcares para su metabolismo. Las proteínas son para la reina (puesta de huevos) y las larvas (crecimiento). Sin proteínas no hay crecimiento de la colonia.
@@ -82,7 +82,7 @@ Versión mejorada con vitaminas. Mejor para colonias en crecimiento activo.
 
 ### Néctar con aminoácidos (avanzado)
 
-Para criadores que quieren maximizar la producción de brood.
+Para criadores que quieren maximizar la producción de cría.
 
 | Ingrediente | Cantidad | Dónde conseguir en Chile |
 |-------------|----------|--------------------------|
