@@ -113,6 +113,7 @@ Los nombres científicos vienen del latín y griego. No hay una pronunciación "
 | *Dorymyrmex* | do-ri-MÍR-mex | Del griego *dory* (lanza) + *myrmex* (hormiga) — "hormiga lanza" |
 | *Crematogaster* | cre-ma-to-GÁS-ter | Del griego *kremastós* (colgante) + *gastēr* (abdomen) — "abdomen colgante" |
 | *Pheidole* | fei-DO-le | Del griego *pheidōlós* (ahorrativo, frugal) |
+| *Solenopsis* | so-le-NOP-sis | Del griego *solēn* (tubo/canal) + *opsis* (aspecto) — "aspecto de tubo" (por la forma del aguijón) |
 
 ### Especies de este repositorio
 
@@ -131,6 +132,7 @@ Los nombres científicos vienen del latín y griego. No hay una pronunciación "
 | *goetschi* | GUETCH-i | En honor a Wilhelm Goetsch, zoólogo alemán que estudió hormigas de Chile |
 | *scutellaris* | es-cu-te-LA-ris | Del latín *scutellum* (escudito) — por la placa torácica visible |
 | *pallidula* | pa-LÍ-du-la | Del latín *pallidula* — "algo pálida" (color claro de las obreras) |
+| *gayi* | GA-yi | En honor a Claudio Gay, naturalista francés que realizó el primer inventario de la fauna chilena |
 
 ---
 

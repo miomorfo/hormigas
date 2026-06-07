@@ -7,7 +7,7 @@ permalink: /
 
 # 🐜 Mirmecología — Guía para Criadores
 
-![Especies](https://img.shields.io/badge/especies-14-green) ![Géneros](https://img.shields.io/badge/géneros-9-blue) ![Subfamilias](https://img.shields.io/badge/subfamilias-3-orange) ![Licencia](https://img.shields.io/badge/licencia-CC%20BY--NC--ND%204.0-lightgrey)
+![Especies](https://img.shields.io/badge/especies-15-green) ![Géneros](https://img.shields.io/badge/géneros-10-blue) ![Subfamilias](https://img.shields.io/badge/subfamilias-3-orange) ![Licencia](https://img.shields.io/badge/licencia-CC%20BY--NC--ND%204.0-lightgrey)
 
 Repositorio de referencia sobre hormigas con datos útiles para la cría en cautiverio: alimentación, polimorfismo, tamaño de colonia, temperatura, hibernación y más.
 
@@ -46,6 +46,9 @@ Orden: Hymenoptera
     │   ├── Género: Pheidole ───────────────────────────────────────────────────────────────
     │   │   └── P. pallidula     · Mediterráneo                      · ⭐ Principiante
     │   │
+    │   ├── Género: Solenopsis ─────────────────────────────────────────────────────────────
+    │   │   └── S. gayi          · Chile (Tarapacá–La Araucanía)     · ⭐⭐ Intermedio
+    │   │
     │   └── Género: Pogonomyrmex ───────────────────────────────────────────────────────────
     │        └── P. maulensis     · Chile endémica (Región del Maule) · ⭐⭐ Intermedio
     │ 
@@ -79,6 +82,7 @@ Orden: Hymenoptera
 | [*Acanthomyrmex*](familias/Formicidae/generos/Acanthomyrmex/README.md) | Sudeste Asiático | 7–9 mm | ~300 | No | (especie por determinar) |
 | [*Crematogaster scutellaris*](familias/Formicidae/generos/Crematogaster/especies/scutellaris.md) | Mediterráneo | 7–9 mm | ~20,000 | ✅ Sí | [→](familias/Formicidae/generos/Crematogaster/especies/scutellaris.md) |
 | [*Pheidole pallidula*](familias/Formicidae/generos/Pheidole/especies/pallidula.md) | Mediterráneo | 7–8 mm | ~10,000 | ✅ Sí | [→](familias/Formicidae/generos/Pheidole/especies/pallidula.md) |
+| [*Solenopsis gayi*](familias/Formicidae/generos/Solenopsis/especies/gayi.md) | Chile (Tarapacá–La Araucanía) | ~5–6 mm | ~1,000+ | Diapausa suave | [→](familias/Formicidae/generos/Solenopsis/especies/gayi.md) |
 | [*Pogonomyrmex maulensis*](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) | Chile endémica (Maule) | — | ~2,000–3,000 | ✅ Sí | [→](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) |
 
 ### Dolichoderinae

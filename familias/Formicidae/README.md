@@ -17,7 +17,7 @@ Formicidae es la única familia dentro del orden Hymenoptera que comprende a tod
 | Subfamilia | Características destacadas | Géneros documentados |
 |------------|---------------------------|----------------------|
 | [Formicinae](generos/) | Glándula metapleural ausente, ácido fórmico | Camponotus, Brachymyrmex |
-| Myrmicinae | Pecíolo + postpecíolo, aguijón funcional | Monomorium, Messor, Acanthomyrmex, Pogonomyrmex, Crematogaster, Pheidole |
+| Myrmicinae | Pecíolo + postpecíolo, aguijón funcional | Monomorium, Messor, Acanthomyrmex, Pogonomyrmex, Crematogaster, Pheidole, Solenopsis |
 | Dolichoderinae | Solo pecíolo, sin aguijón, secreciones volátiles | Dorymyrmex |
 
 ## Géneros documentados
@@ -30,4 +30,5 @@ Formicidae es la única familia dentro del orden Hymenoptera que comprende a tod
 - [Pogonomyrmex](generos/Pogonomyrmex/README.md) — Hormigas cosechadoras del Nuevo Mundo
 - [Crematogaster](generos/Crematogaster/README.md) — Hormigas acróbatas
 - [Pheidole](generos/Pheidole/README.md) — Hormigas cabezonas
+- [Solenopsis](generos/Solenopsis/README.md) — Hormigas de fuego
 - [Dorymyrmex](generos/Dorymyrmex/README.md) — Hormigas de suelo americanas

@@ -28,6 +28,7 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 | *D. goetschi* | Dolichoderinae | Chile endémica | ⭐⭐ | Omnívora | 20–26 °C | Diapausa suave | ~5,000 | Débil | [→](familias/Formicidae/generos/Dorymyrmex/especies/goetschi.md) |
 | *C. scutellaris* | Myrmicinae | Mediterráneo | ⭐ | Omnívora | 22–28 °C | ✅ Sí (mayo–ago) | ~20,000 | Monomorfa | [→](familias/Formicidae/generos/Crematogaster/especies/scutellaris.md) |
 | *P. pallidula* | Myrmicinae | Mediterráneo | ⭐ | Omnívora | 22–26 °C | ✅ Sí (mayo–ago) | ~10,000 | Dimórfico (soldados cabezones) | [→](familias/Formicidae/generos/Pheidole/especies/pallidula.md) |
+| *S. gayi* | Myrmicinae | Chile | ⭐⭐ | Omnívora | 20–26 °C | Diapausa suave | ~1,000+ | Monomorfa | [→](familias/Formicidae/generos/Solenopsis/especies/gayi.md) |
 
 ---
 
@@ -62,6 +63,7 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 - *P. maulensis*
 - *D. pogonius*
 - *D. goetschi*
+- *S. gayi*
 
 ### Colonias grandes (>2,000 obreras)
 - *C. nicobarensis* (~10,000)
