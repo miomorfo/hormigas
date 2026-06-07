@@ -180,7 +180,7 @@ Descrita por **Frederick Smith** en 1858, en su *Catalogue of hymenopterous inse
 
 1. **Usar miel convencional sin certificación** → puede contener pesticidas letales. Preferir agua azucarada como fuente de carbohidratos.
 2. **Omitir la hibernación** → sin diapausa la reina puede dejar de poner y la colonia se estanca o colapsa.
-3. **Subestimar la agresividad** → no mezclar colonias ni colocar dos colonias en el mismo outworld.
+3. **Subestimar la agresividad** → no mezclar colonias ni colocar dos colonias en el mismo área de forrajeo.
 4. **Sobrealimentar proteínas** en colonias pequeñas → genera hongos y estrés.
 5. **Confundirla con *C. chilensis*** → revisar las antenas: rojizas en *morosus*, negras con pubescencia dorada en *chilensis*.
 

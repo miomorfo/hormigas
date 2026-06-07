@@ -138,7 +138,7 @@ Descrita por **Maximilian Spinola** en 1851, dentro de la monumental obra *Histo
 | Actividad | Crepuscular/nocturna principalmente |
 | Forrajeo | Solitario o en pequeños grupos; no forma columnas densas |
 | Defensa | Mandíbulas + ácido fórmico (spray); sin aguijón |
-| Escape | Moderado — usar PTFE/fluon en bordes del outworld |
+| Escape | Moderado — usar PTFE/fluon en bordes del área de forrajeo |
 | Sensibilidad a vibraciones | Moderada |
 | Parabiosis | Convive con *Brachymyrmex giardii* en el mismo nido |
 

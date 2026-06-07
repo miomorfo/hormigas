@@ -26,6 +26,8 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 | *P. maulensis* | Myrmicinae | Chile endémica | ⭐⭐ | Semillas + insectos | 18–24 °C | ✅ Sí | ~2,000–3,000 | Débil | [→](familias/Formicidae/generos/Pogonomyrmex/especies/maulensis.md) |
 | *D. pogonius* | Dolichoderinae | Chile endémica | ⭐⭐ | Omnívora | 20–26 °C | Diapausa suave | ~5,000 | Débil | [→](familias/Formicidae/generos/Dorymyrmex/especies/pogonius.md) |
 | *D. goetschi* | Dolichoderinae | Chile endémica | ⭐⭐ | Omnívora | 20–26 °C | Diapausa suave | ~5,000 | Débil | [→](familias/Formicidae/generos/Dorymyrmex/especies/goetschi.md) |
+| *C. scutellaris* | Myrmicinae | Mediterráneo | ⭐ | Omnívora | 22–28 °C | ✅ Sí (mayo–ago) | ~20,000 | Monomorfa | [→](familias/Formicidae/generos/Crematogaster/especies/scutellaris.md) |
+| *P. pallidula* | Myrmicinae | Mediterráneo | ⭐ | Omnívora | 22–26 °C | ✅ Sí (mayo–ago) | ~10,000 | Dimórfico (soldados cabezones) | [→](familias/Formicidae/generos/Pheidole/especies/pallidula.md) |
 
 ---
 
@@ -69,6 +71,8 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 - *C. morosus* (~2,000)
 - *D. pogonius* (~5,000)
 - *D. goetschi* (~5,000)
+- *C. scutellaris* (~20,000)
+- *P. pallidula* (~10,000)
 
 ### Polimorfismo espectacular
 - *C. fedtschenkoi* (obreras translúcidas → soldados cabeza negra)
@@ -76,10 +80,13 @@ Resumen rápido de todas las especies documentadas para elegir cuál criar segú
 - *M. barbarus* (soldados cabeza roja enorme)
 - *Acanthomyrmex* sp. (cabeza 10× el volumen de la obrera)
 - *B. giardii* (obreras mieleras con gáster distendido)
+- *P. pallidula* (soldados con cabeza desproporcionadamente enorme vs obreras diminutas)
 
 ### Crecimiento rápido
 - *M. barbarus*
 - *C. nicobarensis*
+- *C. scutellaris*
+- *P. pallidula*
 
 ### Crecimiento lento
 - *C. chilensis*

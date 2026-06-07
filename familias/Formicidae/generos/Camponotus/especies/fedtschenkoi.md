@@ -94,14 +94,14 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 | Zona | Temperatura ideal | Rango tolerable |
 |------|-----------------|-----------------|
 | Nido | 24–28 °C | 20–30 °C |
-| Outworld / forrajeo | 20–30 °C | 18–32 °C |
+| Área de forrajeo / forrajeo | 20–30 °C | 18–32 °C |
 
 ### Humedad
 
 | Zona | Humedad ideal |
 |------|--------------|
 | Nido | 60–70% |
-| Outworld | 40–50% |
+| Área de forrajeo | 40–50% |
 
 > Especie de clima árido — tolera bien la sequedad. Evitar exceso de humedad que favorezca hongos.
 

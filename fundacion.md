@@ -100,7 +100,7 @@ Mantener la colonia en el tubo hasta que tenga **20–30 obreras** (algunas espe
 
 ## Paso 7 — Traslado al nido
 
-1. **Conectar el tubo al nido** — no forzar el traslado. Colocar el tubo abierto dentro del outworld conectado al nido
+1. **Conectar el tubo al nido** — no forzar el traslado. Colocar el tubo abierto dentro del área de forrajeo conectado al nido
 2. **Oscurecer el nido, iluminar el tubo** — las hormigas migrarán al lugar oscuro y húmedo naturalmente
 3. **Esperar** — pueden tardar horas o días en mudarse. No forzar
 4. Una vez que la reina y la cría estén en el nido, retirar el tubo

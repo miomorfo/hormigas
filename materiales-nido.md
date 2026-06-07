@@ -173,6 +173,6 @@ Guía para elegir el material adecuado para tu formicario según la especie, el 
 | 20–100 | Nido pequeño (~7×7 cm a 10×10 cm) | Empezar pequeño |
 | 100–500 | Nido mediano (~15×10 cm) | Expandir cuando 70–80% del espacio está ocupado |
 | 500–2,000 | Nido grande o modular | Conectar módulos adicionales según crecimiento |
-| 2,000+ | Nido grande + outworld amplio | Sistemas modulares interconectados |
+| 2,000+ | Nido grande + área de forrajeo amplio | Sistemas modulares interconectados |
 
 > **Regla:** Un nido demasiado grande para la colonia es peor que uno pequeño. Las hormigas no pueden mantener temperatura ni humedad en espacios excesivos, y las feromonas de la reina no alcanzan a todas las obreras.

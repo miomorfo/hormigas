@@ -94,7 +94,7 @@ Especie de **crecimiento rápido** comparada con *Camponotus* — una de las má
 | Zona | Temperatura ideal | Rango tolerable |
 |------|-----------------|-----------------|
 | Nido | 22–26 °C | 20–30 °C |
-| Outworld | 22–28 °C | 18–32 °C |
+| Área de forrajeo | 22–28 °C | 18–32 °C |
 
 > Especie mediterránea — tolera bien el calor. Temperaturas bajas ralentizan la puesta de la reina.
 
@@ -104,7 +104,7 @@ Especie de **crecimiento rápido** comparada con *Camponotus* — una de las má
 |------|--------------|
 | Cámara de cría | 50–60% |
 | Granero (semillas) | 10–30% — **debe estar seco** para evitar germinación |
-| Outworld | 30–50% |
+| Área de forrajeo | 30–50% |
 
 > El gradiente de humedad es clave: cámara de cría húmeda + granero seco. Los nidos con cámaras diferenciadas (Ytong, yeso) facilitan esto.
 

@@ -166,7 +166,7 @@ Descrita por **Gustav Mayr** en 1865 como parte de la obra zoológica de la expe
 | Forrajeo | En grupo, con señalización por vibraciones (golpean el gáster contra las paredes del nido) |
 | Formación de filas | Sí — forman columnas de forrajeo en colonias grandes |
 | Defensa | Mandíbulas + ácido fórmico; sin aguijón |
-| Escape | Moderado — usar PTFE/fluon en bordes del outworld |
+| Escape | Moderado — usar PTFE/fluon en bordes del área de forrajeo |
 | Sensibilidad a vibraciones | Alta — evitar golpes cerca del nido |
 
 ---

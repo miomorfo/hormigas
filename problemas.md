@@ -43,12 +43,12 @@ Guía de diagnóstico para los problemas más frecuentes en la crianza de hormig
 
 **Soluciones:**
 - Reducir humedad
-- Retirar toda la comida y limpiar el outworld
+- Retirar toda la comida y limpiar el área de forrajeo
 - Cambiar la fuente de insectos (congelar antes de ofrecer mata ácaros)
 - En casos graves: migrar la colonia a un nido limpio nuevo
 - **No usar acaricidas químicos** — son tóxicos para las hormigas
 
-**Prevención:** Congelar insectos antes de ofrecer (24 h en congelador). No sobrealimentar. Mantener el outworld limpio.
+**Prevención:** Congelar insectos antes de ofrecer (24 h en congelador). No sobrealimentar. Mantener el área de forrajeo limpio.
 
 ---
 
@@ -97,7 +97,7 @@ Guía de diagnóstico para los problemas más frecuentes en la crianza de hormig
 
 **Soluciones:**
 - Reaplicar PTFE/fluon limpiando primero la superficie con alcohol
-- Verificar todas las uniones y tapas del nido + outworld
+- Verificar todas las uniones y tapas del nido + área de forrajeo
 - Si la colonia intenta migrar: puede que el nido sea inadecuado (demasiado seco, demasiado grande, demasiado húmedo)
 
 **Prevención:** Revisar barreras semanalmente. Aplicar PTFE en una banda de al menos 3 cm de ancho.

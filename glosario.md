@@ -116,11 +116,11 @@ Términos técnicos usados en las fichas de este repositorio.
 | Término | Definición |
 |---------|-----------|
 | **Formicario / Formicarium** | Nido artificial para criar hormigas en cautiverio. |
-| **Outworld** | Área de forrajeo conectada al nido donde las hormigas buscan alimento y depositan desechos. |
+| **Área de forrajeo** | Espacio conectado al nido donde las hormigas buscan alimento y depositan desechos. En inglés: *outworld*. |
 | **Granero** | Cámara del nido dedicada al almacenamiento de semillas. Debe mantenerse seca para evitar germinación. |
 | **Gradiente de humedad** | Diferencia de humedad entre zonas del nido — zona de cría húmeda + zona de almacenamiento seca. |
 | **Matorral esclerófilo** | Tipo de vegetación mediterránea con arbustos de hojas duras. Hábitat de *C. morosus* en Chile. |
-| **PTFE / Fluon** | Politetrafluoroetileno — barrera antiescape aplicada en los bordes del outworld. Las hormigas no pueden trepar superficies tratadas con PTFE. |
+| **PTFE / Fluon** | Politetrafluoroetileno — barrera antiescape aplicada en los bordes del área de forrajeo. Las hormigas no pueden trepar superficies tratadas con PTFE. |
 | **Terpenoides** | Compuestos químicos volátiles producidos por las Dolichoderinae como mecanismo de defensa. Se acumulan en nidos cerrados sin ventilación. Diferentes al ácido fórmico de las Formicinae. |
 
 ---

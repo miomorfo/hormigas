@@ -79,7 +79,7 @@ Tanto la **reina como los soldados** producen **huevos tróficos** — huevos no
 | Zona | Temperatura ideal | Rango tolerable |
 |------|-----------------|-----------------|
 | Nido (zona de cría) | 25–29 °C | 23–30 °C |
-| Outworld | 24–28 °C | 22–30 °C |
+| Área de forrajeo | 24–28 °C | 22–30 °C |
 
 > Especie tropical estricta — no tolera temperaturas bajas. Calentar un lado del nido para crear gradiente.
 

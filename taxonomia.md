@@ -111,6 +111,8 @@ Los nombres científicos vienen del latín y griego. No hay una pronunciación "
 | *Acanthomyrmex* | a-can-to-MÍR-mex | Del griego *akantha* (espina) + *myrmex* (hormiga) — "hormiga espinosa" |
 | *Pogonomyrmex* | po-go-no-MÍR-mex | Del griego *pogon* (barba) + *myrmex* (hormiga) — "hormiga barbuda" (por el psamóforo) |
 | *Dorymyrmex* | do-ri-MÍR-mex | Del griego *dory* (lanza) + *myrmex* (hormiga) — "hormiga lanza" |
+| *Crematogaster* | cre-ma-to-GÁS-ter | Del griego *kremastós* (colgante) + *gastēr* (abdomen) — "abdomen colgante" |
+| *Pheidole* | fei-DO-le | Del griego *pheidōlós* (ahorrativo, frugal) |
 
 ### Especies de este repositorio
 
@@ -127,6 +129,8 @@ Los nombres científicos vienen del latín y griego. No hay una pronunciación "
 | *maulensis* | mau-LEN-sis | De la Región del Maule — "del Maule" |
 | *pogonius* | po-GO-nius | Del griego *pogon* — "barbudo" (por el psamóforo desarrollado) |
 | *goetschi* | GUETCH-i | En honor a Wilhelm Goetsch, zoólogo alemán que estudió hormigas de Chile |
+| *scutellaris* | es-cu-te-LA-ris | Del latín *scutellum* (escudito) — por la placa torácica visible |
+| *pallidula* | pa-LÍ-du-la | Del latín *pallidula* — "algo pálida" (color claro de las obreras) |
 
 ---
 
