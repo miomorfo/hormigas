@@ -133,7 +133,7 @@ Especie de **crecimiento explosivo** — una de las más rápidas del hobby.
 
 - **Principalmente monógina** — una reina por colonia.
 - Algunas poblaciones mediterráneas muestran tendencias **políginas** (múltiples reinas).
-- Los soldados y las obreras menores tienen repertorios de comportamiento **muy similares** a pesar de su diferencia morfológica (Loria et al., 2010).
+- Los soldados y las obreras menores tienen repertorios de comportamiento **muy similares** a pesar de su diferencia morfológica (Sempo & Detrain, 2010).
 
 ---
 
@@ -167,7 +167,7 @@ Especie de **crecimiento explosivo** — una de las más rápidas del hobby.
 ## Referencias
 
 - Nylander, W. (1849). Descripción de *Pheidole pallidula*.
-- Loria, A. et al. (2010). Social task regulation in the dimorphic ant *Pheidole pallidula*. *Journal of Insect Science*, 10(3).
+- Sempo, G. & Detrain, C. (2010). Social task regulation in the dimorphic ant *Pheidole pallidula*: the influence of caste ratio. *Journal of Insect Science*, 10(3): 1–16.
 - Ant-Shack: [P. pallidula care sheet](https://www.ant-shack.com/blogs/ant-care-sheets-1/pheidole-pallidula-pallid-ant-care-sheet)
 - Brumaants: [How to care for P. pallidula](https://brumaants.com/how-to-care-for-pheidole-pallidula)
 - AntWiki: [Pheidole pallidula](https://www.antwiki.org/wiki/Pheidole_pallidula)

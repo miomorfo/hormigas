@@ -31,11 +31,11 @@ parent: Camponotus
 
 | Casta | Tamaño | Características |
 |-------|--------|-----------------|
-| Obrera menor | 7–9 mm | Cabeza pequeña, forrajeras principales |
-| Obrera media | 10–13 mm | Intermedia, versátil |
-| Soldado (major) | 14–18 mm | Cabeza muy grande, defensa y procesado de alimento |
-| Reina | 18–22 mm | Gáster voluminoso, alas en fase nupcial |
-| Macho | 10–13 mm | Alas, antenas largas, efímero |
+| Obrera menor | 5–7 mm | Cabeza pequeña, forrajeras principales |
+| Obrera media | 7–9 mm | Intermedia, versátil |
+| Soldado (major) | 9–12 mm | Cabeza muy grande, defensa y procesado de alimento |
+| Reina | 15–16 mm | Gáster voluminoso, alas en fase nupcial |
+| Macho | 8–10 mm | Alas, antenas largas, efímero |
 
 **Coloración:** Negra con abdomen (gáster) de color rojizo-anaranjado intenso, muy llamativo. Una de las especies más vistosas del género.
 
@@ -197,7 +197,7 @@ Descrita por **Gustav Mayr** en 1865 como parte de la obra zoológica de la expe
 
 1. **Usar miel convencional sin certificación** → puede contener pesticidas letales. Preferir agua azucarada como fuente de carbohidratos.
 2. **Sobrealimentar proteínas** en colonias pequeñas → genera hongos y estrés.
-2. **Temperatura demasiado baja** → la reina deja de poner, las larvas no se desarrollan.
+3. **Temperatura demasiado baja** → la reina deja de poner, las larvas no se desarrollan.
 3. **Molestar el nido constantemente** → la reina puede canibalizar la puesta.
 4. **Nido demasiado grande al inicio** → las obreras no pueden mantener la humedad ni la temperatura.
 5. **Esperar crecimiento rápido** → *Camponotus* es lento; comparar con *Lasius* frustra al criador.

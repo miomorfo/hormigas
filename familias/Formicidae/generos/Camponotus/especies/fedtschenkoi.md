@@ -145,7 +145,7 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 
 ## Historia del descubrimiento
 
-Descrita por **Gustav Mayr** en 1877. El nombre honra a **Alexei Pavlovich Fedtschenko** (1844–1873), naturalista y explorador ruso que realizó expediciones en Asia Central (Turkestán) donde recolectó el material tipo. Fedtschenko murió a los 28 años escalando el Mont Blanc, pero su trabajo dejó numerosas especies descritas en su honor.
+Descrita por **Gustav Mayr** en 1877. El nombre honra a **Alexei Pavlovich Fedtschenko** (1844–1873), naturalista y explorador ruso que realizó expediciones en Asia Central (Turkestán) donde recolectó el material tipo. Fedtschenko murió a los 29 años en el Mont Blanc, pero su trabajo dejó numerosas especies descritas en su honor.
 
 > La especie ha generado confusión taxonómica con *C. turkestanus* desde 2001. Vendedores chinos cambiaron el nombre tres veces entre 2001 y 2019, creando caos en la comunidad de criadores.
 
@@ -201,7 +201,7 @@ Descrita por **Gustav Mayr** en 1877. El nombre honra a **Alexei Pavlovich Fedts
 
 ---
 
-> 💡 **¿Sabías que?** Las obreras menores de *C. fedtschenkoi* son tan pálidas que parecen **fantasmas translúcidos** — sus patas son prácticamente invisibles contra fondos claros. El explorador ruso Fedtschenko, en cuyo honor se nombró la especie, murió a los 28 años escalando el Mont Blanc.
+> 💡 **¿Sabías que?** Las obreras menores de *C. fedtschenkoi* son tan pálidas que parecen **fantasmas translúcidos** — sus patas son prácticamente invisibles contra fondos claros. El explorador ruso Fedtschenko, en cuyo honor se nombró la especie, murió a los 29 años en el Mont Blanc.
 
 > 📖 Los términos técnicos de esta ficha están explicados en el [Glosario](../../../../../glosario.md).
 
