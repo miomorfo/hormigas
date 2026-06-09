@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Enfermedades y parásitos
-nav_order: 12
+parent: Crianza
+grand_parent: Guías
+nav_order: 2
 ---
 
 # Enfermedades y parásitos en hormigas de crianza
