@@ -10,6 +10,15 @@ parent: Pheidole
 
 > **Hormiga cabezona pálida** · Especie mediterránea de crecimiento explosivo · Ideal para observar dimorfismo
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Perfil | ![P. pallidula perfil](../../../../../img/especies/pheidole_pallidula_profile.jpg) |
+| Cabeza | ![P. pallidula cabeza](../../../../../img/especies/pheidole_pallidula_head.jpg) |
+
+> 📷 Foto: April Nobile, from [www.AntWeb.org](https://www.antweb.org). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ---
 
 ## Clasificación

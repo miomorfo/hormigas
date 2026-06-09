@@ -10,6 +10,14 @@ parent: Camponotus
 
 > **Hormiga dorada chilena** · Especie nativa recomendada para principiantes
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Natural | ![C. chilensis](../../../../../img/especies/camponotus_chilensis.jpg) |
+
+> 📷 Foto: Asiel Olivares ([iNaturalist](https://www.inaturalist.org/observations/47543394)). [CC BY](https://creativecommons.org/licenses/by/4.0/).
+
 ---
 
 ## Clasificación

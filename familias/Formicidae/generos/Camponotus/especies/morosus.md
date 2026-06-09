@@ -10,6 +10,14 @@ parent: Camponotus
 
 > **Hormiga mora / hormigón negro** · Especie nativa muy común en Chile central
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Natural | ![C. morosus](../../../../../img/especies/camponotus_morosus_natural.jpg) |
+
+> 📷 Foto: Wikimedia Commons. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ---
 
 ## Clasificación

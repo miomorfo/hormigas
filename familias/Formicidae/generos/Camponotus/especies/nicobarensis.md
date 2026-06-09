@@ -10,6 +10,14 @@ parent: Camponotus
 
 > **Hormiga carpintera asiática** · Especie recomendada para principiantes
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Natural | ![C. nicobarensis](../../../../../img/especies/camponotus_nicobarensis_natural.jpg) |
+
+> 📷 Foto: portioid (iNaturalist). [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ---
 
 ## Clasificación

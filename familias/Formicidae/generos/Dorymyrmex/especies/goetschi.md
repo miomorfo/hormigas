@@ -10,6 +10,14 @@ parent: Dorymyrmex
 
 > **Hormiga volcán de cabeza roja** · Especie endémica de Chile · Nido con entrada en forma de volcán
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Natural | ![D. goetschi](../../../../../img/especies/dorymyrmex_goetschi.jpg) |
+
+> 📷 Foto: aacocucci ([iNaturalist](https://www.inaturalist.org/observations/54172115)). [CC BY](https://creativecommons.org/licenses/by/4.0/).
+
 ---
 
 ## Clasificación

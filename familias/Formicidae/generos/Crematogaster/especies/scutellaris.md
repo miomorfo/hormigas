@@ -10,6 +10,15 @@ parent: Crematogaster
 
 > **Hormiga acróbata europea** · Especie mediterránea con cabeza roja y gáster en forma de corazón
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Perfil | ![C. scutellaris perfil](../../../../../img/especies/crematogaster_scutellaris_profile.jpg) |
+| Cabeza | ![C. scutellaris cabeza](../../../../../img/especies/crematogaster_scutellaris_head.jpg) |
+
+> 📷 Foto: April Nobile, from [www.AntWeb.org](https://www.antweb.org). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ---
 
 ## Clasificación

@@ -10,6 +10,14 @@ parent: Camponotus
 
 > **Hormiga carpintera dorada** · Especie asiática popular por su coloración espectacular y fácil manejo
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Natural | ![C. fedtschenkoi](../../../../../img/especies/camponotus_fedtschenkoi.jpg) |
+
+> 📷 Foto: Kudaibergen Amirekul ([iNaturalist](https://www.inaturalist.org/observations/150129448)). [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ---
 
 ## Clasificación

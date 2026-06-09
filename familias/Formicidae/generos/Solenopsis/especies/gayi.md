@@ -10,6 +10,14 @@ parent: Solenopsis
 
 > **Hormiga de fuego chilena** · La única *Solenopsis* de Chile con ojos compuestos grandes · Vive en parabiosis con *Camponotus morosus*
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Natural | ![S. gayi](../../../../../img/especies/solenopsis_gayi.jpg) |
+
+> 📷 Foto: Asiel Olivares ([iNaturalist](https://www.inaturalist.org/observations/45791608)). [CC BY](https://creativecommons.org/licenses/by/4.0/).
+
 ---
 
 ## Clasificación

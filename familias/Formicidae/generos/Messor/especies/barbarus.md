@@ -10,6 +10,14 @@ parent: Messor
 
 > **Hormiga cosechadora mediterránea** · La especie granívora más popular en mirmecología, ideal para principiantes
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Natural | ![M. barbarus](../../../../../img/especies/messor_barbarus_natural.jpg) |
+
+> 📷 Foto: Wikimedia Commons. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ---
 
 ## Clasificación

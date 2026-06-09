@@ -10,6 +10,14 @@ parent: Monomorium
 
 > **Hormiga naranja endémica de Chile central** · Especie poco estudiada, distribución restringida
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Natural | ![M. latastei](../../../../../img/especies/monomorium_latastei.jpg) |
+
+> 📷 Foto: nitsuga74 ([iNaturalist](https://www.inaturalist.org/observations/171994614)). [CC BY](https://creativecommons.org/licenses/by/4.0/).
+
 ---
 
 ## Clasificación
