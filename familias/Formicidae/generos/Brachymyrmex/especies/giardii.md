@@ -53,6 +53,26 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Desconocido** — probablemente claustral (típico de Formicinae) |
+| Pleometrosis | No documentada |
+| Nanitics esperados | Desconocido — probablemente 3–5 obreras |
+| Tiempo hasta primeras obreras | Desconocido |
+| Tubo de ensayo | Pequeño (10×100 mm o 16×100 mm — hormigas diminutas) |
+| Dificultad de fundación | Media-alta — especie críptica y difícil de mantener en fase temprana |
+
+**Consejos:**
+- Especie diminuta (~1.25 mm) — usar tubos de ensayo pequeños o micro-tubos.
+- El algodón de cierre debe ser fino pero sin huecos por donde puedan escapar.
+- Ofrecer una microgota de agua azucarada por precaución (su biología de fundación no está documentada con certeza).
+- Mantener humedad moderada y temperatura 20–24 °C.
+- Mucho cuidado al manipular — son prácticamente invisibles a simple vista.
+
+---
+
 ## Alimentación
 
 - **Dieta principal:** Líquidos azucarados — puede subsistir exclusivamente con esta dieta.

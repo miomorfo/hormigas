@@ -73,6 +73,24 @@ Se ha observado también forrajeo sobre **carroña de bovino** (transportando re
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** — la reina no necesita alimento hasta las primeras obreras |
+| Pleometrosis | No — especie extremadamente agresiva entre colonias |
+| Nanitics esperados | 3–6 obreras en la primera generación |
+| Tiempo hasta primeras obreras | 6–10 semanas a 22–24 °C |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Baja — especie nativa robusta y común |
+
+**Consejos:**
+- Una de las *Camponotus* más fáciles de fundar en Chile por su abundancia y resistencia.
+- Vuelo nupcial ocurre en primavera-verano austral (octubre–enero). Las reinas se encuentran fácilmente bajo piedras o en el suelo tras los vuelos.
+- Oscuridad y quietud absolutas. Al ser una especie de temperamento agresivo, la reina es paradójicamente muy sensible al estrés durante fundación.
+
+---
+
 ## Ritmo de crecimiento
 
 | Fase | Duración aproximada | Tamaño de colonia |

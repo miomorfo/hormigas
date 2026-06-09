@@ -63,6 +63,24 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** — la reina no necesita alimento hasta las primeras obreras |
+| Pleometrosis | No documentada — fundar con una sola reina |
+| Nanitics esperados | 3–5 obreras en la primera generación |
+| Tiempo hasta primeras obreras | 6–10 semanas a 24 °C |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Baja — especie resistente y tolerante |
+
+**Consejos:**
+- Oscuridad total y sin vibraciones. La reina es robusta pero cualquier *Camponotus* responde mal a perturbaciones durante la fase claustral.
+- No alimentar hasta que emerjan las primeras obreras.
+- Las nanitics son notablemente más pequeñas que las obreras adultas y casi sin pubescencia dorada — es normal.
+
+---
+
 ## Ritmo de crecimiento
 
 | Fase | Duración aproximada | Tamaño de colonia |

@@ -53,6 +53,25 @@ Especie de tamaño pequeño, típica del género *Monomorium*. Presenta **polimo
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Probablemente claustral** (típico de Myrmicinae pequeñas) |
+| Pleometrosis | No documentada |
+| Nanitics esperados | 3–8 obreras (estimado) |
+| Tiempo hasta primeras obreras | 4–6 semanas (estimado) |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Desconocida — especie rara y poco criada |
+
+**Consejos:**
+- Especie endémica — reinas muy difíciles de obtener.
+- Asumir fundación claustral. No alimentar hasta las primeras obreras.
+- Mantener a 22–25 °C y humedad moderada (50–60%).
+- En caso de no conocer si la reina fue fecundada: ofrecer microgota de agua azucarada por precaución.
+
+---
+
 ## Alimentación
 
 Basado en el comportamiento típico del género:

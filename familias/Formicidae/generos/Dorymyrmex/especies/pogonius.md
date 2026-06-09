@@ -83,6 +83,24 @@ Descrita por **Roy R. Snelling** en 1975, como parte de su revisión exhaustiva 
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** (inferido del género) — la reina probablemente no necesita alimento |
+| Pleometrosis | No documentada |
+| Nanitics esperados | 3–5 obreras (estimado) |
+| Tiempo hasta primeras obreras | 6–10 semanas (estimado) |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Desconocida — especie poco criada |
+
+**Consejos:**
+- Al igual que *D. goetschi*, asumir fundación claustral y hábitat seco.
+- No sobrehumedecer el tubo de ensayo — usar algodón con poca agua o medir con cuidado.
+- Mantener entre 22–26 °C durante la fase de fundación.
+
+---
+
 ## Alimentación
 
 Basado en el comportamiento típico del género *Dorymyrmex* (omnívoro):

@@ -63,6 +63,25 @@ La biología de esta especie es poco conocida. Basado en el comportamiento típi
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Probablemente claustral** (típico de Myrmicinae pequeñas) |
+| Pleometrosis | No documentada |
+| Nanitics esperados | 3–8 obreras (estimado) |
+| Tiempo hasta primeras obreras | 4–6 semanas (estimado) |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Desconocida — especie rara y poco criada |
+
+**Consejos:**
+- Especie endémica de distribución restringida — las reinas son extremadamente difíciles de obtener.
+- Asumir fundación claustral. No alimentar hasta las primeras obreras.
+- Si se captura una reina, mantener a 22–24 °C en oscuridad total.
+- Ofrecer microgota de agua azucarada al 30% por precaución si no emergen obreras en 8+ semanas.
+
+---
+
 ## Ritmo de crecimiento
 
 Datos no documentados específicamente para esta especie. Estimado según el género:

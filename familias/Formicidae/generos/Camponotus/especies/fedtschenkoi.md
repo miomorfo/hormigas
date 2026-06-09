@@ -70,6 +70,25 @@ Especie **altamente polimorfa** con una de las variaciones de color más llamati
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** — la reina no necesita alimento hasta las primeras obreras |
+| Pleometrosis | No recomendada |
+| Nanitics esperados | 3–6 obreras en la primera generación |
+| Tiempo hasta primeras obreras | 4–6 semanas a 26–28 °C |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Media — sensible a vibraciones y estrés de transporte |
+
+**Consejos:**
+- **Extremadamente sensible a vibraciones.** La reina puede canibalizar toda la puesta si el tubo es movido o golpeado. Colocar en un lugar definitivo desde el primer momento.
+- Tras el envío/transporte, dejar a la reina en oscuridad total y sin tocar durante al menos 1 semana antes de revisar.
+- Temperatura óptima de fundación: 26–28 °C. No bajar de 22 °C.
+- Las primeras nanitics son casi translúcidas, extremadamente pequeñas (~4 mm) — no confundir con ácaros.
+
+---
+
 ## Ritmo de crecimiento
 
 | Fase | Duración | Tamaño de colonia |

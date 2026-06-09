@@ -61,6 +61,25 @@ parent: Camponotus
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** — la reina no necesita alimento hasta las primeras obreras |
+| Pleometrosis | No recomendada — monógina estricta |
+| Nanitics esperados | 3–8 obreras en la primera generación |
+| Tiempo hasta primeras obreras | 4–8 semanas a 26 °C |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Baja — alta tasa de éxito en cautiverio |
+
+**Consejos:**
+- Mantener a 25–27 °C para acelerar el desarrollo. Temperaturas bajo 22 °C ralentizan mucho.
+- No necesita hibernación para fundar — puede fundar en cualquier época del año.
+- Extremadamente sensible a vibraciones durante fundación: no golpear ni mover el tubo.
+- Las primeras obreras (nanitics) son diminutas (~4 mm) y muy pálidas.
+
+---
+
 ## Ritmo de crecimiento
 
 | Fase | Duración aproximada | Tamaño de colonia |

@@ -79,6 +79,25 @@ Especie **dimórfica** con diferenciación extrema entre obreras menores y solda
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral completa** — la reina no necesita alimento |
+| Pleometrosis | Documentada en la especie — monógina o polígina según población |
+| Nanitics esperados | 5–20 obreras en la primera generación |
+| Tiempo hasta primeras obreras | 3–5 semanas a 24–26 °C |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Muy baja — crecimiento explosivo desde el inicio |
+
+**Consejos:**
+- Fundación excepcionalmente fácil y rápida. Una de las mejores especies para principiantes absolutos.
+- Las primeras obreras emergen en ~3–4 semanas y el reclutamiento es agresivo desde el primer día.
+- La demanda de proteínas es alta desde el inicio — tener insectos preparados para cuando emerjan las primeras obreras.
+- Monógina en la mayoría de poblaciones. Algunas poblaciones mediterráneas aceptan múltiples reinas.
+
+---
+
 ## Ritmo de crecimiento
 
 Especie de **crecimiento explosivo** — una de las más rápidas del hobby.

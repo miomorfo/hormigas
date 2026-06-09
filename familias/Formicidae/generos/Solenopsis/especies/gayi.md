@@ -80,6 +80,25 @@ Especie de tamaño pequeño-mediano para el género, monomorfa.
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** (inferido del género) — la reina probablemente usa reservas musculares |
+| Pleometrosis | No documentada |
+| Nanitics esperados | 3–10 obreras (estimado) |
+| Tiempo hasta primeras obreras | 4–8 semanas (estimado) |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Desconocida — especie poco criada en cautiverio |
+
+**Consejos:**
+- Especie nativa que vive en parabiosis con *C. morosus*. La reina probablemente funda sola en suelo.
+- Asumir fundación claustral. No alimentar hasta las primeras obreras.
+- Mantener a 22–25 °C, humedad media (50–60%).
+- Al ser una especie que convive con *Camponotus*, una idea avanzada (no probada) sería intentar fundar junto a una colonia pequeña de *C. morosus* — pero esto no ha sido documentado y podría resultar en la muerte de la reina.
+
+---
+
 ## Ritmo de crecimiento
 
 | Fase | Duración estimada | Tamaño de colonia |

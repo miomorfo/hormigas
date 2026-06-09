@@ -79,6 +79,25 @@ Descrita por **Robert A. Johnson** en 2021, una de las hormigas chilenas más re
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** (inferido del género) — probablemente no necesita alimento |
+| Pleometrosis | No documentada |
+| Nanitics esperados | Desconocido |
+| Tiempo hasta primeras obreras | Desconocido — probablemente 6–10 semanas |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Desconocida — especie rarísima |
+
+**Consejos:**
+- Especie descrita recién en 2021 y solo conocida de dos localidades a ~2,000 m de altitud. Prácticamente imposible de obtener para crianza.
+- El género *Pogonomyrmex* suele tener fundación claustral, pero algunas especies sudamericanas pueden ser semi-claustrales. En duda, ofrecer una semilla diminuta y una microgota de agua azucarada.
+- Mantener a temperaturas frescas (18–22 °C) dado su hábitat montano.
+- **Recordar: picadura extremadamente dolorosa.** Usar pinzas para manipular.
+
+---
+
 ## Alimentación
 
 Basado en el comportamiento típico del género *Pogonomyrmex*:

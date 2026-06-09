@@ -69,6 +69,26 @@ Especie **altamente polimorfa** con una de las variaciones de tamaño más extre
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral completa** — la reina no necesita alimento |
+| Pleometrosis | No recomendada |
+| Nanitics esperados | 5–15 obreras en la primera generación |
+| Tiempo hasta primeras obreras | 3–5 semanas a 24–26 °C |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Muy baja — una de las más fáciles del hobby |
+
+**Consejos:**
+- Fundación facilísima. La reina es grande, resistente y tiene reservas musculares abundantes.
+- Las primeras obreras emergen en ~4 semanas — mucho más rápido que *Camponotus*.
+- Los primeros soldados aparecen muy pronto (30–50 obreras) — un hito emocionante.
+- Puede fundar en cualquier época si la temperatura es adecuada (22–26 °C).
+- Opcional: ofrecer una semilla de alpiste o chía el primer día (aunque no es necesaria).
+
+---
+
 ## Ritmo de crecimiento
 
 Especie de **crecimiento rápido** comparada con *Camponotus* — una de las más rápidas del hobby.

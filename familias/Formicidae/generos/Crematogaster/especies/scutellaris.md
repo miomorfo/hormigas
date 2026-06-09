@@ -77,6 +77,24 @@ Especie **monomorfa** — obreras de tamaño relativamente uniforme, sin soldado
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** — la reina no necesita alimento hasta las primeras obreras |
+| Pleometrosis | Posible — se han observado fundaciones cooperativas en *Crematogaster* |
+| Nanitics esperados | 5–15 obreras en la primera generación |
+| Tiempo hasta primeras obreras | 4–6 semanas a 24–26 °C |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Baja — alta tasa de éxito |
+
+**Consejos:**
+- Especie muy fácil de fundar. Las reinas son resilientes y toleran bien condiciones subóptimas.
+- El crecimiento inicial es notablemente rápido para una Myrmicinae — puede tener 10+ obreras en el primer mes.
+- Las reinas pueden intentar cofundar (pleometrosis temporal) — si se colocan dos reinas juntas, cooperarán hasta las primeras obreras y luego una matará a la otra. Se recomienda fundar con una sola reina.
+
+---
+
 ## Ritmo de crecimiento
 
 Especie de **crecimiento rápido** — una de las más veloces entre las Myrmicinae mediterráneas.

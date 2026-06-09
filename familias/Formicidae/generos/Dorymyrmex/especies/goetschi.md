@@ -74,6 +74,24 @@ Descrita por **Wilhelm Goetsch** en 1933. Goetsch fue un zoólogo alemán que es
 
 ---
 
+## Fundación
+
+| Dato | Valor |
+|------|-------|
+| Tipo | **Claustral** — la reina no necesita alimento hasta las primeras obreras |
+| Pleometrosis | No documentada — fundar con una sola reina |
+| Nanitics esperados | 3–5 obreras en la primera generación |
+| Tiempo hasta primeras obreras | 6–10 semanas (estimado) |
+| Tubo de ensayo | 16×150 mm estándar |
+| Dificultad de fundación | Desconocida — especie poco criada |
+
+**Consejos:**
+- Especie endémica poco disponible en el mercado. Las reinas probablemente se encuentran tras vuelos nupciales de verano.
+- Se asume fundación claustral como el resto de *Dorymyrmex* — no alimentar hasta las primeras obreras.
+- Mantener el tubo relativamente seco (sin exceso de agua) dado que es una especie de hábitats áridos.
+
+---
+
 ## Alimentación
 
 Basado en el comportamiento típico del género *Dorymyrmex* (omnívoro):
