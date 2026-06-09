@@ -122,5 +122,6 @@ Orden: Hymenoptera
 - [🧱 Materiales de nido](materiales-nido.md) — comparativa de materiales con pros, contras y recomendaciones por especie
 - [🎲 Curiosidades](curiosidades.md) — datos fascinantes sobre hormigas, récords y anécdotas
 - [🔍 Guía de identificación](identificacion.md) — clave dicotómica simplificada y kit de salida de campo
+- [🦠 Enfermedades y parásitos](enfermedades.md) — hongos, ácaros, fóridas, prevención y tratamiento
 
 ---
