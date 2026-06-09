@@ -53,6 +53,26 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Cerca de cuerpos de agua dulce (esteros, acequias, ríos), troncos en descomposición |
+| Regiones | Coquimbo a Los Lagos (lat. ~-29.8° a -40.75°) |
+| Señales del nido | Agujeros en troncos muertos o en suelo húmedo cerca de agua; sin montículo visible |
+| Mejor hora | Crepúsculo y noche — forrajean de noche principalmente |
+| Época de reinas | Primavera-verano (octubre–enero) — buscar reinas sin alas bajo piedras o caminando tras lluvia tibia |
+| Vegetación indicadora | Bosque esclerófilo, riberas con sauce, maitén, boldo |
+| Confirmación visual | Hormiga grande (8–17 mm), negra con vellos dorados brillantes en el gáster. Antenas negras (no rojizas como *C. morosus*) |
+
+**Consejos de búsqueda:**
+- Observar troncos caídos y riberas de esteros sin removerlos — las obreras forrajean de noche sobre la superficie
+- De noche con linterna: buscar obreras solitarias caminando en troncos de árboles vivos
+- Tras lluvias tibias de primavera/verano: las reinas aladas salen en vuelo nupcial y luego caminan por el suelo buscando dónde fundar — recogerlas del suelo sin intervenir el nido
+- Para obtener reina: esperar el vuelo nupcial y buscar reinas sin alas en superficies despejadas (veredas, caminos, patios)
+
+---
+
 ## Alimentación
 
 ### Proteínas (2–3 veces por semana)

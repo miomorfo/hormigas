@@ -88,6 +88,27 @@ Especie de tamaño pequeño-mediano para el género, monomorfa.
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Matorral esclerófilo, bajo piedras, en nidos mixtos con *Camponotus morosus* |
+| Regiones | Tarapacá a La Araucanía |
+| Señales del nido | Generalmente **dentro del nido de *C. morosus*** — buscar primero a la especie grande y revisar si hay hormigas pequeñas amarillas conviviendo |
+| Mejor hora | Diurna — activa durante el día |
+| Época de reinas | Desconocida con precisión; posiblemente verano (enero–marzo) |
+| Vegetación indicadora | Matorral nativo, zonas de bosque esclerófilo con piedras sueltas |
+| Confirmación visual | Hormiga pequeña (2.5–4.3 mm), amarillo-rojiza, ojos grandes para su tamaño |
+
+**Consejos de búsqueda:**
+- No buscar sola — observar colonias de *C. morosus* forrajeando y revisar si hay hormigas diminutas amarillas caminando junto a ellas
+- En superficies de piedras y troncos: las obreras de *S. gayi* forrajean en las mismas rutas que *C. morosus*
+- Si ves pulgones o cochinillas en plantas cercanas, observar si hay columnas de *S. gayi* atendiéndolos
+- Es rara — solo 6 colonias encontradas en un estudio de Chile completo (Folgarait et al., 2005)
+- Para obtener reina: esperar vuelo nupcial (fecha desconocida) — no extraer del nido
+
+---
+
 ## Fundación
 
 | Dato | Valor |

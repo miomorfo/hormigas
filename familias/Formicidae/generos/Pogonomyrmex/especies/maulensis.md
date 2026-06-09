@@ -79,6 +79,28 @@ Descrita por **Robert A. Johnson** en 2021, una de las hormigas chilenas más re
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Praderas de altura con *Stipa* sp. (Poaceae) y *Berberis* sp. disperso, suelo arenoso-rocoso |
+| Regiones | **Solo Región del Maule** — exclusivamente a 1,950–2,175 m s.n.m. junto al río Maule |
+| Señales del nido | Desconocido con certeza. Posiblemente entrada simple en suelo arenoso-rocoso, sin montículo |
+| Mejor hora | Posiblemente diurna (vuelo nupcial registrado en la tarde) |
+| Época de reinas | **Verano** — vuelo nupcial documentado el 3 de marzo |
+| Vegetación indicadora | Praderas de gramíneas (*Stipa*) con arbustos bajos de *Berberis* dispersos, altitud ~2,000 m |
+| Confirmación visual | Hormiga mediana, marrón anaranjado a rojizo. Clípeo medial notablemente más oscuro que el resto de la cabeza. Escapas y patas negro azabache |
+
+**Consejos de búsqueda:**
+- ⚠️ **Especie extremadamente rara.** Solo conocida de dos localidades junto al río Maule a ~2,000 m de altitud
+- Requiere caminata a zonas andinas de la Región del Maule
+- Buscar obreras forrajeando solitariamente en praderas de *Stipa* durante días soleados de verano — observar sin perturbar
+- **CUIDADO: picadura extremadamente dolorosa** — no manipular sin guantes
+- Si encuentras especímenes, documentar con fotos y coordenadas GPS — podría ser la tercera localidad conocida
+- **No extraer individuos de colonias** — especie con distribución puntual que podría estar amenazada
+
+---
+
 ## Fundación
 
 | Dato | Valor |

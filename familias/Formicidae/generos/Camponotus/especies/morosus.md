@@ -50,6 +50,27 @@ Especie de **gran tamaño**, una de las más grandes y comunes de Chile. Colorac
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Matorral esclerófilo, bajo piedras, troncos, suelo |
+| Regiones | Antofagasta a Magallanes — una de las hormigas más comunes y ampliamente distribuidas de Chile |
+| Señales del nido | Agujero en suelo sin montículo prominente, o en madera muerta. Sin forma característica externa |
+| Mejor hora | Crepúsculo y noche — actividad principalmente nocturna |
+| Época de reinas | Primavera-verano (octubre–enero) |
+| Vegetación indicadora | Matorral nativo: quillay, litre, peumo, boldo. También en jardines urbanos |
+| Confirmación visual | Hormiga grande (5–14 mm), negra con **antenas rojo-ferruginosas**. Sin vellos dorados (a diferencia de *C. chilensis*) |
+
+**Consejos de búsqueda:**
+- La hormiga grande más fácil de encontrar en Chile central — está en prácticamente cualquier zona con vegetación nativa
+- Observar piedras y troncos sin moverlos — las obreras salen a forrajear solas
+- De noche con linterna: forrajean solitariamente sobre el suelo y en troncos de árboles
+- Tras vuelos nupciales: buscar reinas sin alas caminando por el suelo (no es necesario excavar ni mover piedras)
+- Para obtener una reina: esperar el vuelo nupcial y recoger reinas que ya aterrizaron en superficies abiertas
+
+---
+
 ## Alimentación
 
 Especie **carroñera oportunista y omnívora**, con dieta estudiada en detalle en matorral esclerófilo (Grez et al., 1986):

@@ -83,6 +83,26 @@ Descrita por **Roy R. Snelling** en 1975, como parte de su revisión exhaustiva 
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Zonas abiertas y secas, pastizales, suelo con poca vegetación |
+| Regiones | Región Metropolitana a Región de Ñuble |
+| Señales del nido | Montículo irregular de tierra suelta en zonas abiertas sin vegetación. Similar a *D. goetschi* pero sin la forma volcánica definida |
+| Mejor hora | Probablemente diurna — género de zonas soleadas |
+| Época de reinas | Desconocida |
+| Vegetación indicadora | Pastizales secos, campos abiertos, laderas secas orientadas al norte |
+| Confirmación visual | Hormiga negra con cabeza ferrugínea (rojiza). Distinguir de *D. goetschi*: revisar setas del psamóforo (surgen por encima del foramen occipital en *D. pogonius*) |
+
+**Consejos de búsqueda:**
+- Observar terreno abierto con suelo seco y sol directo — buscar hormigas con cabeza rojiza en columnas
+- Distribución más restringida que *D. goetschi* (solo zona central: R. Metropolitana a Ñuble)
+- Los nidos tienen entradas coronadas por tierra suelta — no excavar; observar la actividad superficial
+- Para obtener reina: esperar vuelo nupcial y recoger reinas sin alas del suelo
+
+---
+
 ## Fundación
 
 | Dato | Valor |

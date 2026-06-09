@@ -82,6 +82,27 @@ Descrita por **Wilhelm Goetsch** en 1933. Goetsch fue un zoólogo alemán que es
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Zonas abiertas, secas y soleadas; nidos en suelo con entrada en forma de **volcán** (montículo cónico) |
+| Regiones | Antofagasta a La Araucanía |
+| Señales del nido | **Montículo cónico de tierra** con abertura central — visible a distancia en terreno despejado |
+| Mejor hora | Diurna — activa en días soleados y cálidos |
+| Época de reinas | Desconocida con precisión; probablemente primavera-verano |
+| Vegetación indicadora | Pastizales secos, campos abiertos sin cobertura vegetal densa, bordes de camino |
+| Confirmación visual | Hormiga negra con cabeza roja/ferrugínea. Sin aguijón. Forman columnas de forrajeo |
+
+**Consejos de búsqueda:**
+- Buscar en terreno abierto y seco — campos, bordes de senderos con suelo expuesto al sol
+- Los nidos con forma de volcán son visibles desde lejos — observar sin perturbar
+- Activas durante el día con sol — seguir columnas de forrajeo para localizar el nido
+- No pican (Dolichoderinae sin aguijón) pero secretan sustancias con olor
+- Para obtener reina: esperar vuelo nupcial y recoger reinas sin alas del suelo
+
+---
+
 ## Fundación
 
 | Dato | Valor |

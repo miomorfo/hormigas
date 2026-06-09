@@ -63,6 +63,27 @@ La biología de esta especie es poco conocida. Basado en el comportamiento típi
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Suelo bajo piedras, zonas de Chile mediterráneo central |
+| Regiones | Valparaíso a O'Higgins (distribución muy restringida) |
+| Señales del nido | Bajo piedras — sin estructura externa visible |
+| Mejor hora | Probablemente diurna |
+| Época de reinas | Desconocida |
+| Vegetación indicadora | Matorral esclerófilo costero e interior |
+| Confirmación visual | Hormiga pequeña con **cabeza y gáster marrón oscuro/negro + tórax naranja** (tricolor). Propodeo redondeado sin proyecciones |
+
+**Consejos de búsqueda:**
+- Distribución extremadamente restringida: solo entre Valparaíso y O'Higgins
+- Observar superficie del suelo en zonas de matorral seco — buscar hormigas pequeñas con coloración tricolor
+- Coloración tricolor (negro–naranja–negro) es diagnóstica — única entre hormigas pequeñas chilenas
+- Distinguir de *M. latastei*: en *cekalovici* la cabeza es oscura (mismo color que gáster); en *latastei* la cabeza es naranja
+- Para obtener reina: esperar vuelo nupcial — no extraer de colonias existentes (especie endémica rara)
+
+---
+
 ## Fundación
 
 | Dato | Valor |

@@ -73,6 +73,26 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Barrancadas de suelo arcilloso y arenoso con vegetación escasa |
+| Regiones | Coquimbo a Los Lagos |
+| Señales del nido | Galerías diminutas en suelo arcilloso, cámaras de 3 cm de alto a hasta 50 cm de profundidad. Entradas casi invisibles |
+| Mejor hora | Día y noche — actividad constante pero críptica |
+| Época de reinas | Desconocida |
+| Vegetación indicadora | Zonas con suelo expuesto, taludes de tierra arcillosa, barrancos |
+| Confirmación visual | Diminuta (~1.25 mm), marrón clara. Las "mieleras" con gáster distendido son diagnósticas si se observan en cautiverio |
+
+**Consejos de búsqueda:**
+- Observar superficie de suelo arcilloso en barrancos — buscar entradas diminutas sin remover tierra
+- Frecuentemente vive junto a *C. chilensis* o *C. morosus* — observar si hay hormiguitas diminutas marrones en las rutas de forrajeo de esas especies
+- Son TAN pequeñas que pueden confundirse con ácaros o colémbolos a simple vista. Usar lupa de campo
+- Para obtener reina: no extraer del nido. Esperar vuelo nupcial o buscar reinas caminando en superficies abiertas
+
+---
+
 ## Alimentación
 
 - **Dieta principal:** Líquidos azucarados — puede subsistir exclusivamente con esta dieta.

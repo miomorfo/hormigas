@@ -61,6 +61,26 @@ Especie de tamaño pequeño, típica del género *Monomorium*. Presenta **polimo
 
 ---
 
+## Cómo encontrarla en terreno
+
+| Dato | Detalle |
+|------|---------|
+| Hábitat | Suelo bajo piedras, zonas de Chile mediterráneo central |
+| Regiones | Región Metropolitana a La Araucanía |
+| Señales del nido | Bajo piedras en suelo — sin estructura externa visible |
+| Mejor hora | Probablemente diurna |
+| Época de reinas | Desconocida |
+| Vegetación indicadora | Matorral esclerófilo, bosque esclerófilo costero |
+| Confirmación visual | Hormiga pequeña **naranja brillante con gáster negro** (bicolor muy distintiva). Propodeo con proyecciones triangulares (lupa) |
+
+**Consejos de búsqueda:**
+- Observar superficies de piedras en zonas de matorral esclerófilo — la coloración naranja brillante la hace inconfundible
+- Distribución más amplia que *M. cekalovici* — buscar desde Santiago hasta La Araucanía
+- Distinguir de *M. cekalovici*: en *latastei* la cabeza es naranja (mismo color que tórax); en *cekalovici* la cabeza es oscura
+- Para obtener reina: esperar vuelo nupcial y buscar reinas sin alas caminando en superficies abiertas — no perturbar colonias
+
+---
+
 ## Fundación
 
 | Dato | Valor |
