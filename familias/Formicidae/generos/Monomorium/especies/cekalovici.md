@@ -80,6 +80,12 @@ La biología de esta especie es poco conocida. Basado en el comportamiento típi
 | Señales del nido | Bajo piedras — sin estructura externa visible |
 | Mejor hora | Probablemente diurna |
 | Época de reinas | Desconocida |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+ ?     ?     ?     ?     ?     ?     ?     ?     ?     ?     ?     ?
+```
 | Vegetación indicadora | Matorral esclerófilo costero e interior |
 | Confirmación visual | Hormiga pequeña con **cabeza y gáster marrón oscuro/negro + tórax naranja** (tricolor). Propodeo redondeado sin proyecciones |
 

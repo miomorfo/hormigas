@@ -90,6 +90,12 @@ Las obreras **fisiogástricas** o "repletas" son uno de los rasgos más llamativ
 | Señales del nido | Galerías diminutas en suelo arcilloso, cámaras de 3 cm de alto a hasta 50 cm de profundidad. Entradas casi invisibles |
 | Mejor hora | Día y noche — actividad constante pero críptica |
 | Época de reinas | Desconocida |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+ ?     ?     ?     ?     ?     ?     ?     ?     ?     ?     ?     ?
+```
 | Vegetación indicadora | Zonas con suelo expuesto, taludes de tierra arcillosa, barrancos |
 | Confirmación visual | Diminuta (~1.25 mm), marrón clara. Las "mieleras" con gáster distendido son diagnósticas si se observan en cautiverio |
 

@@ -96,6 +96,12 @@ Descrita por **Robert A. Johnson** en 2021, una de las hormigas chilenas más re
 | Señales del nido | Desconocido con certeza. Posiblemente entrada simple en suelo arenoso-rocoso, sin montículo |
 | Mejor hora | Posiblemente diurna (vuelo nupcial registrado en la tarde) |
 | Época de reinas | **Verano** — vuelo nupcial documentado el 3 de marzo |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+🐜    🐜    🐜
+```
 | Vegetación indicadora | Praderas de gramíneas (*Stipa*) con arbustos bajos de *Berberis* dispersos, altitud ~2,000 m |
 | Confirmación visual | Hormiga mediana, marrón anaranjado a rojizo. Clípeo medial notablemente más oscuro que el resto de la cabeza. Escapas y patas negro azabache |
 

@@ -91,6 +91,12 @@ Descrita por **Wilhelm Goetsch** en 1933. Goetsch fue un zoólogo alemán que es
 | Señales del nido | **Montículo cónico de tierra** con abertura central — visible a distancia en terreno despejado |
 | Mejor hora | Diurna — activa en días soleados y cálidos |
 | Época de reinas | Desconocida con precisión; probablemente primavera-verano |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+                                                🐜?   🐜?   🐜?   🐜?
+```
 | Vegetación indicadora | Pastizales secos, campos abiertos sin cobertura vegetal densa, bordes de camino |
 | Confirmación visual | Hormiga negra con cabeza roja/ferrugínea. Sin aguijón. Forman columnas de forrajeo |
 

@@ -70,6 +70,12 @@ Especie de tamaño pequeño, típica del género *Monomorium*. Presenta **polimo
 | Señales del nido | Bajo piedras en suelo — sin estructura externa visible |
 | Mejor hora | Probablemente diurna |
 | Época de reinas | Desconocida |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+ ?     ?     ?     ?     ?     ?     ?     ?     ?     ?     ?     ?
+```
 | Vegetación indicadora | Matorral esclerófilo, bosque esclerófilo costero |
 | Confirmación visual | Hormiga pequeña **naranja brillante con gáster negro** (bicolor muy distintiva). Propodeo con proyecciones triangulares (lupa) |
 

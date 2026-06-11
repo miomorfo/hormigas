@@ -97,6 +97,12 @@ Especie de tamaño pequeño-mediano para el género, monomorfa.
 | Señales del nido | Generalmente **dentro del nido de *C. morosus*** — buscar primero a la especie grande y revisar si hay hormigas pequeñas amarillas conviviendo |
 | Mejor hora | Diurna — activa durante el día |
 | Época de reinas | Desconocida con precisión; posiblemente verano (enero–marzo) |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+🐜    🐜    🐜
+```
 | Vegetación indicadora | Matorral nativo, zonas de bosque esclerófilo con piedras sueltas |
 | Confirmación visual | Hormiga pequeña (2.5–4.3 mm), amarillo-rojiza, ojos grandes para su tamaño |
 

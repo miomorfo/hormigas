@@ -59,6 +59,12 @@ Especie de **gran tamaño**, una de las más grandes y comunes de Chile. Colorac
 | Señales del nido | Agujero en suelo sin montículo prominente, o en madera muerta. Sin forma característica externa |
 | Mejor hora | Crepúsculo y noche — actividad principalmente nocturna |
 | Época de reinas | Primavera-verano (octubre–enero) |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+                                                🐜    🐜    🐜    🐜
+```
 | Vegetación indicadora | Matorral nativo: quillay, litre, peumo, boldo. También en jardines urbanos |
 | Confirmación visual | Hormiga grande (5–14 mm), negra con **antenas rojo-ferruginosas**. Sin vellos dorados (a diferencia de *C. chilensis*) |
 

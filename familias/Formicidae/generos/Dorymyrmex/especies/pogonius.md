@@ -100,6 +100,12 @@ Descrita por **Roy R. Snelling** en 1975, como parte de su revisión exhaustiva 
 | Señales del nido | Montículo irregular de tierra suelta en zonas abiertas sin vegetación. Similar a *D. goetschi* pero sin la forma volcánica definida |
 | Mejor hora | Probablemente diurna — género de zonas soleadas |
 | Época de reinas | Desconocida |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+ ?     ?     ?     ?     ?     ?     ?     ?     ?     ?     ?     ?
+```
 | Vegetación indicadora | Pastizales secos, campos abiertos, laderas secas orientadas al norte |
 | Confirmación visual | Hormiga negra con cabeza ferrugínea (rojiza). Distinguir de *D. goetschi*: revisar setas del psamóforo (surgen por encima del foramen occipital en *D. pogonius*) |
 

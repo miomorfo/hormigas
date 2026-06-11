@@ -62,6 +62,12 @@ Hormiga de **gran tamaño**, coloración negra con llamativos **vellos dorados e
 | Señales del nido | Agujeros en troncos muertos o en suelo húmedo cerca de agua; sin montículo visible |
 | Mejor hora | Crepúsculo y noche — forrajean de noche principalmente |
 | Época de reinas | Primavera-verano (octubre–enero) — buscar reinas sin alas bajo piedras o caminando tras lluvia tibia |
+
+```
+Ene · Feb · Mar · Abr · May · Jun · Jul · Ago · Sep · Oct · Nov · Dic
+──────────────────────────────────────────────────────────────────────
+                                                🐜    🐜    🐜    🐜
+```
 | Vegetación indicadora | Bosque esclerófilo, riberas con sauce, maitén, boldo |
 | Confirmación visual | Hormiga grande (8–17 mm), negra con vellos dorados brillantes en el gáster. Antenas negras (no rojizas como *C. morosus*) |
 

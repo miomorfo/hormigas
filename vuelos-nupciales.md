@@ -102,24 +102,24 @@ El género *Pogonomyrmex* en Chile vuela principalmente durante **enero–marzo*
 
 ---
 
-## Resumen visual — Calendario mensual
+## Resumen visual — Calendario de vuelos
 
-| Mes | Géneros con vuelo nupcial |
-|-----|--------------------------|
-| Enero | *Pogonomyrmex* (santschii, wolfi, atacama) |
-| Febrero | *Pogonomyrmex* (pichachen, wolfi, vermiculatus), *Solenopsis* |
-| Marzo | *Pogonomyrmex* (maulensis, bispinosus, semistriata, vermiculatus), *Camponotus* (otoño) |
-| Abril | *Pogonomyrmex* (semistriata), *Camponotus* (otoño) |
-| Mayo | — (invierno, sin registros) |
-| Junio | — |
-| Julio | — |
-| Agosto | — |
-| Septiembre | *Camponotus* (primavera), *Dorymyrmex* |
-| Octubre | *Camponotus* (primavera), *Dorymyrmex* |
-| Noviembre | *Camponotus* (primavera), *Dorymyrmex* |
-| Diciembre | *Camponotus* (primavera), *Pogonomyrmex* (araucania) |
+```
+                      Ene  Feb  Mar  Abr  May  Jun  Jul  Ago  Sep  Oct  Nov  Dic
+                      ─────────────────────────────────────────────────────────────
+C. chilensis           ·    ·   🐜   🐜   🐜    ·    ·    ·   🐜   🐜   🐜    ·
+C. morosus             ·    ·    ·    ·    ·    ·    ·    ·   🐜   🐜   🐜   🐜
+B. giardii             ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+D. goetschi            ·    ·    ·    ·    ·    ·    ·    ·    ·   🐜?  🐜?  🐜?
+D. pogonius            ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+M. cekalovici          ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+M. latastei            ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?    ?
+P. maulensis           ·    ·   🐜    ·    ·    ·    ·    ·    ·    ·    ·    ·
+S. gayi               🐜?  🐜?  🐜?   ·    ·    ·    ·    ·    ·    ·    ·    ·
+                      ─────────────────────────────────────────────────────────────
+```
 
-> ⚠️ **Nota:** Estas fechas son aproximadas y basadas en registros puntuales. El vuelo nupcial depende de condiciones climáticas locales (lluvia + calor) y puede variar cada año. Salir después de una lluvia seguida de un día cálido y sin viento es la mejor estrategia.
+> 🐜 = vuelo confirmado · 🐜? = estimado · ? = desconocido
 
 ---
 
