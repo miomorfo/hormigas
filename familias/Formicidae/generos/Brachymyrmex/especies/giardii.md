@@ -10,6 +10,14 @@ parent: Brachymyrmex
 
 > **Hormiga mielera chilena** · Especie nativa con obreras "repletas" almacenadoras de líquido
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Espécimen | ![B. giardii](../../../../../img/especies/brachiymyrmex_giardi.jpg) |
+
+> 📷 Foto: Claudia Ortiz, California Academy of Sciences / [AntWeb.org](https://www.antweb.org). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ---
 
 ## Clasificación

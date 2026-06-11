@@ -10,6 +10,14 @@ parent: Pogonomyrmex
 
 > **Hormiga cosechadora del Maule** · Especie endémica de Chile · Descrita en 2021 · Muy poco documentada
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Espécimen | ![P. maulensis](../../../../../img/especies/Pogonomyrmex_maulensis.jpg) |
+
+> 📷 Foto: Michele Esposito, California Academy of Sciences / [AntWeb.org](https://www.antweb.org). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ---
 
 ## Clasificación

@@ -10,6 +10,14 @@ parent: Monomorium
 
 > **Hormiga endémica de Chile central** · Especie poco estudiada, distribución restringida
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Espécimen | ![M. cekalovici](../../../../../img/especies/Monomorium_cekalovici.jpg) |
+
+> 📷 Foto: Will Ericson, California Academy of Sciences / [AntWeb.org](https://www.antweb.org). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ---
 
 ## Clasificación

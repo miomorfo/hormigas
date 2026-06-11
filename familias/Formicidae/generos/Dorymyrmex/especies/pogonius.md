@@ -10,6 +10,14 @@ parent: Dorymyrmex
 
 > **Hormiga de suelo endémica de Chile central** · Especie poco estudiada · Sin aguijón
 
+## Fotografías
+
+| Vista | Imagen |
+|-------|--------|
+| Espécimen | ![D. pogonius](../../../../../img/especies/dorymyxmex_pogonius.jpg) |
+
+> 📷 Foto: Jill Oberski / [AntWeb.org](https://www.antweb.org). [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
 ---
 
 ## Clasificación

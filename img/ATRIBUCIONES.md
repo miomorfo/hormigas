@@ -17,6 +17,10 @@ nav_exclude: true
 | messor_barbarus_natural.jpg | *Messor barbarus* | — | Wikimedia user |
 | camponotus_morosus_natural.jpg | *Camponotus morosus* | — | Wikimedia user |
 | camponotus_nicobarensis_natural.jpg | *Camponotus nicobarensis* | — | portioid (iNaturalist) |
+| brachiymyrmex_giardi.jpg | *Brachymyrmex giardii* | — | Claudia Ortiz |
+| dorymyxmex_pogonius.jpg | *Dorymyrmex pogonius* | — | Jill Oberski |
+| Monomorium_cekalovici.jpg | *Monomorium cekalovici* | — | Will Ericson |
+| Pogonomyrmex_maulensis.jpg | *Pogonomyrmex maulensis* | — | Michele Esposito |
 
 ## iNaturalist — CC BY / CC BY-SA
 
