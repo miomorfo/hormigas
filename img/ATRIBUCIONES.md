@@ -21,6 +21,12 @@ nav_exclude: true
 | dorymyxmex_pogonius.jpg | *Dorymyrmex pogonius* | — | Jill Oberski |
 | Monomorium_cekalovici.jpg | *Monomorium cekalovici* | — | Will Ericson |
 | Pogonomyrmex_maulensis.jpg | *Pogonomyrmex maulensis* | — | Michele Esposito |
+| trofobiosis_hormigas_pulgones.jpg | Trofobiosis (hormigas + pulgones) | — | Wikimedia user |
+| trofobiosis_cc0.jpg | Trofobiosis | — | Wikimedia user (CC0) |
+| messor_cosechando_semillas.jpg | *Messor pergandei* cosechando | — | Wikimedia user |
+| hormiga_bebiendo_agua.jpg | Hormiga bebiendo agua | — | Wikimedia user |
+| hormigas_cargando_presa.jpg | Transporte cooperativo de presa | — | Wikimedia user |
+| hormiga_ciclo_vida_larvas.jpg | Ciclo de vida / larvas | — | Wikimedia user |
 
 ## iNaturalist — CC BY / CC BY-SA
 

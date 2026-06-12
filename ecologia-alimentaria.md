@@ -204,6 +204,115 @@ La miel convencional puede contener residuos de **neonicotinoides** (insecticida
 
 ---
 
+## 6. Necrofagia y coprofagia: fuentes alternativas de nitrógeno
+
+No todas las hormigas cazan. *Camponotus morosus* obtiene el **36% de su dieta de excrementos de aves y reptiles** — una estrategia poco glamorosa pero extremadamente eficiente.
+
+### ¿Por qué comer excrementos?
+
+Los excrementos de aves contienen **ácido úrico** — un compuesto rico en nitrógeno que las hormigas pueden metabolizar (posiblemente con ayuda de bacterias intestinales simbiontes) para sintetizar aminoácidos. Es nitrógeno "gratis" sin necesidad de cazar.
+
+| Fuente de nitrógeno | Esfuerzo de obtención | Riesgo |
+|---------------------|----------------------|--------|
+| Insecto vivo (caza) | Alto — perseguir, matar, transportar | Heridas, pérdida de obreras |
+| Insecto muerto (carroña) | Bajo — solo transportar | Competencia con otros carroñeros |
+| Excremento de ave | Muy bajo — abundante y sin defensa | Ninguno |
+
+*C. morosus* también forrajea sobre **carroña de bovinos**, extrayendo pupas de moscas cadavéricas, pelo y piel — todo rico en proteínas.
+
+---
+
+## 7. Cómo beben agua las hormigas
+
+![Hormiga bebiendo agua](img/especies/hormiga_bebiendo_agua.jpg)
+
+> 📷 Foto: Wikimedia Commons. [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+
+El agua es tan esencial como el alimento, pero su distribución dentro de la colonia es menos obvia.
+
+### Mecanismo
+
+1. La obrera se acerca a la fuente de agua y extiende su **glosa** (lengua) para absorber el líquido
+2. El agua se almacena en el **buche social** — el mismo órgano usado para compartir alimento líquido
+3. De vuelta al nido, la obrera distribuye agua a:
+   - Otras obreras (por trofalaxia)
+   - Larvas (que no pueden hidratarse por sí mismas)
+   - La reina
+4. También humedecen las paredes del nido para regular la humedad de las cámaras de cría
+
+### ¿Por qué es crítica?
+
+Las larvas son completamente dependientes de las obreras para hidratarse. Un nido sin agua mata a la cría antes que a las adultas. Por eso en cautiverio el **algodón húmedo** o el bebedero deben estar siempre disponibles — es lo primero que buscan las obreras al explorar.
+
+---
+
+## 8. Alimentación larval vs. adulta
+
+![Ciclo de vida y larvas](img/especies/hormiga_ciclo_vida_larvas.jpg)
+
+> 📷 Foto: Wikimedia Commons. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+Una de las diferencias más fundamentales y menos intuitivas:
+
+| Aspecto | Larvas | Obreras adultas |
+|---------|--------|-----------------|
+| ¿Comen sólidos? | **Sí** — son las únicas que mastican | No — solo líquidos |
+| Fuente de proteínas | Trozos de insecto, pan de hormiga | No necesitan (ya no crecen) |
+| Fuente de energía | Líquidos + sólidos | Solo azúcares líquidos |
+| Función digestiva | Digieren sólidos y devuelven líquidos a obreras | Solo procesan líquidos del buche |
+
+Las larvas funcionan como el "estómago colectivo" de la colonia. Las obreras les dan trozos de insecto y las larvas los digieren, produciendo secreciones líquidas que las obreras recogen y distribuyen. Es un sistema digestivo distribuido.
+
+---
+
+## 9. Control de hongos en el granero
+
+Las *Messor* han desarrollado comportamientos activos para evitar que su despensa se arruine:
+
+### El problema
+Semillas + humedad = **germinación → hongos → colapso del granero**
+
+### La solución
+
+| Comportamiento | Descripción |
+|---------------|-------------|
+| **Secado solar** | Las obreras sacan semillas húmedas al exterior y las exponen al sol durante horas. Las reintroducen una vez secas |
+| **Descarte** | Semillas germinadas se llevan al basurero — nunca se reintroducen al granero |
+| **Separación de cámaras** | Granero seco (10–30% humedad) separado de cámara de cría húmeda (50–60%) |
+| **Ventilación activa** | Las obreras abren o cierran entradas al nido para regular flujo de aire |
+
+Este comportamiento es análogo a la agricultura humana: secado, almacenamiento diferenciado y descarte de grano contaminado. Las *Messor* lo hacen instintivamente desde hace millones de años.
+
+---
+
+## 10. La caza cooperativa
+
+![Hormigas cargando presa](img/especies/hormigas_cargando_presa.jpg)
+
+> 📷 Foto: Wikimedia Commons — hormigas carpinteras transportando una abeja. [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+
+### Forrajeo solitario vs. reclutamiento masivo
+
+| Característica | Solitario | Cooperativo |
+|----------------|-----------|-------------|
+| Especies | *C. morosus*, *C. chilensis* | *P. pallidula*, *C. scutellaris* |
+| Presa típica | Insecto pequeño, carroña | Insectos grandes, presas vivas |
+| Comunicación | Ninguna — cada obrera va por su cuenta | Feromona de rastro + reclutamiento |
+| Velocidad | Lenta pero constante | Explosiva — cientos de obreras en minutos |
+| Ventaja | Bajo costo energético | Puede dominar presas mucho mayores |
+
+### Cómo funciona el reclutamiento
+
+1. Una exploradora encuentra alimento
+2. Regresa al nido depositando **feromona de rastro** con la punta del gáster
+3. En el nido, realiza movimientos excitados que alertan a las demás
+4. Decenas/cientos de obreras siguen el rastro químico hasta la fuente
+5. Si la presa es grande, la inmovilizan entre muchas y la transportan cooperativamente
+
+*Pheidole pallidula* es capaz de reclutar **cientos de obreras en menos de 5 minutos** hacia una fuente de alimento — uno de los reclutamientos más rápidos documentados en hormigas mediterráneas.
+
+---
+
 ## Referencias
 
 - Völkl, W. et al. (1999). Ant-aphid mutualisms: the impact of honeydew production and honeydew sugar composition on ant preferences. *Oecologia*, 118: 483–491.

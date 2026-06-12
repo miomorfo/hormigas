@@ -123,6 +123,10 @@ Términos técnicos usados en las fichas de este repositorio.
 | **Endospermo** | Tejido nutritivo interno de la semilla, rico en almidón y proteínas. Es lo que las hormigas granívoras aprovechan tras triturar la cáscara. |
 | **Testa** | Cáscara externa protectora de la semilla. Los soldados de *Messor* la trituran con sus mandíbulas para acceder al endospermo. |
 | **Pan de hormiga** | Pasta húmeda producida por hormigas granívoras al triturar el endospermo de semillas y mezclarlo con saliva (enzimas). Alimento procesado que se da a las larvas. |
+| **Glosa** | "Lengua" de la hormiga — estructura bucal usada para absorber líquidos (agua, mielada, néctar). |
+| **Amilasa** | Enzima presente en la saliva de las hormigas granívoras que convierte el almidón de las semillas en azúcares simples (digestión externa). |
+| **Necrofagia** | Alimentación a partir de cadáveres de otros animales. *Camponotus morosus* es principalmente necrófaga. |
+| **Coprofagia** | Alimentación a partir de excrementos. *C. morosus* consume excrementos de aves como fuente de nitrógeno. |
 | **Gradiente de humedad** | Diferencia de humedad entre zonas del nido — zona de cría húmeda + zona de almacenamiento seca. |
 | **Matorral esclerófilo** | Tipo de vegetación mediterránea con arbustos de hojas duras. Hábitat de *C. morosus* en Chile. |
 | **PTFE / Fluon** | Politetrafluoroetileno — barrera antiescape aplicada en los bordes del área de forrajeo. Las hormigas no pueden trepar superficies tratadas con PTFE. |
